@@ -1,0 +1,1001 @@
+﻿Agencia_ID;Descricao_Agencia;Cidade;UF;Logradouro;Bairro;Longitude;Latitude;Tipo_Operacao;Cliente_ID;Perfil_Cliente;Sexo_Cliente;Idade_Cliente;Data_Hora_Transacao;Valor_Transacao;Avaliacao_Cliente
+1001;Gomes Ribeiro S/A;Rio de Janeiro;SP;Rodovia de Jesus;Lagoinha Leblon;-44,163171;-23,436148;Pagamento;21999;Gold;Masculino;50;19/04/2022 06:34;3626,54;4
+1003;da Costa - ME;São Paulo;SP;Praia Cardoso;Novo São Lucas;-43,980083;-23,230722;Débito;30073;Standard;Feminino;68;19/08/2023 10:37;361,77;4
+1003;Gonçalves S.A.;Belo Horizonte;SP;Lago Pietra Costa;São Cristóvão;-46,208576;-21,003958;Débito;89775;Gold;Masculino;47;10/08/2021 14:21;2009,2;5
+1003;Viana;São Paulo;MG;Trevo João Miguel Barbosa;Vila De Sá;-44,188058;-22,360593;Transferência;88106;Gold;Feminino;63;14/11/2021 13:36;3723,94;2
+1003;Gonçalves;Rio de Janeiro;RJ;Chácara João Lucas Cavalcanti;Itapoa;-46,421234;-22,816644;Débito;42347;Premium;Masculino;65;14/12/2020 11:09;7898,05;5
+1005;Peixoto;São Paulo;MG;Trecho Elisa Lima;Teixeira Dias;-46,287174;-21,778502;Débito;93026;Standard;Feminino;61;08/02/2024 00:06;2408,75;1
+1006;Cunha;Rio de Janeiro;RJ;Viaduto Rafaela Freitas;Santa Amelia;-44,128856;-20,300452;Transferência;99144;Standard;Feminino;62;04/02/2024 04:32;769,31;4
+1006;Jesus;Belo Horizonte;SP;Parque Vitor Caldeira;Conjunto Jardim Filadélfia;-46,293468;-23,587657;Transferência;93935;Standard;Feminino;64;30/01/2021 13:43;9017,19;2
+1007;Lima;Belo Horizonte;MG;Setor Esther Campos;Boa Viagem;-46,496999;-23,490784;Crédito;30425;Standard;Masculino;48;10/03/2024 21:07;6528,71;5
+1007;da Cruz Ltda.;São Paulo;MG;Setor Nicolas Pinto;Coração Eucarístico;-45,96256;-21,703642;Débito;61467;Standard;Feminino;54;07/01/2020 00:05;8506,59;2
+1008;Carvalho Ltda.;Vitória;RJ;Jardim Porto;Lindéia;-43,826975;-21,718096;Transferência;10553;Premium;Feminino;52;16/02/2024 09:48;768,72;1
+1009;Teixeira - ME;São Paulo;SP;Alameda Lívia Silveira;Cachoeirinha;-44,573503;-20,536114;Transferência;40950;Gold;Feminino;65;05/09/2020 20:07;3696,45;3
+1013;Sales e Filhos;Belo Horizonte;SP;Rodovia de da Paz;Novo Aarão Reis;-46,411789;-21,99572;Crédito;42439;Standard;Masculino;61;25/04/2022 20:37;1177,48;4
+1015;Costa Oliveira - ME;Vitória;MG;Alameda Pedro Lucas Cunha;Bonfim;-45,949696;-20,396248;Transferência;48487;Premium;Masculino;64;03/05/2023 00:38;7193,53;2
+1016;Rodrigues S.A.;Rio de Janeiro;SP;Ladeira da Cruz;Vila Jardim Montanhes;-45,855726;-21,358456;Débito;17696;Premium;Feminino;18;26/07/2021 04:35;1341,48;1
+1017;da Rosa;São Paulo;RJ;Viela Anthony Barros;São Francisco Das Chagas;-46,100318;-21,109585;Débito;78286;Gold;Masculino;27;05/08/2020 23:46;3789,74;5
+1020;Azevedo S/A;Belo Horizonte;SP;Largo Correia;Vila Boa Vista;-46,632858;-22,334966;Débito;73973;Premium;Masculino;54;10/10/2020 16:46;587,4;4
+1020;Castro Gonçalves - ME;São Paulo;SP;Loteamento Bianca Castro;Vila Havaí;-44,998115;-21,399725;Transferência;66905;Standard;Masculino;;03/08/2020 09:12;3709,05;2
+1020;Vieira;São Paulo;ES;Sítio Levi Barbosa;Ouro Preto;-46,499075;-21,323968;Transferência;14695;Premium;Feminino;62;06/03/2020 01:28;6901,44;4
+1020;Aragão Ltda.;Belo Horizonte;ES;Quadra de Correia;São Bernardo;-44,706522;-22,619871;Pagamento;47827;Gold;Masculino;46;03/03/2020 01:08;6999,97;3
+1025;da Rocha da Rocha - ME;Belo Horizonte;SP;Residencial Jesus;Vila Aeroporto Jaraguá;-43,775147;-21,668213;Transferência;29150;Gold;Masculino;67;04/09/2020 03:45;7428,04;5
+1026;Lopes Gonçalves - ME;Rio de Janeiro;ES;Favela Azevedo;Lagoa;-44,57111;-22,913325;Pagamento;44619;Premium;Masculino;42;14/02/2022 12:11;1796,22;4
+1027;Moraes Rezende e Filhos;São Paulo;ES;Chácara de Rocha;Vila Rica;-46,386332;-22,633976;Débito;70046;Premium;Feminino;28;24/09/2021 16:29;7381,45;4
+1027;Moraes Rezende - ME;São Paulo;MG;Lagoa Sofia Gonçalves;Lajedo;-45,792813;-22,550635;Pagamento;27771;Standard;Masculino;56;21/08/2023 09:59;8312,26;4
+1028;Rodrigues Campos S/A;Rio de Janeiro;SP;Praia Mirella Fogaça;Distrito Industrial Do Jatoba;-45,397705;-23,064748;Crédito;81240;Premium;Feminino;51;18/05/2024 14:54;3693,49;1
+1028;Almeida - EI;Rio de Janeiro;SP;Setor Moreira;Ambrosina;-46,05642;-23,213354;Pagamento;84640;Gold;Feminino;34;12/02/2021 16:38;8225,84;1
+1028;Teixeira;São Paulo;SP;Via Kevin Sales;Pindura Saia;-46,08416;-22,407346;Pagamento;82680;Premium;Feminino;28;20/06/2021 05:37;9332,67;4
+1030;Cardoso;São Paulo;RJ;Vereda Maria Lopes;Vila Paquetá;-45,417529;-23,35439;Crédito;38316;Standard;Masculino;40;10/07/2021 17:22;5544,5;3
+1031;Monteiro - ME;Belo Horizonte;ES;Lago Gustavo Henrique Cardoso;Vila Califórnia;-45,23076;-21,767851;Pagamento;44137;Gold;Feminino;61;26/10/2024 11:26;3457,97;3
+1034;Souza;Belo Horizonte;ES;Trecho de Gomes;Vista Alegre;-45,803534;-21,915523;Crédito;12476;Standard;Masculino;60;31/07/2020 00:07;2415;4
+1035;Barros S/A;Vitória;SP;Parque Lima;Ambrosina;-45,216554;-21,92206;Crédito;17019;Premium;Masculino;36;02/10/2023 11:36;6335,97;2
+1035;Sales;Belo Horizonte;MG;Feira Vitor Caldeira;Mantiqueira;-44,584538;-20,995168;Pagamento;13128;Standard;Feminino;64;27/10/2022 03:35;8389,16;3
+1036;Dias Castro S.A.;Rio de Janeiro;SP;Área Carvalho;Tupi B;-44,26631;-22,385758;Transferência;96676;Standard;Feminino;62;09/09/2023 10:22;6315,33;3
+1037;Azevedo;Vitória;SP;Núcleo Maria Vitória da Rocha;Garças;-44,677987;-20,960184;Pagamento;63894;Premium;Feminino;68;09/08/2021 14:06;2222,1;4
+1039;Barros Lima S.A.;Vitória;ES;Campo de Jesus;Nossa Senhora Da Conceição;-45,399464;-22,971424;Transferência;92839;Premium;Masculino;20;17/10/2022 16:16;4913,03;1
+1040;Araújo Porto - ME;Rio de Janeiro;RJ;Pátio de Araújo;Santa Isabel;-44,984953;-23,177318;Transferência;56150;Gold;Feminino;24;05/10/2022 04:24;5614,84;3
+1040;Araújo;Belo Horizonte;SP;Setor Oliveira;Alto Caiçaras;-46,344292;-22,230088;Pagamento;678;Gold;Feminino;56;04/07/2023 15:23;5782,97;1
+1040;Souza;Vitória;MG;Colônia de Martins;Monte São José;-44,126642;-22,508963;Pagamento;23899;Premium;Masculino;41;20/02/2023 22:48;6495,26;4
+1042;Barros Porto - EI;Belo Horizonte;MG;Feira Dias;Vila Inestan;-43,805365;-21,22679;Crédito;83928;Premium;Feminino;60;17/04/2020 12:45;1519,9;3
+1042;Almeida;São Paulo;MG;Área Enzo Almeida;Indaiá;-45,436425;-23,371068;Crédito;98001;Standard;Feminino;20;27/06/2022 20:21;3213,87;1
+1043;Souza da Paz S.A.;Rio de Janeiro;SP;Chácara João Pedro Castro;Santo André;-44,735036;-23,500611;Transferência;29620;Standard;Masculino;54;08/02/2021 14:16;4975,18;4
+1043;Teixeira S/A;Belo Horizonte;MG;Favela de da Cunha;Unidas;-43,997396;-22,775992;Transferência;67411;Premium;Feminino;52;05/07/2021 07:55;7834,24;5
+1044;Azevedo;Rio de Janeiro;SP;Rua Gonçalves;Guaratã;-44,834145;-20,88023;Transferência;54462;Premium;Masculino;63;08/01/2022 21:48;8608,95;3
+1045;Fogaça Ltda.;São Paulo;MG;Campo Cauã Gonçalves;Estrela;-44,393844;-20,770485;Transferência;47904;Standard;Masculino;67;13/11/2023 22:56;129,08;5
+1045;Santos;Belo Horizonte;SP;Condomínio Gustavo Pereira;Carlos Prates;-46,66777;-21,965508;Pagamento;16221;Gold;Feminino;47;24/10/2024 12:59;4457,08;1
+1045;Barbosa Lima - EI;Rio de Janeiro;RJ;Aeroporto Ramos;Santa Inês;-44,475149;-22,515722;Débito;56148;Premium;Masculino;44;23/09/2023 10:27;4682,7;5
+1049;Araújo;Rio de Janeiro;ES;Praça Isabel Melo;Vila Nova Cachoeirinha 2ª Seção;-43,497665;-20,621754;Crédito;88522;Gold;Masculino;53;09/02/2022 09:08;7338,31;3
+1049;Nogueira S.A.;Rio de Janeiro;RJ;Trecho Davi Luiz Cardoso;Senhor Dos Passos;-45,791499;-23,41491;Pagamento;64866;Gold;Masculino;34;25/06/2021 22:05;9512,95;5
+1052;Vieira;São Paulo;MG;Estação Gustavo Costa;Jardim Do Vale;-43,886935;-22,742466;Pagamento;25546;Standard;Feminino;62;04/07/2022 14:00;141,76;3
+1052;da Mata Silva - EI;Belo Horizonte;MG;Esplanada de Freitas;Vila Jardim São José;-43,577651;-21,673364;Crédito;59279;Gold;Feminino;140;24/09/2023 10:06;5958,69;3
+1052;Gomes - EI;São Paulo;MG;Praça de Rezende;Vera Cruz;-45,187288;-23,26521;Crédito;23096;Gold;Feminino;25;02/11/2024 15:53;6253,04;1
+1053;Rezende S.A.;Belo Horizonte;ES;Rua Peixoto;Bernadete;-45,061276;-20,818251;Débito;31013;Premium;Feminino;24;26/07/2024 04:32;8413,72;3
+1055;Ferreira;Vitória;ES;Passarela de Costela;Ventosa;-44,785119;-22,824075;Débito;38504;Standard;Masculino;39;25/03/2024 09:29;1829,3;3
+1056;Jesus;Vitória;SP;Viaduto Natália Rocha;Nossa Senhora Da Aparecida;-44,051296;-20,383361;Pagamento;31273;Gold;Masculino;44;18/09/2022 15:39;7641,09;2
+1057;Alves;Vitória;ES;Pátio Juan Pereira;Graça;-43,444421;-22,01588;Crédito;52269;Premium;Feminino;61;26/07/2023 18:35;5942,18;4
+1061;da Cruz Ramos - EI;São Paulo;ES;Viaduto Yasmin Farias;Vila Santo Antônio Barroquinha;-45,479769;-22,041933;Transferência;34356;Premium;Masculino;50;05/01/2020 21:20;8214,16;5
+1063;Pereira - EI;Vitória;RJ;Travessa Ana Sophia Melo;Vila De Sá;-45,366443;-22,319919;Pagamento;79889;Standard;Feminino;24;20/03/2023 14:36;1355,04;1
+1063;Fernandes da Rocha e Filhos;São Paulo;SP;Estação Correia;Palmares;-44,470284;-20,448559;Pagamento;44620;Premium;Feminino;34;29/02/2024 23:38;8019,85;1
+1064;Ramos;Vitória;RJ;Conjunto Monteiro;Conjunto Providencia;-43,913207;-21,970426;Transferência;93454;Standard;Masculino;28;31/03/2024 21:18;5965,58;2
+1065;das Neves;Belo Horizonte;SP;Estrada Renan Cavalcanti;Venda Nova;-46,26822;-22,442412;Débito;62922;Standard;Masculino;38;23/09/2020 00:19;4619,11;5
+1067;da Mata;São Paulo;SP;Recanto Novaes;Vila Betânia;-46,467759;-23,169369;Transferência;12003;Gold;Feminino;28;09/09/2020 17:33;8026,39;4
+1067;Moreira - EI;São Paulo;ES;Viela da Mota;Vila Calafate;-44,066996;-22,926943;Transferência;50905;Premium;Masculino;67;06/01/2023 07:26;8104,1;5
+1067;Azevedo;São Paulo;RJ;Vila Isabel Peixoto;Vila São Gabriel Jacui;-44,075456;-23,398185;Crédito;22855;Gold;Feminino;46;25/05/2020 08:08;9209,51;5
+1068;Moraes;São Paulo;MG;Feira Pires;Vila Calafate;-43,297674;-22,205245;Débito;68846;Gold;Masculino;40;21/02/2023 05:43;3188,32;3
+1069;Gonçalves;Belo Horizonte;MG;Vale Monteiro;Indaiá;-44,056624;-20,665785;Crédito;36678;Gold;Feminino;61;10/10/2020 14:11;4648,29;2
+1070;Gonçalves Pires - EI;Belo Horizonte;MG;Quadra de Teixeira;Vila Califórnia;-43,602361;-22,373071;Crédito;89171;Standard;Feminino;33;21/03/2022 20:40;2835,19;5
+1073;Caldeira;São Paulo;SP;Colônia Guilherme Caldeira;Aguas Claras;-44,244651;-20,870208;Transferência;41923;Standard;Masculino;24;11/03/2022 10:00;9423,54;2
+1073;Jesus da Conceição S.A.;Rio de Janeiro;ES;Jardim de Viana;Alto Vera Cruz;-45,573524;-22,63847;Pagamento;55035;Premium;Masculino;47;17/07/2021 02:56;9759,64;3
+1076;Aragão Campos S.A.;Vitória;RJ;Largo Moreira;São Gonçalo;-43,287899;-20,513313;Débito;50097;Standard;Feminino;70;23/12/2023 08:38;8514,16;2
+1077;da Rocha;Vitória;ES;Colônia Farias;Alto Barroca;-46,059189;-23,495858;Pagamento;39073;Premium;Masculino;62;16/10/2021 07:04;4116,36;2
+1079;Santos;Rio de Janeiro;RJ;Aeroporto de Silveira;Vista Do Sol;-45,215692;-21,423685;Transferência;28577;Standard;Masculino;34;15/07/2020 05:48;9746,52;5
+1082;da Mata S.A.;Belo Horizonte;MG;Aeroporto Raquel Moreira;São Gabriel;-43,480109;-20,690246;Transferência;15604;Gold;Masculino;24;09/07/2023 22:57;6280,02;1
+1083;Cardoso;Rio de Janeiro;SP;Pátio Campos;Caetano Furquim;-43,808072;-23,092474;Débito;67755;Standard;Masculino;70;13/07/2023 20:40;4326,66;4
+1083;Cardoso;Belo Horizonte;MG;Vereda Alexia Cardoso;Vila Madre Gertrudes 2ª Seção;-44,61279;-21,641064;Débito;71170;Premium;Masculino;;02/03/2024 08:42;8724,8;1
+1084;Cunha;Rio de Janeiro;RJ;Travessa da Mata;Cenaculo;-44,975026;-23,023699;Crédito;23056;Gold;Masculino;19;19/02/2022 11:44;5864,5;2
+1086;Caldeira S/A;São Paulo;ES;Lago de da Mata;Lourdes;-46,359605;-23,114789;Débito;63657;Premium;Masculino;67;28/04/2022 18:03;5736,01;4
+1088;Fernandes Ltda.;Belo Horizonte;RJ;Núcleo de Viana;Alto Das Antenas;-45,811459;-22,505019;Pagamento;71672;Standard;Masculino;23;14/01/2024 09:03;3223,73;4
+1089;Moraes;Vitória;SP;Recanto Azevedo;Conjunto Califórnia I;-44,251781;-21,065343;Crédito;87840;Standard;Feminino;40;24/05/2024 00:16;7409,85;4
+1092;Duarte Barbosa - EI;Rio de Janeiro;SP;Estrada de Viana;Santa Cecilia;-43,329434;-23,030698;Crédito;45123;Gold;Masculino;50;04/03/2023 14:50;5292,08;3
+1092;Moraes Oliveira Ltda.;Rio de Janeiro;SP;Alameda de Barbosa;Das Industrias I;-44,481379;-22,266849;Transferência;38805;Standard;Feminino;34;04/09/2021 01:27;7257,69;1
+1092;Farias;Vitória;SP;Rua Thomas Novaes;Santa Efigênia;-43,412553;-21,248028;Transferência;225;Premium;Masculino;40;24/07/2020 14:18;8037,08;2
+1095;Costa;Belo Horizonte;MG;Praia de Ribeiro;Conjunto São Francisco De Assis;-45,116828;-22,945291;Transferência;97746;Standard;Feminino;34;14/11/2023 07:59;5504;4
+1095;Nunes;Rio de Janeiro;SP;Viela Francisco da Luz;Providencia;-43,875793;-20,848629;Débito;19539;Standard;Feminino;63;14/08/2021 10:21;7525,37;3
+1096;Costa Gonçalves Ltda.;São Paulo;SP;Lagoa Yasmin da Conceição;Conjunto Serra Verde;-46,163319;-21,734376;Débito;13204;Premium;Masculino;60;25/11/2024 18:08;3141,32;4
+1096;Rocha;São Paulo;SP;Campo de Lima;Embaúbas;-44,066855;-22,314432;Pagamento;35124;Standard;Masculino;42;24/07/2023 04:55;5751,51;5
+1097;Castro;Vitória;MG;Loteamento de Ferreira;Alto Caiçaras;-44,384821;-20,934751;Crédito;51;Premium;Masculino;54;19/04/2022 11:31;3609,55;4
+1098;Sales Ltda.;Rio de Janeiro;MG;Vale de Carvalho;Fazendinha;-45,806052;-22,734513;Débito;61767;Gold;Feminino;24;26/02/2021 20:03;3240,45;3
+1098;Ramos;São Paulo;ES;Viaduto Cauã Cardoso;Distrito Industrial Do Jatoba;-43,977844;-22,300825;Transferência;45034;Premium;Feminino;25;03/01/2020 21:27;6581,64;5
+1101;Azevedo;Vitória;RJ;Pátio Cardoso;Vila Vista Alegre;-43,725091;-21,702481;Transferência;85046;Gold;Masculino;52;14/05/2022 11:59;412,69;2
+1104;da Luz;Vitória;ES;Aeroporto de da Rocha;Mala E Cuia;-45,993444;-21,457206;Transferência;72782;Premium;Feminino;60;24/03/2022 02:48;1681,46;2
+1104;Dias;Belo Horizonte;SP;Feira Samuel Rocha;Vila São Geraldo;-45,839579;-20,838993;Débito;68270;Premium;Masculino;47;28/06/2023 16:50;2652,54;2
+1104;Novaes - ME;São Paulo;MG;Estrada Ana Vitória Moraes;Vila Suzana Segunda Seção;-45,569749;-22,096044;Transferência;43488;Premium;Masculino;30;22/08/2020 01:43;3750,17;2
+1107;Dias;Rio de Janeiro;SP;Esplanada Cavalcanti;Canadá;-44,772306;-22,036323;Crédito;88920;Premium;Feminino;31;21/07/2024 02:54;1275,25;3
+1107;Azevedo;Belo Horizonte;RJ;Ladeira da Cruz;Confisco;-45,358051;-21,037814;Pagamento;24548;Premium;Feminino;57;17/12/2024 17:16;6359,9;3
+1108;Mendes da Mata e Filhos;Vitória;ES;Loteamento da Costa;Calafate;-45,997922;-21,152258;Débito;96390;Standard;Masculino;50;14/05/2024 00:20;6823,37;1
+1111;Carvalho e Filhos;Belo Horizonte;MG;Viaduto Letícia Almeida;Vila Aeroporto;-44,227035;-21,793445;Débito;89060;Standard;Feminino;46;13/03/2024 11:49;1007,16;4
+1113;Ribeiro Peixoto S.A.;Rio de Janeiro;RJ;Ladeira Marcelo Melo;Conjunto Providencia;-45,47965;-20,558032;Débito;74722;Gold;Feminino;36;16/03/2022 13:01;4580,55;4
+1114;Martins;Belo Horizonte;ES;Lago Ana Sophia Mendes;Glória;-43,292613;-22,23907;Crédito;62204;Standard;Feminino;58;19/05/2021 03:41;164,26;1
+1115;Carvalho;Rio de Janeiro;MG;Lago Maria Clara da Costa;Pilar;-46,601081;-20,455477;Crédito;60157;Standard;Masculino;26;03/01/2022 16:15;1253,27;5
+1116;Mendes;Belo Horizonte;MG;Travessa Monteiro;Jardim Guanabara;-44,608645;-21,184361;Transferência;14736;Premium;Feminino;34;20/05/2021 14:42;2454,51;4
+1116;Freitas da Paz S/A;Vitória;MG;Parque Henrique Jesus;Xodo-Marize;-43,651256;-22,590742;Crédito;10442;Premium;Masculino;41;05/03/2022 07:51;5427,46;2
+1116;Nascimento;São Paulo;MG;Pátio Natália da Rosa;Carmo;-46,368426;-21,945865;Pagamento;61183;Gold;Feminino;35;07/06/2020 04:43;8319,34;2
+1117;Melo;São Paulo;SP;Morro Lorenzo Correia;Anchieta;-44,005798;-21,577374;Débito;57822;Premium;Feminino;26;30/06/2023 22:58;3249,78;5
+1118;Pinto;Belo Horizonte;MG;Vale Pietro Carvalho;João Alfredo;-45,391907;-20,949836;Débito;81004;Standard;Masculino;39;03/04/2020 14:58;5202,38;1
+1119;da Mota S.A.;Vitória;RJ;Campo Ana Clara Novaes;Itaipu;-44,034268;-20,678975;Crédito;66330;Premium;Masculino;58;24/04/2022 14:48;2792,74;4
+1120;Gomes - ME;São Paulo;SP;Condomínio de Cunha;Vila Sumaré;-46,010346;-22,459144;Crédito;33567;Standard;Feminino;56;01/08/2022 13:24;828,34;5
+1121;da Conceição S.A.;Belo Horizonte;RJ;Favela Costa;Vila Primeiro De Maio;-44,337913;-21,278503;Transferência;39040;Standard;Masculino;22;23/01/2020 07:43;5229,72;3
+1122;da Rosa;Rio de Janeiro;RJ;Avenida de Sales;Boa Esperança;-46,162818;-22,67705;Pagamento;50116;Gold;Feminino;30;22/02/2020 06:43;3497,54;2
+1124;da Costa;São Paulo;ES;Jardim Nascimento;Bandeirantes;-45,635019;-21,784316;Pagamento;67034;Standard;Feminino;64;15/10/2022 21:03;5786,64;2
+1124;Pinto;São Paulo;ES;Avenida Rodrigo Rodrigues;Mangueiras;-45,214563;-21,139258;Pagamento;34924;Premium;Feminino;22;01/06/2020 03:50;9062,99;3
+1126;Cunha;Belo Horizonte;MG;Avenida de Jesus;Tupi B;-45,170578;-23,323618;Débito;30737;Standard;Feminino;22;01/04/2022 06:30;4707,47;5
+1127;Moura;Belo Horizonte;ES;Chácara Isabelly Moura;Marieta 3ª Seção;-46,522839;-21,056188;Pagamento;17115;Gold;Masculino;62;20/07/2020 01:28;1444,7;5
+1127;da Rocha;Vitória;ES;Rua de Mendes;Mirante;-46,074634;-21,792343;Débito;64554;Gold;Feminino;23;17/02/2022 16:36;5693,33;3
+1128;Barbosa;Vitória;SP;Estrada de Correia;Serra Do Curral;-44,739402;-23,589375;Débito;80103;Standard;Feminino;19;27/01/2022 15:26;7793,69;1
+1133;Gonçalves Peixoto - ME;São Paulo;ES;Rodovia de Gomes;Bela Vitoria;-44,821492;-20,882223;Crédito;30124;Premium;Feminino;44;30/04/2020 19:43;2247,46;3
+1134;Rocha;Belo Horizonte;SP;Loteamento de Ferreira;Madre Gertrudes;-45,975494;-20,449445;Pagamento;84251;Premium;Masculino;50;20/12/2021 00:25;4682,86;2
+1135;Rocha Gonçalves e Filhos;Belo Horizonte;RJ;Colônia de Pereira;Havaí;-43,852916;-23,293367;Crédito;36505;Gold;Masculino;19;07/05/2022 21:19;7954,87;4
+1138;Viana Cavalcanti S.A.;Belo Horizonte;SP;Praça Daniela Costela;Boa Vista;-46,079749;-23,585992;Pagamento;82786;Gold;Feminino;29;22/04/2024 18:37;151,36;4
+1138;Teixeira;São Paulo;RJ;Condomínio Marcela Jesus;Santa Monica;-44,273726;-22,453885;Transferência;42068;Gold;Feminino;36;15/11/2020 02:31;6502,27;3
+1141;Oliveira - ME;Vitória;SP;Praia Erick Cardoso;Boa Vista;-46,132507;-21,67395;Pagamento;32539;Premium;Masculino;19;19/01/2022 05:01;8258,45;5
+1142;Lopes - ME;São Paulo;SP;Núcleo Lucca Costela;Renascença;-44,837672;-21,634285;Débito;83663;Gold;Masculino;22;05/03/2023 23:06;7891,2;5
+1142;da Rocha - ME;São Paulo;RJ;Núcleo de Lima;Bom Jesus;-43,915429;-23,346454;Crédito;89629;Standard;Masculino;30;13/03/2020 04:31;8224,94;4
+1143;Nogueira Campos Ltda.;Vitória;MG;Condomínio Araújo;Marçola;-45,79359;-22,604551;Crédito;35470;Gold;Feminino;62;07/03/2020 07:00;780,85;2
+1145;da Paz;Belo Horizonte;ES;Vale de das Neves;Aeroporto;-44,489691;-23,314552;Débito;48630;Premium;Feminino;57;23/11/2022 00:39;4673,91;2
+1146;Novaes Araújo - ME;Rio de Janeiro;SP;Passarela de Pinto;Nova Vista;-45,355835;-21,734819;Crédito;78728;Gold;Feminino;40;21/11/2020 15:51;9389,3;4
+1148;Porto - ME;Belo Horizonte;SP;Via Ribeiro;Havaí;-45,629133;-22,335919;Pagamento;96830;Gold;Feminino;38;28/01/2024 04:15;7235,66;5
+1148;da Cunha Jesus S/A;Belo Horizonte;SP;Condomínio Francisco Souza;Vila Antena Montanhês;-43,354986;-22,836956;Débito;73363;Gold;Masculino;46;12/07/2021 07:31;9628,4;4
+1149;Ramos S/A;São Paulo;RJ;Residencial de Martins;Santa Rosa;-45,457978;-20,629335;Crédito;11438;Standard;Masculino;35;13/07/2021 21:03;7398,6;3
+1151;da Costa Ltda.;Vitória;RJ;Área Larissa Rezende;Mirante;-44,865433;-23,173564;Débito;68212;Gold;Feminino;45;26/11/2023 16:44;8087,78;4
+1152;Azevedo S.A.;Belo Horizonte;RJ;Fazenda Erick Silveira;Etelvina Carneiro;-45,433636;-20,580443;Débito;63062;Standard;Masculino;33;15/08/2021 03:28;5046,56;1
+1154;Pires da Rosa - EI;Rio de Janeiro;ES;Favela de Almeida;Concórdia;-45,338706;-22,381485;Transferência;83859;Premium;Masculino;55;05/01/2022 02:15;9201,46;3
+1155;Cavalcanti - EI;São Paulo;SP;Vale de Barbosa;Marieta 2ª Seção;-44,9514;-20,916486;Crédito;40568;Standard;Feminino;28;19/04/2021 19:38;494,07;1
+1155;Duarte das Neves - EI;Vitória;SP;Alameda de Caldeira;Vista Alegre;-44,810354;-21,128719;Crédito;76030;Premium;Masculino;46;27/10/2023 04:43;2180;3
+1155;Carvalho Costa S.A.;Vitória;RJ;Ladeira Davi Luiz Viana;União;-45,691747;-23,199725;Transferência;89331;Standard;Masculino;67;19/06/2022 03:08;4106,74;4
+1156;Duarte Ltda.;Vitória;SP;Viaduto Letícia Correia;Vila Madre Gertrudes 4ª Seção;-43,867146;-21,644102;Crédito;58891;Premium;Masculino;50;03/11/2023 01:17;7066,96;3
+1160;da Mota;Vitória;RJ;Condomínio Cauê Araújo;São Pedro;-43,390126;-20,945512;Transferência;76628;Premium;Masculino;66;21/06/2024 15:39;1921,05;3
+1160;Pereira S.A.;São Paulo;SP;Setor Júlia Peixoto;Ouro Preto;-45,365003;-21,649494;Débito;83349;Standard;Feminino;40;07/02/2024 04:26;6357,9;4
+1161;Santos;São Paulo;ES;Conjunto Gabrielly Viana;Antonio Ribeiro De Abreu 1ª Seção;-44,632532;-20,828243;Débito;36319;Gold;Feminino;47;03/09/2021 08:52;6010,79;3
+1163;Cardoso;Rio de Janeiro;RJ;Alameda Ana Lívia da Luz;Maria Virgínia;-45,111039;-22,935293;Crédito;79478;Standard;Feminino;54;04/07/2022 05:37;7155,01;2
+1164;Mendes Lima S.A.;Rio de Janeiro;ES;Largo Nunes;Vila Nova;-45,975854;-21,952702;Pagamento;49142;Standard;Masculino;69;08/07/2022 03:57;4719,24;2
+1165;Alves;Vitória;SP;Estrada Sarah Novaes;Mirante;-44,469955;-22,749069;Débito;55094;Premium;Feminino;68;15/09/2023 09:34;7602,56;3
+1166;Dias;Rio de Janeiro;SP;Viela Nogueira;Monsenhor Messias;-44,32411;-21,682127;Débito;75099;Standard;Masculino;18;15/12/2023 03:22;2342,09;5
+1167;Duarte;Rio de Janeiro;ES;Residencial Olivia Moreira;Ipiranga;-46,275104;-20,508358;Pagamento;34076;Premium;Masculino;51;07/01/2023 01:41;478,51;1
+1167;da Paz;São Paulo;RJ;Avenida Theo Santos;Miramar;-45,992101;-23,3681;Transferência;55308;Gold;Masculino;50;24/11/2023 07:38;899,99;5
+1167;Lima;Belo Horizonte;MG;Aeroporto Ana Clara Freitas;Guarani;-44,188729;-22,310301;Transferência;71416;Premium;Masculino;32;29/07/2024 02:31;7566,13;2
+1168;Gomes Monteiro - EI;Belo Horizonte;ES;Recanto Letícia Rezende;Santo Antônio;-46,210905;-22,636816;Pagamento;42344;Standard;Masculino;35;;1555,99;2
+1168;Cunha;Belo Horizonte;ES;Praia Oliveira;Sion;-43,790319;-23,146326;Transferência;34486;Standard;Masculino;60;;2298,18;1
+1172;Porto Nunes S.A.;São Paulo;ES;Praça João Felipe Farias;Penha;-43,453227;-21,627001;Pagamento;29670;Standard;Masculino;34;23/11/2022 13:09;3468,48;4
+1173;Rodrigues - EI;Rio de Janeiro;SP;Loteamento de da Mota;Garças;-43,939731;-23,077912;Débito;54867;Standard;Feminino;25;20/02/2020 08:37;6008,23;4
+1176;Ramos;Belo Horizonte;ES;Chácara de Melo;São Bernardo;-43,939876;-22,398061;Crédito;54635;Gold;Feminino;27;11/08/2023 08:37;5368,9;1
+1177;Ferreira Ltda.;Vitória;SP;Residencial Leonardo Fogaça;São Bento;-44,03802;-23,582129;Débito;41941;Standard;Masculino;46;23/09/2024 17:51;4772,48;5
+1180;Fogaça Monteiro S.A.;Vitória;MG;Largo de da Costa;Bela Vitoria;-43,447618;-23,565403;Débito;95278;Standard;Feminino;;09/04/2023 09:44;9423,43;4
+1181;Dias;Belo Horizonte;MG;Setor de Gomes;Estrela Do Oriente;-45,369603;-23,463174;Pagamento;14574;Standard;Feminino;35;16/01/2022 01:50;3814,11;2
+1181;Freitas Martins S/A;Rio de Janeiro;ES;Recanto Eloah Cunha;Araguaia;-45,995082;-21,295339;Pagamento;55667;Premium;Feminino;64;10/09/2020 03:44;9731,05;3
+1183;Porto;São Paulo;MG;Aeroporto Nina Souza;Vila Batik;-46,127749;-22,147085;Crédito;67332;Standard;Feminino;67;17/09/2022 09:50;914,77;4
+1185;da Cunha;São Paulo;RJ;Ladeira Emanuella Costa;Saudade;-44,758754;-22,83653;Transferência;62446;Premium;Masculino;51;14/11/2022 04:40;5346,57;1
+1190;Silveira;Belo Horizonte;ES;Recanto de Moreira;Caetano Furquim;-46,129211;-20,697133;Pagamento;13609;Gold;Feminino;57;06/01/2020 18:24;874,45;1
+1190;Peixoto - ME;Vitória;RJ;Vereda de Barros;Anchieta;-46,609047;-22,983675;Crédito;54632;Gold;Feminino;37;13/09/2021 07:26;9590,24;3
+1193;Vieira;São Paulo;RJ;Lagoa Ana Beatriz da Cunha;Marajó;-45,144272;-21,21282;Pagamento;27884;Standard;Masculino;64;25/04/2020 18:21;2048,11;3
+1193;Rocha e Filhos;São Paulo;MG;Passarela de Barbosa;Europa;-43,299689;-22,556795;Transferência;73707;Gold;Feminino;35;16/01/2022 13:21;8968,55;1
+1195;Vieira Rocha - ME;Rio de Janeiro;RJ;Jardim de Caldeira;Vitoria;-43,888292;-23,129769;Pagamento;21955;Premium;Feminino;50;31/08/2024 17:59;19979,92;4
+1196;Novaes S/A;Belo Horizonte;RJ;Condomínio Breno Aragão;Delta;-45,862044;-21,496582;Pagamento;98313;Standard;Feminino;20;28/07/2021 16:30;4082,44;5
+1198;Viana - EI;Vitória;RJ;Rua da Rosa;Vila Betânia;-43,910845;-21,496119;Débito;31591;Standard;Masculino;;03/10/2024 03:38;9764,21;2
+1199;Dias e Filhos;São Paulo;SP;Parque Benício Duarte;Boa Vista;-44,986277;-23,342688;Crédito;28256;Standard;Feminino;54;15/08/2022 20:19;1440,27;3
+1200;Gonçalves;Vitória;SP;Loteamento Emanuella Oliveira;Santa Cruz;-45,818074;-23,463322;Débito;51453;Standard;Feminino;66;21/10/2022 07:35;428;4
+1201;Azevedo;Belo Horizonte;RJ;Parque Mendes;Conjunto Capitão Eduardo;-43,915314;-21,962188;Débito;90181;Standard;Feminino;55;30/08/2024 10:44;6311,97;2
+1202;Dias Dias - ME;Vitória;ES;Recanto Alexandre Pinto;Embaúbas;-45,773413;-22,266278;Pagamento;45144;Premium;Masculino;31;30/03/2023 11:39;3454,99;1
+1202;Costela;Vitória;RJ;Esplanada Lucas Gabriel Azevedo;Milionario;-46,430246;-22,894038;Débito;90707;Standard;Feminino;69;04/12/2023 02:23;6845,69;1
+1203;Freitas;Belo Horizonte;MG;Largo Correia;Acaiaca;-45,926989;-21,674981;Transferência;47073;Premium;Masculino;;03/09/2021 15:16;7607,58;5
+1204;da Conceição;Rio de Janeiro;ES;Rodovia Martins;Lagoinha Leblon;-43,225847;-22,191196;Débito;10206;Gold;Masculino;19;22/08/2020 19:59;4466,77;5
+1205;Cunha;Vitória;RJ;Condomínio da Paz;Novo São Lucas;-45,655827;-23,221758;Crédito;97717;Gold;Masculino;35;18/04/2024 05:04;1459,96;5
+1206;Caldeira Peixoto - ME;Vitória;ES;Praça Milena Nascimento;Apolonia;-44,261519;-23,243219;Débito;51381;Premium;Masculino;29;09/04/2022 11:06;5372,68;2
+1206;da Cruz Ltda.;Vitória;SP;Passarela Dias;Tres Marias;-43,502403;-20,40637;Débito;56073;Standard;Feminino;39;31/08/2024 13:03;7214,31;5
+1207;Nascimento;Belo Horizonte;ES;Feira Costa;Vila Inestan;-46,336889;-22,708029;Débito;37435;Gold;Masculino;28;10/12/2024 15:27;3536,32;5
+1207;Santos Nogueira S/A;Belo Horizonte;MG;Trevo de Duarte;Esplanada;-46,628636;-21,589003;Débito;47791;Gold;Feminino;29;22/11/2023 00:57;6217,02;5
+1209;Fernandes;Vitória;ES;Trecho de Correia;Vila Canto Do Sabiá;-43,549998;-20,314595;Pagamento;23728;Premium;Masculino;49;24/06/2021 01:08;4425,69;1
+1210;Fernandes;Rio de Janeiro;RJ;Avenida Sarah Cavalcanti;Novo Aarão Reis;-43,853153;-23,599636;Crédito;96331;Standard;Masculino;67;27/12/2021 11:54;6582,11;2
+1211;Jesus Ltda.;Rio de Janeiro;MG;Sítio de Nascimento;Jardim Do Vale;-44,579661;-22,404712;Crédito;43236;Standard;Feminino;25;06/07/2022 17:08;1302,27;4
+1212;Teixeira;Rio de Janeiro;MG;Praça de Rodrigues;Piraja;-45,399861;-22,619823;Transferência;98907;Premium;Feminino;57;07/01/2021 17:21;687,81;2
+1212;Cunha Santos S/A;São Paulo;MG;Trecho Isis Castro;Vila Antena;-45,879685;-20,958081;Pagamento;81760;Premium;Masculino;43;29/05/2021 04:14;8273,4;4
+1213;Nogueira;São Paulo;RJ;Largo Bárbara Caldeira;Vila Santo Antônio Barroquinha;-46,147418;-23,219134;Transferência;70317;Gold;Masculino;68;02/01/2022 11:11;1904,11;3
+1214;Carvalho Peixoto Ltda.;Belo Horizonte;ES;Praça Maria Clara Sales;Lourdes;-44,416855;-20,918182;Pagamento;18084;Gold;Feminino;39;16/03/2023 14:01;6296,01;3
+1215;Moraes Pereira Ltda.;Belo Horizonte;RJ;Colônia Vitória Cunha;Piraja;-46,281147;-21,887576;Débito;76092;Gold;Feminino;36;27/12/2022 06:23;8056,69;4
+1217;da Conceição S.A.;São Paulo;RJ;Parque Correia;Vila Esplanada;-46,282863;-21,100744;Transferência;49944;Premium;Masculino;54;30/07/2020 14:57;7233,63;3
+1218;Monteiro Cunha S.A.;São Paulo;ES;Vale Moraes;Conjunto Jatoba;-43,204178;-21,620729;Débito;90159;Gold;Feminino;55;07/04/2020 00:21;3344,84;4
+1218;Castro;Rio de Janeiro;ES;Feira de Aragão;Araguaia;-46,661969;-20,744592;Débito;84955;Standard;Masculino;23;23/10/2020 15:09;3761,12;1
+1219;Barros;São Paulo;SP;Via Campos;São Gonçalo;-44,698551;-20,598216;Crédito;70452;Gold;Feminino;31;07/12/2020 13:23;5415,57;3
+1220;Santos;São Paulo;MG;Jardim de Melo;Belmonte;-45,049649;-20,667801;Crédito;79052;Premium;Masculino;61;13/03/2024 06:46;9498,16;4
+1221;Freitas;Rio de Janeiro;MG;Parque de da Rosa;Conjunto Floramar;-46,37922;-22,733274;Pagamento;49991;Gold;Feminino;55;08/11/2023 03:03;5477,92;1
+1222;Martins Freitas S.A.;São Paulo;MG;Vereda de Sales;Conjunto Lagoa;-44,86988;-20,804865;Crédito;89218;Gold;Feminino;61;20/10/2022 04:56;3909,92;2
+1222;Freitas Costela - EI;Rio de Janeiro;ES;Praia Davi Moraes;Vila Mangueiras;-45,324162;-23,095703;Transferência;30036;Premium;Masculino;27;10/07/2023 15:54;6042,1;2
+1223;Barros - ME;São Paulo;SP;Chácara de Novaes;Piraja;-45,47762;-20,473234;Transferência;50868;Gold;Feminino;35;14/02/2024 17:12;2302,95;5
+1223;Dias;Vitória;ES;Viaduto Almeida;Vila Pinho;-44,268565;-22,549807;Crédito;68193;Gold;Masculino;65;19/07/2021 08:35;5005,68;5
+1223;Pinto;Vitória;MG;Recanto de da Rocha;Ipe;-46,102797;-23,272164;Crédito;47933;Standard;Masculino;70;20/08/2020 08:16;8699,72;2
+1225;Silva - ME;Vitória;ES;Ladeira Ferreira;Antonio Ribeiro De Abreu 1ª Seção;-43,697625;-22,489537;Débito;74821;Premium;Masculino;58;10/02/2023 14:04;5240,62;5
+1225;Nunes;Vitória;MG;Distrito de das Neves;Fazendinha;-46,202091;-21,086652;Transferência;57993;Premium;Feminino;28;13/07/2023 03:05;7355,73;1
+1225;Teixeira;Vitória;RJ;Estação Breno Jesus;Vila Real 1ª Seção;-43,689244;-21,215709;Débito;429;Gold;Feminino;41;31/12/2023 20:24;8937,1;4
+1225;Viana;Vitória;MG;Vereda Almeida;Vila Fumec;-44,781309;-22,920691;Crédito;65567;Premium;Masculino;68;27/02/2021 17:20;9265,21;3
+1226;Monteiro Freitas S/A;Belo Horizonte;SP;Praia Kevin Novaes;Europa;-44,388897;-23,570583;Transferência;90769;Premium;Masculino;56;17/06/2022 23:28;9739,02;5
+1228;Campos;Belo Horizonte;ES;Lago Milena Rezende;Vila Jardim Leblon;-43,482435;-22,403711;Pagamento;78269;Gold;Feminino;34;17/09/2024 22:25;2909,68;5
+1229;da Costa Melo e Filhos;Vitória;RJ;Trecho Barros;Serrano;-45,813741;-22,032184;Débito;67790;Gold;Feminino;59;30/04/2021 04:38;4913,24;2
+1229;Pires Fogaça - ME;São Paulo;SP;Feira Fogaça;Das Industrias I;-45,737341;-22,275325;Débito;38733;Premium;Feminino;56;13/11/2022 17:26;8747,13;2
+1230;Souza S/A;Vitória;MG;Vila da Cunha;Mirtes;-45,683503;-22,774955;Pagamento;78062;Premium;Feminino;45;28/02/2023 17:52;8851,48;3
+1231;da Rocha;Belo Horizonte;SP;Avenida Eduarda Moreira;Vila Madre Gertrudes 4ª Seção;-44,882454;-20,955053;Transferência;53853;Standard;Masculino;48;02/06/2022 21:01;1254,27;4
+1232;Alves;Vitória;ES;Rua Murilo Vieira;Pompéia;-45,038603;-23,59878;Débito;59970;Premium;Feminino;19;18/04/2020 12:26;5869,82;3
+1232;Campos;Rio de Janeiro;MG;Travessa Emanuel Silveira;Boa União 1ª Seção;-45,407457;-20,462752;Crédito;32407;Gold;Masculino;54;02/02/2021 11:52;6141,06;1
+1233;Cardoso;Belo Horizonte;SP;Praia de Duarte;Vila Piratininga;-46,545967;-22,558731;Pagamento;18296;Standard;Feminino;45;29/10/2023 00:38;3262,43;1
+1235;Pinto Cavalcanti e Filhos;Rio de Janeiro;RJ;Parque Leandro Campos;Vila Antena;-43,57617;-23,03349;Pagamento;91648;Standard;Masculino;29;22/02/2023 09:15;270,78;1
+1235;Pereira Duarte Ltda.;Vitória;MG;Recanto Gustavo Henrique Dias;Pantanal;-46,046996;-21,488667;Crédito;87203;Gold;Masculino;36;30/05/2022 20:52;3533,45;3
+1236;Costa Peixoto Ltda.;Belo Horizonte;SP;Fazenda de Ramos;Beija Flor;-44,149373;-22,215894;Crédito;11976;Premium;Feminino;53;11/12/2020 13:31;330,36;5
+1236;Carvalho;São Paulo;MG;Setor Gomes;Vila Pinho;-43,687355;-21,944785;Transferência;49808;Premium;Feminino;35;08/07/2020 06:58;2990,77;4
+1236;Ramos;Belo Horizonte;SP;Trevo Mendes;Vila Barragem Santa Lúcia;-45,211333;-21,531076;Transferência;80935;Premium;Masculino;43;31/03/2021 01:07;9863,29;4
+1238;Jesus;São Paulo;ES;Vale Alexandre Sales;Dom Joaquim;-43,992166;-23,302059;Transferência;15725;Standard;Masculino;32;14/06/2024 06:35;2436,4;4
+1238;Cardoso Oliveira Ltda.;São Paulo;MG;Viela de Barbosa;Guarani;-43,352294;-21,947334;Pagamento;17668;Standard;Feminino;31;17/01/2020 02:58;4672,47;5
+1239;Moura;Belo Horizonte;ES;Alameda de Dias;Ipiranga;-45,696091;-23,034438;Crédito;82498;Standard;Feminino;41;16/03/2021 19:53;5895,77;1
+1240;Ribeiro;Rio de Janeiro;RJ;Lago Gabrielly Martins;Copacabana;-44,040117;-22,433574;Débito;92442;Gold;Masculino;57;08/09/2020 01:33;8355,94;5
+1241;Freitas;Rio de Janeiro;SP;Residencial Enzo Gabriel Cardoso;Nova Floresta;-45,88645;-20,408267;Crédito;83508;Premium;Feminino;36;04/09/2021 10:58;6176,16;3
+1242;Jesus;Belo Horizonte;ES;Via de Fernandes;Chácara Leonina;-43,688705;-21,653868;Pagamento;76100;Standard;Feminino;67;10/03/2020 21:52;3030,32;5
+1244;Moura;Belo Horizonte;MG;Estação de da Rocha;Minas Brasil;-46,505655;-23,481418;Pagamento;28468;Gold;Masculino;61;23/06/2022 05:10;7017,09;3
+1246;da Cruz Almeida Ltda.;Belo Horizonte;SP;Parque Fernandes;Distrito Industrial Do Jatoba;-46,36148;-22,015409;Transferência;39489;Premium;Masculino;26;15/02/2024 05:05;491,96;5
+1246;Aragão Ramos - ME;Belo Horizonte;RJ;Feira Cardoso;Dom Joaquim;-43,528286;-20,362016;Crédito;87344;Standard;Masculino;23;05/10/2021 07:37;2708,69;1
+1247;Vieira;Belo Horizonte;RJ;Feira de Cavalcanti;Boa Vista;-44,370326;-21,181098;Crédito;92492;Standard;Feminino;60;12/11/2022 23:55;151,07;5
+1248;Santos e Filhos;Vitória;RJ;Trevo de Nogueira;Vila Rica;-44,387091;-23,240121;Pagamento;94636;Standard;Feminino;61;12/09/2023 08:55;3447,68;2
+1248;Cardoso e Filhos;São Paulo;RJ;Rodovia Aragão;Barroca;-44,363095;-22,552635;Transferência;12717;Premium;Feminino;35;14/12/2024 20:07;6363,98;4
+1249;Martins;Belo Horizonte;MG;Loteamento Sarah Almeida;Corumbiara;-46,04058;-21,714207;Transferência;29537;Premium;Feminino;30;28/07/2022 14:27;7640,25;5
+1251;das Neves S.A.;São Paulo;ES;Passarela de Silva;Juliana;-44,976437;-20,385135;Crédito;36211;Gold;Feminino;64;05/04/2021 09:49;1922;2
+1252;Porto - ME;Vitória;RJ;Vila da Mata;Urca;-43,440095;-21,623833;Débito;54781;Premium;Masculino;39;17/01/2023 01:46;1583,21;5
+1252;Fogaça;Rio de Janeiro;SP;Estação das Neves;São Luiz;-43,567513;-23,508474;Transferência;49529;Standard;Masculino;42;07/12/2023 05:38;4720,93;5
+1253;Porto e Filhos;Belo Horizonte;RJ;Lago Ribeiro;Alto Caiçaras;-45,722665;-22,186351;Pagamento;84737;Standard;Feminino;42;10/01/2022 22:39;9354,87;2
+1254;Ramos Teixeira S/A;Belo Horizonte;ES;Aeroporto de Barbosa;Vila Vista Alegre;-43,440329;-22,493244;Crédito;57615;Gold;Masculino;25;09/10/2020 09:27;1557,54;3
+1256;da Cunha;Rio de Janeiro;ES;Viaduto de Vieira;Vila Santa Rosa;-44,184818;-20,701024;Débito;25055;Standard;Feminino;46;11/12/2024 06:16;5208,32;5
+1258;Costela;Rio de Janeiro;ES;Estrada Jesus;Vila De Sá;-45,267173;-20,504337;Crédito;59836;Premium;Feminino;69;05/10/2021 04:33;2151,18;3
+1258;Melo;Rio de Janeiro;RJ;Viaduto de Jesus;Santo Agostinho;-43,773586;-22,987848;Débito;76267;Premium;Feminino;55;02/10/2020 12:33;5869,05;5
+1259;Fernandes;Rio de Janeiro;MG;Vila Lima;Lorena;-45,564979;-23,321536;Crédito;75688;Standard;Feminino;32;17/06/2024 20:46;2607,57;2
+1260;Ribeiro;Belo Horizonte;RJ;Viela Sales;Vila Santa Rosa;-44,030909;-21,896339;Pagamento;42851;Premium;Masculino;54;22/12/2021 22:13;9819,07;2
+1264;Mendes - EI;São Paulo;RJ;Área Oliveira;Vila Coqueiral;-44,64889;-21,15546;Crédito;17033;Standard;Masculino;62;11/07/2020 17:59;4517,93;4
+1265;Moreira;Belo Horizonte;MG;Parque de Moreira;Vila Nova Paraíso;-43,961163;-23,304131;Transferência;13962;Standard;Feminino;59;03/04/2023 14:47;4727,87;1
+1265;Melo;Belo Horizonte;MG;Largo Carlos Eduardo Cardoso;Boa União 2ª Seção;-43,677224;-20,482039;Débito;12324;Premium;Feminino;28;01/05/2020 10:06;4982,52;2
+1266;Melo - ME;São Paulo;SP;Colônia de Moraes;Olaria;-46,373548;-20,827699;Crédito;90202;Gold;Feminino;33;09/09/2022 09:20;7329,76;1
+1266;Melo;Belo Horizonte;SP;Trevo de Rezende;Alto Dos Pinheiros;-45,270666;-22,652424;Pagamento;64474;Standard;Masculino;26;10/07/2024 17:12;9460,54;2
+1267;Ramos Ribeiro - EI;São Paulo;ES;Via de Lopes;Alípio De Melo;-44,915865;-22,80138;Débito;68649;Standard;Masculino;61;10/03/2023 05:12;3746,59;4
+1268;Correia;São Paulo;ES;Lagoa de Viana;Ventosa;-45,317272;-23,203949;Transferência;75012;Premium;Masculino;35;30/04/2021 08:41;7425,59;1
+1270;Silva;Vitória;MG;Passarela Emilly Castro;João Alfredo;-43,937266;-22,388713;Pagamento;56622;Gold;Feminino;18;07/02/2021 01:51;2162,82;4
+1271;Campos e Filhos;Belo Horizonte;ES;Praça de da Paz;Santa Inês;-45,139393;-22,25129;Pagamento;43253;Premium;Masculino;66;27/09/2021 01:00;8776,21;5
+1273;Moraes S.A.;Vitória;RJ;Praça Daniel das Neves;Cachoeirinha;-44,029027;-20,396706;Crédito;52909;Gold;Feminino;33;28/05/2021 14:28;6100,86;1
+1275;Lima Aragão Ltda.;Vitória;ES;Setor de Caldeira;Vila Ouro Minas;-45,045624;-23,002639;Transferência;30911;Gold;Masculino;47;14/04/2021 19:29;781,56;1
+1275;da Rosa;Rio de Janeiro;SP;Lago Carvalho;Cenaculo;-46,429037;-22,793565;Débito;954;Gold;Masculino;19;02/07/2020 17:50;7463,08;3
+1276;Barros - ME;Vitória;ES;Vale Maria Sophia da Paz;Novo Tupi;-45,491765;-23,570725;Débito;55956;Standard;Masculino;20;10/01/2020 13:24;9162,36;3
+1277;Cavalcanti;Belo Horizonte;ES;Passarela de Fogaça;Vila Betânia;-43,317503;-21,525962;Pagamento;58672;Standard;Masculino;24;12/09/2021 02:04;1539,84;3
+1278;Gonçalves;Rio de Janeiro;RJ;Feira Silveira;Santa Helena;-45,368016;-20,574263;Débito;52197;Premium;Masculino;41;22/01/2020 16:17;4071,36;4
+1279;Teixeira;Rio de Janeiro;RJ;Estrada Noah Castro;Paraíso;-45,946157;-20,800795;Pagamento;36080;Premium;Masculino;51;17/04/2022 20:41;2877,21;2
+1280;Peixoto - EI;Belo Horizonte;ES;Setor Luna Cunha;Cidade Jardim;-44,438665;-21,282961;Pagamento;37578;Standard;Feminino;39;29/07/2023 09:14;1036,78;2
+1280;Moura Ltda.;São Paulo;ES;Viaduto Thales da Costa;Nova Cintra;-44,870573;-21,150266;Transferência;94551;Premium;Feminino;67;04/10/2021 21:47;2668,19;3
+1282;Lima;Belo Horizonte;ES;Fazenda Anthony Sales;Maria Helena;-45,548344;-21,221859;Transferência;97930;Premium;Masculino;70;30/04/2024 08:11;5013,79;5
+1282;Almeida Nogueira e Filhos;São Paulo;MG;Distrito Aragão;Alto Dos Pinheiros;-44,918225;-21,831143;Crédito;11058;Premium;Masculino;67;01/10/2022 12:44;9538,41;1
+1283;Novaes Nogueira - EI;Rio de Janeiro;RJ;Fazenda Vieira;Campo Alegre;-46,133464;-22,474187;Débito;40782;Standard;Masculino;50;02/04/2020 15:00;6712,88;5
+1284;Cardoso - ME;São Paulo;ES;Aeroporto Luiz Felipe Souza;Barreiro;-45,47515;-23,314333;Crédito;140;Gold;Masculino;39;04/12/2020 03:23;5968,39;1
+1285;Silveira e Filhos;Belo Horizonte;RJ;Viela Ana Julia da Luz;Jardim Dos Comerciarios;-44,935664;-21,103961;Crédito;74384;Premium;Masculino;35;17/05/2023 23:24;1690,79;2
+1286;da Luz Fernandes Ltda.;São Paulo;RJ;Vereda de Correia;Conjunto Novo Dom Bosco;-44,987115;-22,87234;Crédito;65597;Gold;Masculino;28;25/03/2024 10:32;1842,13;5
+1288;Lopes S/A;Belo Horizonte;ES;Via Ramos;Vera Cruz;-45,189734;-21,298632;Crédito;31526;Standard;Feminino;30;11/01/2022 16:20;2567,25;2
+1289;Pires Azevedo S.A.;Vitória;ES;Trevo Pedro Miguel da Paz;Aarão Reis;-44,761719;-21,527918;Transferência;98256;Gold;Masculino;43;15/05/2020 06:43;6778,34;4
+1291;Campos Peixoto Ltda.;São Paulo;ES;Rua Gabriel Silveira;Vila Betânia;-43,975141;-20,894822;Transferência;43841;Standard;Feminino;39;15/10/2021 07:29;1980,88;4
+1291;Novaes Azevedo - ME;Belo Horizonte;ES;Ladeira de da Cruz;Sion;-46,498339;-21,085273;Pagamento;40649;Gold;Feminino;67;24/03/2022 19:07;5950,79;1
+1294;da Luz;Belo Horizonte;RJ;Praia de Lopes;Tiradentes;-44,998865;-22,628253;Débito;20182;Gold;Masculino;40;15/10/2022 07:38;4322,14;3
+1295;Fogaça e Filhos;Vitória;SP;Travessa de Lopes;Flavio Marques Lisboa;-43,928942;-23,393971;Pagamento;46753;Premium;Feminino;24;22/02/2020 13:55;161,9;5
+1295;Gonçalves S.A.;Rio de Janeiro;ES;Conjunto Lívia Barbosa;Vila Nossa Senhora Do Rosário;-46,125364;-22,078779;Crédito;60084;Standard;Feminino;25;29/05/2021 16:37;2866,85;1
+1296;Correia;Vitória;ES;Ladeira Aragão;Araguaia;-43,740778;-20,391628;Débito;12684;Standard;Masculino;65;;1901,49;5
+1297;Freitas;Belo Horizonte;ES;Parque Correia;Vila Santa Monica 1ª Seção;-46,492204;-20,322791;Transferência;53277;Gold;Feminino;21;02/11/2024 08:32;914,24;1
+1298;Cavalcanti;Rio de Janeiro;ES;Ladeira Igor da Costa;Vila Rica;-46,604767;-22,848628;Crédito;22163;Standard;Feminino;22;12/10/2021 07:32;3444,1;2
+1300;Ferreira;Vitória;MG;Loteamento Santos;Lindéia;-44,90889;-22,431969;Pagamento;51330;Standard;Masculino;20;14/07/2024 09:09;2001,69;2
+1303;Gomes;São Paulo;MG;Quadra Pereira;Vila Rica;-44,711966;-21,018249;Débito;14792;Premium;Feminino;22;11/08/2021 22:55;6235,66;5
+1304;Fernandes;Rio de Janeiro;SP;Parque Luiz Otávio Cardoso;Vila Batik;-46,160923;-20,691936;Pagamento;13445;Standard;Feminino;23;28/06/2020 01:51;4318,19;5
+1304;Silva Ltda.;Rio de Janeiro;ES;Passarela de Porto;Nova Pampulha;-43,898188;-23,577172;Transferência;30345;Gold;Masculino;37;09/05/2021 03:20;8528,67;5
+1305;Martins;São Paulo;MG;Rua da Conceição;Buritis;-44,791772;-23,08447;Pagamento;22131;Standard;Feminino;66;09/03/2022 02:30;9613,09;5
+1306;Peixoto;Vitória;SP;Chácara de Almeida;Unidas;-46,352099;-20,60143;Pagamento;54181;Gold;Masculino;48;20/08/2021 11:38;1248,48;4
+1307;Sales Oliveira - ME;Belo Horizonte;MG;Distrito Pereira;Mineirão;-45,203502;-23,03592;Pagamento;98816;Premium;Feminino;26;13/10/2023 17:41;4151,35;3
+1308;Lopes;Belo Horizonte;RJ;Praia de Dias;Itaipu;-43,392634;-22,275437;Pagamento;72489;Gold;Feminino;18;05/05/2022 10:57;7609,94;5
+1308;Costela;Belo Horizonte;RJ;Esplanada Monteiro;Manacas;-43,957746;-20,45024;Transferência;54126;Premium;Feminino;26;06/04/2024 11:08;9636,02;5
+1310;Costa - ME;Belo Horizonte;ES;Rua Aragão;Conjunto Floramar;-46,42909;-21,703002;Crédito;90019;Standard;Masculino;43;19/03/2023 18:48;2569,72;3
+1310;Fernandes;Rio de Janeiro;MG;Via Cardoso;Carlos Prates;-44,825578;-20,309299;Crédito;47125;Standard;Masculino;55;24/08/2022 05:44;8514,41;3
+1311;Fernandes;São Paulo;MG;Ladeira Laura Teixeira;Serra;-44,878951;-22,028217;Pagamento;92960;Standard;Masculino;63;24/11/2021 01:13;6930,59;3
+1312;da Mata;Rio de Janeiro;RJ;Viaduto Ribeiro;Nossa Senhora De Fátima;-43,991566;-22,268677;Transferência;55887;Gold;Feminino;44;11/06/2023 01:16;1857;4
+1312;da Cruz;Belo Horizonte;SP;Via Ramos;Marmiteiros;-44,844351;-22,778145;Débito;18925;Gold;Feminino;36;17/04/2024 23:30;5246,36;5
+1313;Souza S.A.;Belo Horizonte;MG;Lago Luiz Otávio Nunes;Novo Tupi;-46,068274;-23,576536;Pagamento;63078;Gold;Masculino;23;02/01/2024 11:31;4235,84;3
+1313;Nogueira Moraes - EI;Vitória;ES;Conjunto de Sales;Mangabeiras;-43,854703;-21,344658;Débito;29352;Premium;Masculino;62;01/12/2020 14:05;7814,89;2
+1314;Lopes;São Paulo;ES;Colônia Jesus;Jardim São José;-46,210165;-23,215206;Transferência;77200;Standard;Feminino;55;29/08/2021 03:34;502,19;5
+1315;Barbosa;Belo Horizonte;SP;Alameda Pedro Lucas Novaes;Horto;-46,404008;-23,553404;Crédito;31821;Standard;Feminino;30;24/01/2021 04:51;5175,83;3
+1315;da Costa;São Paulo;RJ;Sítio Henrique Azevedo;Vila Calafate;-43,535498;-20,431017;Crédito;57470;Standard;Feminino;25;03/07/2021 19:32;5320,62;4
+1317;Farias;Vitória;ES;Jardim Giovanna Lima;Vila Petropolis;-45,121181;-21,726649;Transferência;20881;Premium;Masculino;22;10/01/2021 20:18;9047,47;4
+1319;da Costa - ME;Vitória;ES;Jardim Samuel Freitas;Vila Barragem Santa Lúcia;-45,866254;-21,525594;Pagamento;47580;Premium;Masculino;54;19/11/2021 04:36;1902,15;3
+1319;Ferreira;São Paulo;ES;Favela de Correia;Conjunto Capitão Eduardo;-44,265063;-22,704877;Transferência;12035;Gold;Feminino;64;08/03/2021 18:40;2343,5;1
+1319;Gonçalves;Vitória;RJ;Favela Fernandes;Gameleira;-45,708073;-22,244785;Crédito;70763;Standard;Masculino;22;24/07/2024 17:26;7652,53;4
+1320;da Cruz;Rio de Janeiro;SP;Fazenda Alice Nogueira;Cdi Jatoba;-43,6174;-22,602708;Transferência;88749;Standard;Masculino;59;06/10/2024 03:42;5208,29;3
+1321;da Rosa Martins e Filhos;Rio de Janeiro;MG;Passarela de da Conceição;Araguaia;-43,945724;-23,044588;Débito;82555;Standard;Feminino;29;14/09/2020 21:57;4897,97;2
+1322;da Conceição Gomes S.A.;Vitória;RJ;Praça Ramos;Vila Nova Dos Milionarios;-43,254907;-21,076386;Transferência;63269;Standard;Masculino;56;22/10/2022 21:10;1560,15;3
+1322;Carvalho Viana - ME;Rio de Janeiro;SP;Lago Nogueira;Independência;-44,12847;-20,65623;Crédito;99566;Gold;Feminino;36;08/05/2024 22:31;3417,93;5
+1323;Pires;Vitória;ES;Condomínio Barros;Petropolis;-45,027034;-23,073098;Crédito;35160;Premium;Feminino;18;05/07/2024 03:59;1678,98;2
+1324;Farias;Rio de Janeiro;MG;Largo de Campos;Custodinha;-46,056459;-20,889158;Crédito;90317;Standard;Feminino;48;29/10/2024 04:40;783,94;2
+1324;Fernandes Campos e Filhos;São Paulo;SP;Travessa Almeida;Jardim Vitoria;-43,441746;-21,278083;Transferência;52659;Standard;Masculino;25;27/07/2021 11:30;7152,79;3
+1325;Souza S/A;São Paulo;SP;Vereda Rezende;Serra Verde;-45,975351;-22,616773;Débito;49554;Premium;Masculino;28;24/02/2021 14:44;2430,68;4
+1325;Sales Rocha - EI;São Paulo;ES;Chácara Luiz Henrique Cunha;Varzea Da Palma;-45,408169;-21,300954;Pagamento;39978;Premium;Masculino;67;02/06/2023 12:25;8578,04;2
+1326;Pereira S.A.;Rio de Janeiro;RJ;Trecho de Monteiro;Boa União 2ª Seção;-46,373275;-21,374561;Pagamento;86051;Gold;Feminino;25;05/10/2021 03:10;9186,46;5
+1327;da Paz;Belo Horizonte;SP;Trevo Silva;João Alfredo;-45,84993;-20,55327;Transferência;18589;Premium;Feminino;29;29/10/2020 16:21;4088,29;1
+1328;Santos Mendes e Filhos;Belo Horizonte;MG;Travessa Raul Campos;Vila Paris;-45,503592;-21,356222;Transferência;67690;Standard;Masculino;61;02/02/2023 16:01;4418,48;3
+1328;Silva Vieira Ltda.;Vitória;ES;Chácara Amanda Santos;São João;-45,075659;-22,772338;Transferência;43686;Gold;Feminino;42;25/06/2023 06:21;6118,42;1
+1329;Dias;Vitória;SP;Condomínio Castro;Conjunto Paulo Vi;-44,829348;-20,786543;Débito;61436;Premium;Feminino;64;12/07/2023 07:16;8715,29;4
+1330;Correia da Cunha - ME;Belo Horizonte;RJ;Esplanada Rezende;Guarani;-43,748915;-22,599168;Débito;23313;Premium;Feminino;52;05/06/2021 08:39;1722,07;2
+1331;Cardoso;Rio de Janeiro;RJ;Aeroporto Teixeira;Petropolis;-44,982251;-22,239384;Crédito;56321;Premium;Masculino;27;21/09/2024 07:37;8729,34;1
+1335;Rodrigues;Belo Horizonte;MG;Fazenda Yasmin da Paz;Ouro Minas;-44,888974;-22,09362;Débito;68828;Standard;Masculino;20;26/09/2021 15:22;6362,19;2
+1336;Almeida;Belo Horizonte;MG;Largo de da Conceição;Lindéia;-43,82753;-22,608703;Débito;56151;Premium;Masculino;59;01/12/2024 21:42;6010,08;4
+1337;Moraes - EI;Belo Horizonte;MG;Campo de Alves;Apolonia;-44,63531;-22,138346;Crédito;50832;Gold;Feminino;32;16/02/2020 01:25;8773,15;4
+1339;Araújo;Belo Horizonte;MG;Área Ana Clara Araújo;Sport Club;-43,946917;-21,899096;Transferência;12840;Premium;Masculino;68;30/08/2024 19:38;782,82;5
+1339;Rodrigues;Vitória;MG;Trevo Aragão;São João Batista;-46,079164;-20,734992;Transferência;29388;Gold;Masculino;68;12/09/2021 09:43;7312,02;5
+1340;Cavalcanti e Filhos;São Paulo;SP;Trecho Emanuel da Paz;Sport Club;-45,653619;-20,925161;Débito;168;Standard;Masculino;43;16/01/2020 13:55;4774,73;5
+1341;Barros S/A;São Paulo;MG;Vale Noah Porto;Lindéia;-43,353804;-22,462878;Débito;87847;Premium;Feminino;52;22/03/2020 14:11;3466,13;4
+1341;Rezende Santos - EI;Vitória;ES;Estação Ana Carolina Alves;Tupi A;-46,557803;-20,549289;Crédito;21299;Premium;Masculino;57;31/07/2023 18:37;9863,52;2
+1344;Costela Duarte S.A.;Vitória;ES;Travessa Barros;Pirineus;-43,340468;-22,690614;Crédito;19431;Premium;Masculino;30;20/01/2024 19:32;2237,31;3
+1345;Barbosa;Belo Horizonte;SP;Ladeira de Cunha;Frei Leopoldo;-45,516104;-21,552224;Crédito;45339;Premium;Masculino;55;05/02/2024 23:37;2966,36;4
+1345;Dias;Vitória;SP;Viela de Nogueira;Vila Santo Antônio Barroquinha;-43,528967;-23,25767;Crédito;57823;Premium;Masculino;40;;4670,12;3
+1345;Almeida;Belo Horizonte;ES;Praia de Rezende;Ademar Maldonado;-43,394527;-23,551213;Transferência;82148;Gold;Masculino;67;10/11/2021 14:00;5364,75;5
+1348;Araújo;Belo Horizonte;MG;Distrito Diego Costela;Baleia;-45,406896;-22,568694;Crédito;43367;Gold;Feminino;58;24/09/2024 10:48;2888,64;2
+1349;Moraes;São Paulo;ES;Viela João Vitor Cardoso;Aparecida 7ª Seção;-43,515329;-21,40811;Transferência;90243;Premium;Masculino;53;06/08/2020 21:33;9367,17;3
+1350;Ribeiro;Vitória;MG;Área Rezende;Vila Independencia 1ª Seção;-45,456042;-22,034412;Transferência;58308;Premium;Feminino;19;19/09/2023 05:13;496,24;3
+1350;Nunes S.A.;Rio de Janeiro;MG;Quadra Joana Costela;Vila Sesc;-43,260762;-23,19194;Débito;78531;Standard;Feminino;55;14/04/2023 08:53;740,21;4
+1350;da Cunha e Filhos;São Paulo;ES;Rua Nunes;Maria Helena;-43,47607;-22,256308;Débito;56726;Gold;Feminino;33;11/10/2020 15:47;3616,38;5
+1350;da Mata;São Paulo;MG;Via Otávio Silva;Conjunto Bonsucesso;-45,246966;-21,571863;Crédito;17859;Premium;Masculino;29;12/05/2021 07:38;4633,87;4
+1350;da Cunha;Belo Horizonte;ES;Loteamento de da Cruz;Garças;-45,544606;-21,323109;Pagamento;1500;Standard;Feminino;62;02/02/2024 22:49;8270,46;1
+1352;Alves S.A.;Belo Horizonte;RJ;Núcleo Benício Moura;Xangri-Lá;-45,549;-23,199707;Transferência;21969;Gold;Feminino;43;06/11/2022 11:14;9769,73;3
+1355;Silveira Ltda.;Rio de Janeiro;RJ;Largo de Dias;Milionario;-46,313954;-22,42202;Crédito;66436;Standard;Feminino;47;01/02/2024 03:30;854,07;1
+1355;Farias;São Paulo;RJ;Fazenda Lopes;Vila Suzana Segunda Seção;-44,943528;-21,355903;Pagamento;21857;Standard;Masculino;50;22/04/2024 09:10;858,63;3
+1360;Teixeira - EI;Belo Horizonte;MG;Campo de Araújo;Casa Branca;-44,634028;-20,656586;Débito;50671;Gold;Feminino;59;08/08/2021 17:06;899,16;5
+1360;Lopes;Rio de Janeiro;MG;Lagoa Calebe Aragão;Santa Helena;-45,675366;-23,060033;Crédito;61468;Gold;Masculino;33;31/01/2021 19:51;3457,4;1
+1360;da Cunha;Rio de Janeiro;RJ;Chácara Nicole Pinto;Centro;-46,18143;-21,959123;Pagamento;34169;Premium;Feminino;35;03/09/2024 10:56;6896,18;2
+1360;Vieira S.A.;Belo Horizonte;ES;Parque Moura;São Geraldo;-46,532975;-20,591617;Crédito;42592;Gold;Masculino;20;04/10/2022 02:10;9688,66;4
+1363;Nascimento;Belo Horizonte;SP;Pátio Ferreira;São João Batista;-46,428744;-21,706899;Débito;58168;Gold;Masculino;32;08/07/2024 19:20;2950,24;2
+1366;Porto Cunha e Filhos;Belo Horizonte;ES;Conjunto Alice Viana;Vila Boa Vista;-46,341696;-22,134703;Pagamento;24749;Gold;Masculino;37;30/12/2022 17:55;4509,36;2
+1367;Rocha;Belo Horizonte;RJ;Aeroporto Lívia Duarte;Vila Das Oliveiras;-43,491683;-22,832418;Débito;34643;Standard;Feminino;25;23/01/2024 06:39;5395,83;3
+1368;Caldeira S/A;São Paulo;SP;Residencial Castro;Biquinhas;-45,873371;-22,167359;Pagamento;91834;Standard;Feminino;20;28/09/2021 23:02;3901,39;1
+1368;Novaes;Vitória;SP;Trevo de Duarte;Vila União;-44,607782;-22,321868;Débito;446;Premium;Masculino;56;06/12/2023 04:51;8273,22;5
+1368;Ramos da Conceição - ME;São Paulo;ES;Setor João Pedro da Luz;Vila Pilar;-44,353968;-23,025728;Transferência;72406;Premium;Feminino;38;31/07/2020 14:45;9255,22;5
+1370;da Cunha;Rio de Janeiro;SP;Estrada Agatha Barros;Vitoria;-44,131635;-22,605101;Pagamento;80496;Gold;Feminino;44;31/03/2020 17:26;3614,79;1
+1370;da Rosa;Belo Horizonte;ES;Chácara Vicente das Neves;Guaratã;-43,336825;-22,622056;Transferência;34123;Standard;Masculino;24;01/06/2021 13:11;5378,96;3
+1371;Fernandes - ME;Belo Horizonte;MG;Trecho de Novaes;Paraíso;-45,569491;-21,016808;Pagamento;32286;Premium;Masculino;54;13/11/2020 00:02;531,65;2
+1371;Rocha;Vitória;ES;Viaduto Joana Dias;Capitão Eduardo;-45,808158;-21,162529;Crédito;95103;Gold;Feminino;20;14/08/2023 05:03;805,94;1
+1371;da Costa Ltda.;São Paulo;SP;Passarela Fernandes;São Francisco;-44,255779;-20,719602;Débito;12162;Gold;Feminino;22;01/08/2023 13:27;2449,34;2
+1372;Cavalcanti;São Paulo;RJ;Sítio de Monteiro;Delta;-45,884275;-22,61816;Crédito;77124;Gold;Feminino;44;06/04/2023 05:25;4637,11;5
+1373;Correia S/A;Belo Horizonte;SP;Praça Gustavo Henrique Jesus;Apolonia;-45,921287;-22,769459;Transferência;32551;Premium;Feminino;36;15/11/2020 21:43;8991,93;1
+1374;Alves;Vitória;SP;Distrito Cunha;Vila Esplanada;-44,415027;-21,460286;Débito;27133;Standard;Feminino;53;06/03/2022 07:03;8795,88;4
+1375;Silveira;Rio de Janeiro;RJ;Praia Vitória Teixeira;Lorena;-43,423006;-22,976953;Crédito;91876;Standard;Masculino;21;31/05/2023 21:55;976,03;3
+1375;da Conceição Campos Ltda.;Rio de Janeiro;SP;Área Araújo;Santa Cecilia;-45,591411;-22,361816;Pagamento;36658;Standard;Feminino;33;02/01/2024 22:39;9356,64;4
+1380;da Conceição Caldeira S/A;São Paulo;MG;Vereda Costa;Floresta;-43,243842;-22,381761;Débito;91403;Gold;Feminino;51;09/06/2023 08:50;3569,25;3
+1381;Nunes Araújo e Filhos;Belo Horizonte;RJ;Estação Nogueira;Nova Cachoeirinha;-45,615077;-20,750079;Crédito;98350;Gold;Feminino;36;31/08/2020 08:13;3935,02;1
+1382;Teixeira e Filhos;Belo Horizonte;MG;Setor Pinto;Vila Jardim Leblon;-46,099497;-21,43308;Débito;95243;Standard;Masculino;23;06/12/2020 06:26;1314,41;2
+1382;das Neves S.A.;Belo Horizonte;MG;Jardim Pedro Henrique Moura;Vila Petropolis;-43,615618;-20,858784;Transferência;32907;Gold;Masculino;24;24/07/2024 11:36;2985,28;4
+1382;Cardoso S.A.;Belo Horizonte;MG;Praça de Pires;Bernadete;-44,117421;-20,836654;Crédito;11594;Gold;Masculino;20;16/12/2023 18:55;6884,08;2
+1383;Barbosa - ME;Rio de Janeiro;ES;Trevo Kaique Correia;Horto Florestal;-44,329027;-22,456574;Crédito;92100;Gold;Masculino;33;26/02/2020 19:28;823,05;3
+1383;Lopes;Belo Horizonte;SP;Vila Kamilly Araújo;Zilah Sposito;-46,40322;-20,47639;Débito;67648;Gold;Feminino;22;10/08/2023 08:51;5404,75;5
+1383;Freitas;Rio de Janeiro;RJ;Passarela Almeida;Beija Flor;-44,238137;-22,236743;Débito;63072;Gold;Masculino;28;07/11/2020 11:48;8412,62;3
+1384;Costa da Costa - ME;Vitória;SP;Residencial de Peixoto;Grotinha;-45,378306;-22,92293;Débito;74294;Standard;Feminino;50;19/08/2021 09:31;2358,33;2
+1385;Lima S.A.;Belo Horizonte;MG;Largo Costa;Santa Rita De Cássia;-46,024001;-20,59933;Pagamento;35784;Premium;Masculino;35;27/10/2023 20:29;8668,07;3
+1388;da Mata Ltda.;Belo Horizonte;SP;Rodovia Vieira;Vila Nova Cachoeirinha 1ª Seção;-45,395838;-22,482217;Pagamento;36768;Gold;Feminino;54;08/12/2020 05:11;7432,65;5
+1389;Oliveira;Vitória;ES;Alameda Ramos;Vista Alegre;-44,265614;-21,944996;Débito;34747;Gold;Masculino;34;31/03/2022 16:24;5192,28;5
+1389;Duarte Costela e Filhos;Rio de Janeiro;SP;Passarela de Ribeiro;Minaslandia;-43,862112;-23,423715;Transferência;54026;Gold;Masculino;26;06/07/2020 19:45;6248,42;2
+1391;Campos Nascimento S.A.;Vitória;MG;Estrada Barros;Madri;-45,806095;-23,55786;Débito;44755;Premium;Feminino;37;19/03/2023 12:16;1490,2;3
+1393;da Cunha - EI;Vitória;ES;Via de Barbosa;Parque São Pedro;-46,040064;-20,380978;Pagamento;15566;Gold;Masculino;37;16/02/2024 15:20;3012,4;1
+1395;Rodrigues;Rio de Janeiro;RJ;Loteamento Laura Aragão;Vila Do Pombal;-44,255785;-22,318559;Débito;31464;Gold;Feminino;54;09/04/2020 20:40;6281,28;1
+1395;Cardoso Moura e Filhos;Rio de Janeiro;SP;Vereda Eloah da Paz;Gutierrez;-46,347135;-20,508128;Débito;50925;Premium;Masculino;41;17/07/2024 14:15;8054,89;2
+1397;Souza;Belo Horizonte;ES;Sítio Pietra Ribeiro;Tiradentes;-45,516943;-21,587797;Crédito;32303;Standard;Masculino;46;28/07/2021 19:57;4904,04;4
+1398;Gomes;Belo Horizonte;ES;Vale Diego da Rocha;Araguaia;-44,671904;-21,526613;Crédito;19020;Premium;Masculino;38;09/06/2023 03:19;8697,13;3
+1399;da Mata;São Paulo;MG;Recanto de Costela;Alto Vera Cruz;-46,040627;-21,463988;Débito;56039;Premium;Masculino;34;09/01/2022 13:17;992,68;2
+1399;Pinto Barros - EI;São Paulo;MG;Pátio Carvalho;Havaí;-44,414828;-22,899415;Crédito;87667;Standard;Masculino;33;14/09/2021 07:34;8738,8;2
+1400;Costela S.A.;São Paulo;MG;Chácara Viana;Vila Jardim Alvorada;-43,781544;-23,217048;Crédito;35505;Premium;Masculino;48;30/04/2023 17:08;2184,71;1
+1400;da Costa e Filhos;Vitória;SP;Residencial Teixeira;Conjunto Serra Verde;-43,279753;-22,748381;Débito;93480;Gold;Feminino;37;01/07/2020 13:18;2472,79;4
+1400;Oliveira Ltda.;Belo Horizonte;SP;Condomínio Mendes;Flavio Marques Lisboa;-43,427834;-21,594674;Pagamento;53434;Premium;Masculino;35;04/11/2022 05:44;5712,15;5
+1400;Costa;Rio de Janeiro;ES;Distrito Moraes;Leonina;-46,03008;-23,067146;Crédito;40118;Premium;Feminino;37;24/09/2021 05:10;7936,32;4
+1402;Castro;Vitória;RJ;Distrito Luiz Henrique da Luz;Madri;-46,600038;-23,395468;Crédito;74885;Standard;Masculino;22;22/10/2023 16:55;2129,65;3
+1405;Barros - ME;São Paulo;SP;Área de Cunha;Santa Rita;-46,039861;-22,163831;Débito;53371;Gold;Masculino;39;21/09/2020 18:19;748,57;5
+1406;Ramos;Rio de Janeiro;ES;Praia Leonardo Viana;Nova Gameleira;-44,046376;-23,385048;Crédito;80422;Gold;Feminino;51;24/11/2020 22:45;5107,89;2
+1406;Araújo e Filhos;Rio de Janeiro;ES;Trecho de Carvalho;Piratininga;-43,872413;-20,475745;Débito;75088;Gold;Masculino;65;18/03/2022 22:15;9086,6;4
+1407;Costela Nogueira Ltda.;Vitória;SP;Rua de Viana;Distrito Industrial Do Jatoba;-45,184756;-21,770071;Transferência;35171;Premium;Masculino;27;26/09/2021 09:27;6528,77;4
+1408;Duarte;São Paulo;SP;Chácara da Conceição;Goiania;-44,537642;-22,962924;Transferência;94209;Standard;Feminino;27;12/06/2024 13:28;506,24;1
+1408;Sales;São Paulo;SP;Praia Pedro Lucas Lima;Bom Jesus;-45,74041;-22,251702;Transferência;41243;Premium;Masculino;59;22/12/2020 13:08;6630,29;1
+1409;Sales;Belo Horizonte;ES;Rodovia de Barros;Garças;-44,143236;-21,386459;Débito;31661;Gold;Masculino;55;07/02/2021 14:42;3665,65;3
+1409;Costela;São Paulo;SP;Jardim Vitor Gabriel Cardoso;Serrano;-46,683428;-22,512221;Débito;50956;Standard;Masculino;50;19/04/2024 08:19;7803,99;1
+1410;Lima;São Paulo;SP;Pátio de Rocha;Milionario;-45,600108;-22,167556;Crédito;26388;Premium;Feminino;30;15/11/2021 16:55;7562,81;3
+1411;Caldeira Santos - ME;Vitória;MG;Trevo Castro;Vila Mantiqueira;-46,688125;-23,552839;Crédito;98573;Standard;Masculino;30;30/04/2023 15:40;1277,15;2
+1411;Rezende;Belo Horizonte;ES;Esplanada Mendes;Pousada Santo Antonio;-44,906561;-22,833424;Crédito;60315;Gold;Feminino;68;01/07/2023 05:33;5171,99;2
+1412;Gomes;Rio de Janeiro;SP;Travessa Sarah Aragão;Floramar;-43,785307;-20,755111;Pagamento;37656;Gold;Masculino;67;01/02/2020 01:19;4092,21;5
+1414;Fernandes Vieira S.A.;Belo Horizonte;RJ;Parque Rocha;Mariano De Abreu;-44,43485;-21,290625;Transferência;21200;Gold;Feminino;27;30/12/2023 01:22;8938,56;5
+1415;Teixeira;Rio de Janeiro;MG;Viela Cunha;Xangri-Lá;-45,381284;-20,532583;Crédito;83466;Gold;Feminino;34;24/08/2020 10:28;3411,43;1
+1415;Nunes;Belo Horizonte;RJ;Recanto de Vieira;Novo Glória;-43,752132;-23,513209;Transferência;92586;Gold;Masculino;50;30/05/2024 09:25;8134,43;5
+1416;Correia Gonçalves S.A.;São Paulo;RJ;Colônia Guilherme Caldeira;Novo Ouro Preto;-44,860273;-22,87897;Crédito;35095;Premium;Masculino;56;01/03/2021 01:12;2033,55;5
+1416;Rodrigues;São Paulo;RJ;Praia da Cruz;Garças;-44,689933;-20,857973;Transferência;91448;Premium;Feminino;70;15/12/2022 21:44;8222,95;5
+1416;Moreira Silva S.A.;Vitória;SP;Passarela de Cardoso;Cenaculo;-44,10056;-22,12923;Débito;83474;Premium;Masculino;55;20/06/2023 20:40;9559,91;1
+1417;Azevedo S/A;Vitória;ES;Travessa da Conceição;Vila São Paulo;-43,599265;-22,566146;Débito;21151;Standard;Feminino;59;20/04/2021 19:50;5834,14;2
+1417;Azevedo;Belo Horizonte;SP;Fazenda de Monteiro;Cachoeirinha;-45,796806;-23,500854;Débito;53174;Premium;Feminino;32;28/09/2024 23:47;5872,19;2
+1420;Melo Azevedo e Filhos;Vitória;ES;Lagoa Lima;Xodo-Marize;-46,500588;-22,89863;Pagamento;12640;Gold;Masculino;26;02/05/2022 12:51;6487,17;1
+1420;Lopes;São Paulo;ES;Jardim Milena Gomes;Minas Brasil;-43,47866;-20,645081;Débito;96511;Gold;Feminino;52;15/05/2024 11:32;6740,09;3
+1421;Cunha S.A.;São Paulo;ES;Loteamento Renan Moura;Vila Nova Gameleira 1ª Seção;-45,346609;-23,444791;Pagamento;29840;Premium;Masculino;56;18/10/2020 03:20;6212,26;3
+1422;da Paz;Vitória;RJ;Núcleo de Farias;Serrano;-44,568542;-22,841405;Transferência;68704;Standard;Masculino;69;14/09/2020 10:19;2917,92;2
+1422;Pinto;Vitória;ES;Recanto João Miguel da Cruz;Ribeiro De Abreu;-43,439909;-20,869114;Crédito;22214;Gold;Feminino;37;07/06/2020 01:59;9203,61;4
+1422;Jesus Alves - EI;Rio de Janeiro;SP;Morro Danilo Melo;Jaqueline;-46,646515;-22,768332;Débito;19024;Premium;Feminino;39;10/12/2022 21:34;9666,36;3
+1423;Melo - EI;Vitória;ES;Quadra Nogueira;Vila Inestan;-45,412919;-22,948588;Débito;18928;Gold;Masculino;60;05/08/2021 22:50;968,76;5
+1427;Duarte - EI;Rio de Janeiro;SP;Esplanada de Ramos;Ápia;-44,144299;-23,13797;Pagamento;24358;Premium;Masculino;63;11/01/2021 00:35;2554,6;1
+1428;Mendes - ME;São Paulo;ES;Estrada de Rodrigues;Vila Independencia 3ª Seção;-43,636267;-23,100694;Pagamento;851;Premium;Feminino;29;28/07/2023 12:24;5902,04;3
+1428;Rocha S.A.;São Paulo;RJ;Avenida de Aragão;São Marcos;-45,141267;-22,744551;Débito;68505;Standard;Feminino;53;15/08/2023 08:26;6079,38;1
+1428;Araújo;Vitória;RJ;Parque de Aragão;Cardoso;-45,738984;-20,503728;Pagamento;18673;Standard;Feminino;46;08/11/2020 01:40;6828,49;2
+1429;Alves Gonçalves S.A.;São Paulo;SP;Praia Pires;Lourdes;-43,221074;-22,571714;Débito;38492;Standard;Masculino;29;08/01/2021 20:13;1044,62;5
+1429;da Paz;São Paulo;RJ;Residencial Novaes;Grotinha;-44,595771;-22,300456;Crédito;27304;Gold;Feminino;53;05/10/2021 20:20;4225,82;2
+1429;Melo Pinto S/A;Rio de Janeiro;MG;Residencial Pinto;Santa Tereza;-45,907075;-21,931808;Débito;22293;Premium;Feminino;;09/08/2022 05:08;4952,63;4
+1429;Nogueira;Vitória;ES;Ladeira de Nogueira;Tiradentes;-45,178752;-22,110609;Transferência;44821;Premium;Masculino;70;24/04/2021 10:31;6577,12;2
+1431;da Paz;São Paulo;MG;Rodovia Clara Costa;Senhor Dos Passos;-44,597263;-22,605471;Crédito;83125;Standard;Feminino;18;23/11/2020 20:55;9690,83;1
+1432;Costa;São Paulo;SP;Condomínio Mariana Sales;Novo Glória;-45,245256;-23,272604;Débito;14024;Gold;Feminino;61;27/04/2020 12:23;4228,49;4
+1432;da Rocha;Belo Horizonte;ES;Praia de Mendes;Cabana Do Pai Tomás;-43,252478;-21,993464;Débito;47147;Premium;Masculino;46;04/11/2021 22:49;4451,47;3
+1432;Correia Barros - ME;Vitória;MG;Parque Lívia Azevedo;Leonina;-45,97657;-22,255673;Pagamento;75622;Standard;Masculino;64;20/03/2020 03:58;4659,44;1
+1434;Novaes;Belo Horizonte;RJ;Condomínio Moreira;Zilah Sposito;-44,15851;-22,1472;Crédito;92389;Gold;Masculino;38;14/10/2024 13:02;4099,57;1
+1435;Cunha Cardoso Ltda.;Rio de Janeiro;ES;Recanto Ryan Alves;Concórdia;-43,455964;-20,505987;Crédito;85274;Gold;Feminino;;30/08/2021 10:09;7409,92;5
+1436;da Cruz;São Paulo;MG;Fazenda Porto;Minas Caixa;-45,527213;-21,332535;Débito;31830;Standard;Feminino;69;31/10/2024 04:26;9748,15;1
+1437;Silva Ltda.;Belo Horizonte;ES;Pátio Ana Barros;Vila Calafate;-45,524674;-22,352384;Transferência;93436;Premium;Masculino;38;22/05/2024 13:01;9262,63;2
+1438;Pinto;São Paulo;MG;Quadra Milena Rocha;Vila Atila De Paiva;-44,233277;-21,941855;Crédito;58754;Standard;Masculino;35;13/11/2024 09:48;7247,41;1
+1439;Costela;São Paulo;SP;Morro da Rocha;Buritis;-45,956782;-23,025102;Débito;36281;Standard;Feminino;23;27/11/2024 11:28;5301,56;3
+1441;Teixeira;Vitória;MG;Colônia da Costa;Conjunto Jatoba;-45,713562;-23,518826;Débito;90229;Gold;Masculino;53;16/11/2022 00:02;9742,91;4
+1443;Costa Mendes - EI;Belo Horizonte;RJ;Campo Ferreira;Vila Nova Cachoeirinha 3ª Seção;-45,806122;-22,020805;Débito;96796;Standard;Feminino;33;07/09/2023 19:03;377,4;3
+1443;Vieira Silveira e Filhos;Rio de Janeiro;ES;Praça de Novaes;Santa Lúcia;-45,781402;-23,473401;Transferência;54777;Standard;Feminino;32;25/03/2022 07:10;3971,54;1
+1443;Araújo Silva Ltda.;São Paulo;SP;Quadra Ferreira;Camponesa 1ª Seção;-45,042469;-20,763324;Débito;80760;Premium;Masculino;41;21/10/2023 06:08;7325,7;4
+1443;da Rosa Gomes e Filhos;São Paulo;ES;Aeroporto de Teixeira;São Benedito;-44,585355;-23,067449;Transferência;72175;Gold;Masculino;55;23/08/2023 14:05;9192,28;3
+1444;Moura Rezende Ltda.;Vitória;ES;Esplanada de Porto;Nossa Senhora Aparecida;-45,802846;-20,919658;Crédito;82407;Standard;Feminino;27;16/02/2020 03:36;7035,31;5
+1445;Vieira;Rio de Janeiro;ES;Parque Campos;Novo Das Industrias;-45,984608;-20,88897;Pagamento;78054;Gold;Masculino;27;05/05/2020 15:32;9892,97;5
+1446;Santos;Vitória;MG;Aeroporto da Rocha;Estrela Do Oriente;-46,199614;-23,259942;Débito;37361;Standard;Masculino;26;01/02/2023 20:28;8053,95;5
+1448;Gomes;Rio de Janeiro;RJ;Rodovia Vinicius Aragão;Aeroporto;-45,863011;-22,877607;Crédito;18056;Gold;Feminino;39;04/01/2020 20:22;1600,67;1
+1450;Porto e Filhos;São Paulo;ES;Sítio Nunes;Vila Santo Antônio Barroquinha;-46,642839;-23,195086;Transferência;20861;Standard;Feminino;31;17/10/2023 22:04;2639,27;4
+1450;Monteiro;Belo Horizonte;SP;Colônia Rafaela Costa;Vila Jardim São José;-44,367562;-23,22116;Crédito;28967;Standard;Masculino;32;19/02/2020 10:33;5369,59;4
+1450;Silva;Vitória;RJ;Estrada de Teixeira;Vila Paris;-45,885136;-22,599413;Crédito;65663;Gold;Feminino;51;06/11/2021 14:38;5650,36;3
+1451;Fernandes;São Paulo;ES;Rodovia de Fogaça;Pedreira Padro Lopes;-43,766328;-23,525252;Débito;28575;Standard;Feminino;53;19/10/2023 18:37;6862,04;2
+1452;Gomes;Vitória;MG;Rua Rafael Moura;Cenaculo;-43,871084;-22,027013;Débito;13539;Gold;Masculino;70;26/07/2020 06:53;2553,07;3
+1452;Nunes;Vitória;RJ;Lago de Cavalcanti;Ribeiro De Abreu;-43,763384;-22,613702;Pagamento;85090;Premium;Feminino;59;24/06/2022 05:19;9274,6;1
+1454;Araújo;Rio de Janeiro;RJ;Vale Gomes;Vila Nova Cachoeirinha 1ª Seção;-46,465607;-21,177023;Pagamento;61384;Standard;Masculino;36;16/08/2022 11:27;9504,8;3
+1456;Lopes;Vitória;ES;Esplanada Costa;São Sebastião;-43,430754;-21,553169;Transferência;12900;Gold;Feminino;67;26/03/2021 06:59;1889,14;3
+1456;Viana;Belo Horizonte;MG;Chácara Novaes;Aguas Claras;-43,405095;-23,576359;Transferência;45410;Standard;Masculino;18;12/07/2020 13:52;5979,93;4
+1458;Araújo;Belo Horizonte;SP;Loteamento de da Costa;Conjunto Taquaril;-46,552422;-22,160084;Crédito;31825;Standard;Masculino;41;24/03/2024 11:18;4248,48;3
+1458;Santos;Vitória;SP;Praça de das Neves;Vila Jardim Leblon;-43,565501;-21,917486;Débito;22770;Premium;Feminino;53;02/07/2020 03:30;8287,35;2
+1458;Martins;São Paulo;MG;Avenida Raquel Santos;Trevo;-44,003598;-21,285952;Débito;33544;Premium;Feminino;45;20/01/2024 14:13;9794,04;2
+1459;Correia;Vitória;ES;Loteamento Amanda Monteiro;Comiteco;-45,651555;-21,97143;Débito;32704;Premium;Masculino;69;07/04/2023 09:07;2562,24;1
+1459;Martins da Mata - EI;Belo Horizonte;SP;Trevo de Pinto;Conjunto Bonsucesso;-43,261458;-23,315956;Pagamento;94325;Gold;Feminino;68;13/03/2024 01:52;6485,4;2
+1460;Souza da Mota - EI;Rio de Janeiro;ES;Morro Henrique da Costa;Vila Paris;-45,902668;-23,185052;Crédito;69982;Gold;Feminino;40;14/11/2024 01:52;5129,45;2
+1460;Gonçalves Moraes - ME;Vitória;RJ;Feira de Pinto;Vila São Paulo;-45,755813;-21,360809;Pagamento;69789;Gold;Feminino;32;08/04/2021 05:06;5989,45;4
+1462;Lima;Rio de Janeiro;SP;Área de da Cruz;Ribeiro De Abreu;-46,425664;-22,835323;Pagamento;65410;Standard;Masculino;27;05/05/2021 10:03;6184,95;3
+1463;da Luz;Belo Horizonte;SP;Estação Moreira;Álvaro Camargos;-44,021743;-22,211257;Débito;53501;Standard;Feminino;30;27/12/2021 04:26;3052,57;4
+1465;Carvalho Ltda.;São Paulo;ES;Lago Lima;Barreiro;-44,508881;-21,305181;Débito;20496;Standard;Feminino;47;04/01/2020 15:26;6229,9;4
+1467;Lima;Belo Horizonte;ES;Feira de Moraes;Capitão Eduardo;-45,311369;-23,11865;Débito;41174;Premium;Feminino;;14/10/2021 20:10;237,13;4
+1468;Silveira S.A.;Belo Horizonte;RJ;Rua Marina Aragão;Vila Inestan;-46,212642;-22,591582;Crédito;62803;Premium;Feminino;70;03/04/2023 18:09;9138,55;5
+1469;Melo;Rio de Janeiro;SP;Feira Moraes;Europa;-44,906495;-21,755544;Pagamento;89692;Gold;Feminino;60;23/05/2021 08:29;1674,56;4
+1470;Lima;Belo Horizonte;RJ;Colônia de Aragão;Andiroba;-43,919188;-23,037895;Crédito;67240;Premium;Masculino;32;09/08/2020 12:37;6890,79;4
+1470;Correia;Belo Horizonte;MG;Pátio de Ramos;Vila Suzana Segunda Seção;-46,184376;-22,758275;Pagamento;37055;Premium;Masculino;50;18/08/2020 04:40;7816,77;3
+1471;Cunha S.A.;Vitória;RJ;Estação de Oliveira;Monsenhor Messias;-44,848619;-21,074703;Pagamento;78754;Standard;Masculino;63;28/02/2020 04:28;305,36;1
+1471;Rodrigues;Belo Horizonte;ES;Ladeira Manuela Ramos;Mala E Cuia;-45,008493;-22,705569;Pagamento;93725;Premium;Masculino;23;17/08/2024 02:45;3564,54;1
+1472;da Mota S.A.;Vitória;RJ;Viaduto João Silveira;Jardim Dos Comerciarios;-44,907856;-21,082814;Pagamento;46324;Premium;Feminino;59;21/11/2024 02:27;3138,78;2
+1472;da Costa;Belo Horizonte;ES;Trevo Azevedo;Jardim Montanhês;-44,778151;-22,170072;Pagamento;55553;Gold;Masculino;30;05/11/2021 23:49;5791,75;4
+1474;Pinto;Belo Horizonte;ES;Condomínio Ribeiro;Vila Nova Gameleira 1ª Seção;-44,439501;-21,031711;Pagamento;57332;Premium;Feminino;59;16/10/2023 16:46;5697,71;5
+1477;Silveira Martins - EI;Belo Horizonte;SP;Favela Cunha;Vila Antena;-43,21932;-22,422959;Transferência;39136;Premium;Masculino;33;22/10/2023 19:49;1631,64;4
+1477;Almeida S.A.;Belo Horizonte;MG;Viela Barros;São Bento;-46,151082;-21,124456;Débito;89922;Gold;Masculino;42;18/03/2024 09:34;7789,08;3
+1480;Moura Ramos - ME;Belo Horizonte;SP;Rua Costela;Vila Santo Antônio Barroquinha;-46,054709;-22,921883;Débito;26798;Gold;Feminino;21;16/07/2021 08:51;1822,54;4
+1483;Aragão Cunha S/A;Belo Horizonte;ES;Campo Correia;Dom Cabral;-44,305661;-22,389988;Pagamento;91175;Premium;Feminino;31;07/11/2020 00:54;7549,98;4
+1483;Fernandes;Rio de Janeiro;ES;Colônia da Conceição;São Marcos;-44,458386;-20,908408;Pagamento;20820;Premium;Feminino;33;31/03/2024 01:27;7912,72;1
+1484;Rodrigues;Vitória;MG;Distrito de Silveira;Vila Jardim Leblon;-45,493946;-21,041174;Débito;39129;Gold;Feminino;59;29/09/2020 00:41;329,91;4
+1484;Cardoso;São Paulo;ES;Estrada de Aragão;Teixeira Dias;-44,446423;-21,155802;Crédito;24107;Premium;Feminino;62;29/10/2023 20:28;4160,63;3
+1484;Moraes S.A.;Vitória;MG;Travessa Maria Vitória Correia;Nova Cachoeirinha;-43,222261;-21,587925;Crédito;37551;Premium;Masculino;63;05/10/2021 16:56;8444,78;4
+1485;Duarte;São Paulo;RJ;Rodovia Otávio Ferreira;Dom Bosco;-43,873937;-23,237911;Transferência;65534;Premium;Feminino;20;01/06/2023 01:15;1119,37;1
+1485;Carvalho Costa - ME;Belo Horizonte;RJ;Residencial Silveira;Penha;-46,199432;-20,904421;Débito;40732;Premium;Feminino;;02/08/2024 08:25;5031,74;5
+1485;Vieira Pereira e Filhos;Belo Horizonte;MG;Rodovia Diogo Carvalho;Salgado Filho;-44,934618;-21,670623;Pagamento;51860;Standard;Feminino;32;07/07/2022 07:09;7427,95;5
+1489;Aragão;Vitória;ES;Vereda Cauã Araújo;Gameleira;-44,753509;-22,723762;Débito;24532;Gold;Masculino;41;19/05/2020 16:42;8137,45;2
+1495;Moura Ltda.;Vitória;MG;Núcleo Calebe Campos;Nova America;-43,818796;-23,576153;Débito;62729;Gold;Masculino;65;24/06/2022 02:56;8505,09;4
+1496;Fernandes;São Paulo;ES;Jardim Ana Lívia da Mata;Morro Dos Macacos;-46,009787;-22,949735;Transferência;89811;Standard;Masculino;23;24/07/2023 12:28;4896,68;5
+1497;Novaes;São Paulo;RJ;Estrada de Dias;Monte Azul;-45,883454;-22,145405;Crédito;11781;Premium;Feminino;69;08/08/2020 03:52;3851,04;4
+1498;Lima;Vitória;RJ;Parque Marcos Vinicius das Neves;Vila Independencia 3ª Seção;-44,576735;-20,854732;Transferência;37958;Premium;Masculino;26;04/10/2024 00:32;7344,05;4
+1499;Araújo Novaes e Filhos;São Paulo;MG;Morro Pedro Henrique da Conceição;Jardim Dos Comerciarios;-45,955357;-23,209562;Transferência;82019;Premium;Feminino;50;29/03/2024 12:12;9422,27;2
+1500;Novaes - ME;Belo Horizonte;RJ;Esplanada Vitor Hugo Araújo;Vila Havaí;-45,318654;-21,964568;Pagamento;81607;Gold;Feminino;32;17/09/2022 14:57;1297,15;4
+1501;da Paz;Vitória;SP;Largo Mariana Fernandes;Vila Satélite;-45,21721;-23,040532;Crédito;40279;Standard;Feminino;42;16/03/2022 10:44;403,01;1
+1501;Dias;Belo Horizonte;RJ;Núcleo de Moraes;Oeste;-44,65108;-20,708612;Pagamento;44717;Standard;Masculino;25;11/05/2022 21:19;9423,65;2
+1502;da Cunha e Filhos;São Paulo;SP;Núcleo Peixoto;Flamengo;-46,460376;-23,50584;Crédito;81464;Gold;Masculino;41;15/04/2022 02:49;548,21;4
+1503;Gonçalves Ltda.;São Paulo;MG;Avenida de Castro;Vila Mangueiras;-45,729275;-22,180916;Pagamento;86936;Premium;Feminino;45;22/09/2023 13:06;286,62;1
+1505;Lima;Belo Horizonte;RJ;Vereda Letícia da Mota;Vila Nova Cachoeirinha 3ª Seção;-45,357345;-21,241994;Transferência;53459;Premium;Masculino;53;09/07/2020 22:58;2833,22;4
+1506;Porto S.A.;Rio de Janeiro;SP;Feira Pietra da Mata;Coração Eucarístico;-46,594622;-21,25488;Crédito;71034;Gold;Feminino;62;16/11/2022 10:14;5668,66;4
+1506;Pereira da Rocha - ME;Belo Horizonte;ES;Estrada de Fogaça;Biquinhas;-43,539095;-20,306272;Transferência;95147;Gold;Feminino;39;01/03/2021 04:23;8865,73;4
+1507;Carvalho e Filhos;São Paulo;MG;Colônia de Cunha;Cônego Pinheiro 2ª Seção;-45,215022;-23,013891;Pagamento;94516;Standard;Masculino;55;15/10/2024 00:08;7121,81;4
+1508;das Neves;São Paulo;MG;Trecho de Barbosa;Vila Trinta E Um De Março;-45,121221;-21,965645;Transferência;83940;Standard;Feminino;30;10/11/2020 04:54;1812,02;5
+1509;Carvalho;Vitória;ES;Conjunto Fogaça;Flavio Marques Lisboa;-46,574554;-20,514958;Débito;30942;Gold;Masculino;55;15/06/2021 17:57;1771,08;4
+1509;da Rosa;Vitória;ES;Avenida de Cavalcanti;Heliopolis;-46,082361;-22,892914;Débito;24727;Standard;Feminino;26;04/09/2023 19:25;7871,69;5
+1509;da Paz;Vitória;RJ;Lagoa de Cardoso;São Luiz;-44,029806;-21,241469;Crédito;12285;Gold;Masculino;31;20/11/2020 22:03;8818,72;5
+1511;Cardoso - EI;Rio de Janeiro;ES;Largo João Felipe Gonçalves;Gameleira;-45,747116;-21,434766;Pagamento;14751;Premium;Feminino;53;19/09/2023 13:49;947,87;3
+1511;Pires Ltda.;Vitória;ES;Rua Augusto Nascimento;Piratininga;-44,958388;-22,415178;Crédito;27295;Gold;Masculino;52;05/06/2021 19:12;3479,27;4
+1511;Costa;Belo Horizonte;RJ;Feira Ana Júlia da Mata;Canadá;-46,407062;-21,09477;Débito;39114;Premium;Feminino;30;18/06/2020 00:14;5020,28;5
+1512;Campos;São Paulo;SP;Passarela Rocha;Confisco;-44,979471;-22,192087;Transferência;72655;Premium;Feminino;66;05/10/2022 16:43;4870,11;5
+1514;Carvalho S.A.;São Paulo;SP;Estrada Rocha;Horto;-45,010648;-21,222151;Pagamento;17821;Gold;Feminino;41;17/08/2021 21:56;6246,3;2
+1515;Sales;Vitória;SP;Via de Moraes;Bom Jesus;-44,612303;-21,292234;Pagamento;36129;Gold;Feminino;64;04/10/2022 15:24;4755,14;5
+1516;Rocha;Rio de Janeiro;MG;Trecho Leandro Santos;Colégio Batista;-46,21089;-23,287058;Transferência;150486;Standard;Masculino;37;25/05/2022 15:21;1077,76;1
+1517;Pinto;Belo Horizonte;SP;Parque Natália Araújo;Canadá;-46,67208;-23,127694;Débito;95522;Premium;Masculino;25;11/09/2023 03:57;8301,52;4
+1520;da Cruz;São Paulo;ES;Morro Maria Alice Correia;Camponesa 2ª Seção;-45,823963;-22,701135;Débito;48499;Premium;Masculino;30;23/03/2023 00:26;9421,29;2
+1523;Gomes;Belo Horizonte;SP;Trecho de Rocha;Ermelinda;-43,554143;-23,254885;Pagamento;98355;Standard;Feminino;29;25/03/2020 19:16;1559,29;1
+1523;Ramos Nogueira S.A.;Vitória;RJ;Rua Pereira;Solimoes;-45,85686;-21,321185;Débito;25539;Standard;Masculino;48;11/03/2024 03:25;4696,15;3
+1523;das Neves;Rio de Janeiro;SP;Parque Pietra Santos;Coração De Jesus;-44,507153;-20,437842;Débito;22354;Standard;Feminino;41;21/11/2022 15:18;5333,43;3
+1523;da Cunha;São Paulo;RJ;Pátio Lívia Pinto;Cônego Pinheiro 2ª Seção;-46,261161;-23,157945;Pagamento;94134;Standard;Masculino;64;21/10/2023 16:30;8255,22;1
+1524;Nogueira;São Paulo;SP;Rodovia Martins;Barão Homem De Melo 1ª Seção;-44,157502;-21,887343;Pagamento;93913;Gold;Masculino;21;20/08/2020 11:24;760,65;4
+1524;Costela;Rio de Janeiro;ES;Estrada Nascimento;Engenho Nogueira;-46,08637;-22,143469;Transferência;57781;Standard;Feminino;65;23/01/2024 13:42;8819,38;3
+1525;Costela Ltda.;Vitória;RJ;Lagoa Lara da Costa;Santa Cecilia;-45,761963;-23,489268;Transferência;85561;Gold;Feminino;32;13/10/2023 14:10;7038,41;3
+1526;da Luz;São Paulo;SP;Aeroporto Fernandes;Carmo;-44,346552;-22,364596;Transferência;38715;Premium;Feminino;52;30/06/2021 16:04;1769,49;5
+1528;Azevedo S/A;Rio de Janeiro;ES;Loteamento Enzo Gomes;Caetano Furquim;-45,922415;-21,762832;Pagamento;93131;Premium;Masculino;57;17/01/2022 07:24;5340,39;3
+1528;Vieira;São Paulo;RJ;Área Rodrigues;Nova Cintra;-44,499373;-21,250414;Pagamento;52167;Gold;Masculino;65;21/12/2023 21:42;6013,78;3
+1531;Peixoto;Rio de Janeiro;SP;Trevo Yasmin Mendes;Eymard;-44,297311;-20,802185;Débito;79250;Premium;Masculino;42;24/10/2022 23:31;1689,71;4
+1532;Almeida Azevedo - ME;Vitória;ES;Vila de Rodrigues;Vila Nova Cachoeirinha 3ª Seção;-43,673458;-20,587255;Pagamento;93892;Standard;Masculino;40;28/11/2020 13:49;3519,21;2
+1535;Rodrigues;Rio de Janeiro;MG;Praia da Paz;Aarão Reis;-46,632156;-23,084106;Transferência;73183;Standard;Masculino;43;04/09/2021 05:06;3437,09;2
+1535;Souza;Rio de Janeiro;SP;Área de Carvalho;Vila Inestan;-45,262184;-21,50584;Pagamento;46518;Gold;Feminino;41;28/05/2024 08:45;5725,51;2
+1536;da Paz;Rio de Janeiro;RJ;Colônia de Santos;Vila Trinta E Um De Março;-46,051403;-23,377695;Transferência;64321;Gold;Feminino;51;17/03/2024 20:57;1614,92;3
+1536;Farias;Belo Horizonte;RJ;Jardim Vieira;Conjunto Paulo Vi;-43,595032;-22,790183;Crédito;25291;Standard;Masculino;36;24/07/2024 22:03;3647,51;5
+1536;Moreira;Belo Horizonte;RJ;Parque João Aragão;Monte São José;-46,653544;-21,597788;Transferência;22769;Gold;Feminino;64;10/12/2024 04:38;3883,92;3
+1537;Teixeira Ltda.;São Paulo;RJ;Feira Sales;São Jorge 3ª Seção;-44,239162;-20,391293;Débito;60904;Gold;Masculino;22;14/03/2024 11:02;4150,33;2
+1537;Pires Nogueira Ltda.;São Paulo;ES;Setor Nina da Conceição;Zilah Sposito;-46,496048;-21,686493;Débito;765;Gold;Feminino;36;03/11/2024 18:04;5545,17;4
+1537;Martins S.A.;Belo Horizonte;MG;Alameda Noah da Luz;Teixeira Dias;-43,62046;-21,998801;Crédito;64656;Premium;Masculino;61;01/05/2021 18:21;9854,09;2
+1539;Pereira;São Paulo;MG;Núcleo Sofia Nunes;Maria Tereza;-44,247097;-21,856631;Transferência;39977;Standard;Masculino;46;02/07/2023 10:30;4894,55;5
+1541;Cunha;Vitória;ES;Lago Mariana Melo;Maravilha;-45,588752;-20,973061;Débito;53367;Gold;Masculino;51;28/03/2023 19:29;7247,1;1
+1542;Silva;Vitória;ES;Loteamento de das Neves;Tupi A;-43,28076;-22,931022;Crédito;56801;Standard;Feminino;60;23/11/2022 05:30;6605,06;5
+1543;Nunes;Vitória;SP;Recanto de da Cruz;Conjunto Califórnia Ii;-45,587665;-22,280054;Transferência;14627;Standard;Feminino;61;14/01/2020 13:38;7474,85;1
+1544;Azevedo Ltda.;Rio de Janeiro;RJ;Alameda Marina Jesus;Gutierrez;-43,306327;-22,448901;Transferência;13189;Gold;Feminino;30;01/05/2023 18:41;7802,1;2
+1545;Cunha S.A.;Rio de Janeiro;ES;Travessa Sofia da Rosa;Flavio Marques Lisboa;-43,254096;-21,145529;Transferência;40741;Gold;Feminino;42;14/02/2021 12:13;9492,25;5
+1545;Costa;São Paulo;SP;Largo Aragão;Conjunto Taquaril;-46,663084;-21,135306;Débito;61887;Gold;Feminino;44;23/01/2021 16:07;9732,51;4
+1546;Gomes S/A;Rio de Janeiro;RJ;Trecho de Castro;Esperança;-43,863987;-23,348868;Crédito;43747;Premium;Masculino;59;27/07/2022 16:27;5104,69;3
+1547;Costela;Rio de Janeiro;MG;Largo Ana Laura da Costa;Santa Cecilia;-43,627119;-21,316659;Transferência;79932;Standard;Masculino;45;23/02/2022 01:45;8719,6;5
+1548;Novaes;Vitória;SP;Pátio de Carvalho;Heliopolis;-44,926485;-22,060336;Débito;14231;Premium;Masculino;33;07/02/2024 10:17;1041,86;4
+1549;Moraes;São Paulo;ES;Lago de Melo;Vila Jardim Leblon;-45,020619;-21,316965;Transferência;89329;Premium;Masculino;52;03/01/2021 02:19;5017,66;2
+1550;Martins;São Paulo;RJ;Fazenda Nina Caldeira;Lagoinha Leblon;-45,296343;-21,495056;Pagamento;91847;Premium;Feminino;51;16/05/2022 22:50;4063,71;1
+1551;Aragão;São Paulo;MG;Conjunto de Nogueira;Conjunto Novo Dom Bosco;-43,376475;-21,389628;Pagamento;51498;Standard;Feminino;32;02/10/2023 00:33;9412,15;3
+1552;Costela - ME;São Paulo;RJ;Sítio Amanda da Conceição;Tupi B;-45,463032;-21,979347;Crédito;13219;Premium;Masculino;18;04/08/2023 16:40;2335,18;3
+1552;Fernandes;Rio de Janeiro;ES;Núcleo Cunha;Atila De Paiva;-46,400254;-20,796818;Débito;69950;Standard;Feminino;53;19/05/2024 06:49;9739,02;5
+1553;Mendes;São Paulo;RJ;Aeroporto de Farias;Taquaril;-43,621003;-22,599004;Transferência;24914;Premium;Masculino;52;27/08/2020 01:34;4219,5;1
+1559;Silva;Belo Horizonte;SP;Feira da Mata;Jardim Felicidade;-45,792946;-21,60579;Débito;51473;Gold;Feminino;21;03/03/2023 04:46;2165,77;3
+1561;Santos;São Paulo;RJ;Travessa Henrique Carvalho;Leticia;-43,936195;-21,101334;Transferência;13850;Premium;Feminino;58;29/10/2021 22:23;1867,86;2
+1561;Gomes;Rio de Janeiro;MG;Morro de Costela;Vila Nova Dos Milionarios;-46,297863;-21,189278;Crédito;50354;Premium;Masculino;37;22/08/2022 01:27;4091,37;3
+1562;Santos - ME;Vitória;ES;Sítio Barros;Havaí;-44,213627;-21,782896;Pagamento;97226;Standard;Masculino;65;17/09/2022 06:43;5958,08;1
+1562;Cardoso;Rio de Janeiro;MG;Esplanada Duarte;Taquaril;-44,336976;-21,392777;Pagamento;69797;Gold;Masculino;42;12/09/2023 00:31;8004,57;1
+1565;Rodrigues Gonçalves S.A.;Belo Horizonte;ES;Trecho de Duarte;Boa União 2ª Seção;-44,571849;-21,96714;Transferência;17063;Premium;Feminino;64;23/01/2024 20:29;1364,48;1
+1567;Lima S.A.;Vitória;RJ;Avenida Monteiro;Bonsucesso;-43,739096;-22,127142;Pagamento;83139;Gold;Feminino;31;30/10/2023 15:09;4285,39;1
+1568;Costela;Rio de Janeiro;SP;Jardim Guilherme Barbosa;Conjunto Paulo Vi;-45,404033;-22,549289;Débito;80014;Standard;Masculino;53;27/12/2022 10:38;5196,36;3
+1569;Pires;Rio de Janeiro;MG;Lagoa Cauê Dias;Lindéia;-46,506943;-22,390708;Transferência;60342;Premium;Masculino;30;18/12/2021 19:29;6283,6;2
+1570;Barbosa;Vitória;ES;Vila Cauê Rezende;União;-44,807096;-22,896699;Transferência;21461;Premium;Masculino;39;05/07/2021 12:11;9335,14;2
+1571;Fogaça S/A;Vitória;RJ;Distrito de Cunha;Minaslandia;-46,363789;-20,466251;Pagamento;95797;Gold;Masculino;43;05/10/2021 09:39;6407;1
+1572;da Rosa Porto - ME;Belo Horizonte;MG;Morro Lima;Conjunto Santa Maria;-43,64595;-21,337061;Débito;39707;Gold;Feminino;35;18/10/2022 14:05;2323,7;4
+1573;Silva;Vitória;MG;Fazenda Sophie Santos;Ápia;-43,483607;-21,477023;Débito;38288;Standard;Feminino;49;07/04/2023 15:53;2320,04;1
+1574;Vieira Carvalho Ltda.;Rio de Janeiro;MG;Rodovia de Nascimento;Barreiro;-46,671997;-22,995613;Transferência;57455;Gold;Feminino;55;15/01/2023 02:38;4149,99;4
+1575;Novaes Carvalho S/A;São Paulo;MG;Passarela de Costa;Santa Sofia;-46,333571;-23,407302;Transferência;65457;Standard;Feminino;69;20/12/2023 13:35;0,55;4
+1575;Ferreira Carvalho S/A;Vitória;MG;Largo Rodrigues;Bela Vitoria;-45,852386;-21,311598;Débito;89292;Gold;Feminino;65;26/06/2024 07:23;2907,88;3
+1578;Ramos;Belo Horizonte;MG;Estação de da Paz;Engenho Nogueira;-46,401109;-21,502877;Crédito;74224;Standard;Feminino;55;20/04/2020 20:28;3570,34;4
+1578;Pires;São Paulo;ES;Viaduto de das Neves;Guaratã;-43,446807;-23,313577;Pagamento;53847;Premium;Feminino;20;05/12/2022 07:18;4851,44;1
+1578;Oliveira;Vitória;SP;Pátio de Cardoso;Mariquinhas;-43,573529;-22,748412;Pagamento;76603;Gold;Masculino;40;30/09/2020 17:00;6154,31;4
+1579;Silva Jesus - EI;São Paulo;ES;Esplanada da Mata;Maria Helena;-43,656506;-23,145188;Débito;19927;Gold;Feminino;31;28/07/2020 07:06;9683,29;2
+1580;da Mata Sales - ME;Belo Horizonte;MG;Pátio da Paz;São Gabriel;-43,481391;-20,496598;Crédito;85696;Gold;Masculino;47;27/06/2022 15:55;6899,93;4
+1581;Barbosa;Belo Horizonte;RJ;Feira Rodrigues;Estrela;-43,471121;-22,398712;Débito;79907;Gold;Masculino;26;01/02/2021 22:44;4136,81;3
+1581;Novaes;Rio de Janeiro;ES;Campo Luna Cardoso;Vila São Paulo;-45,329955;-22,383508;Transferência;41538;Premium;Feminino;33;14/08/2023 18:12;5410,97;3
+1582;Viana Moreira S.A.;Rio de Janeiro;SP;Trevo Gustavo Henrique Ramos;Betânia;-45,631128;-22,135879;Pagamento;37542;Gold;Masculino;43;31/07/2020 19:07;9899,12;1
+1583;Ferreira Lopes Ltda.;Belo Horizonte;MG;Área de Sales;Vila Nova Cachoeirinha 2ª Seção;-46,470327;-20,762385;Transferência;63486;Gold;Feminino;21;26/11/2023 00:29;1721,57;2
+1584;Azevedo;São Paulo;SP;Quadra de Moraes;Palmares;-43,685701;-21,665539;Pagamento;14542;Standard;Masculino;40;02/11/2024 03:57;1058,48;2
+1587;Fogaça Cardoso e Filhos;Belo Horizonte;MG;Vale de Freitas;Vila Tirol;-45,117254;-23,259267;Transferência;52295;Standard;Masculino;63;16/11/2021 07:10;4413,64;3
+1587;Moraes;Rio de Janeiro;RJ;Favela de Nogueira;Diamante;-44,027784;-21,718695;Transferência;22510;Premium;Feminino;24;18/09/2022 22:22;7515,71;2
+1588;Gomes Santos S/A;São Paulo;ES;Morro Gustavo Henrique Moraes;Vila São Dimas;-46,311669;-22,163807;Débito;81532;Premium;Masculino;20;08/01/2024 13:27;5742,06;1
+1589;Rodrigues;Vitória;ES;Sítio Alexandre Pinto;Vila Canto Do Sabiá;-43,934143;-21,13432;Pagamento;92243;Premium;Feminino;65;15/06/2022 10:30;1927,67;5
+1590;Castro;Vitória;MG;Praça Luigi Ribeiro;Mineirão;-45,762449;-22,901608;Crédito;93408;Premium;Masculino;18;30/11/2021 03:42;6430,84;2
+1591;Lopes Silveira e Filhos;Belo Horizonte;ES;Chácara Ribeiro;Lagoinha;-43,228154;-21,262784;Débito;69180;Premium;Feminino;39;09/05/2023 22:46;2614;4
+1592;Cardoso Pereira S/A;São Paulo;SP;Recanto de Mendes;Vila Pilar;-45,894979;-21,711323;Transferência;43783;Gold;Feminino;35;09/01/2020 22:22;5293,49;3
+1592;Vieira;Rio de Janeiro;SP;Lago de Barros;Vila Sesc;-44,574921;-22,906182;Pagamento;18740;Premium;Masculino;28;12/02/2022 00:49;7904,33;4
+1593;Moraes Moura S/A;Vitória;ES;Vila Matheus Alves;Mala E Cuia;-43,620682;-22,124728;Crédito;45281;Premium;Feminino;49;03/07/2020 11:17;2436,64;3
+1595;da Costa;Belo Horizonte;RJ;Trecho Agatha das Neves;Ventosa;-43,91979;-22,504931;Pagamento;58159;Premium;Feminino;44;20/11/2020 20:28;8813,19;1
+1596;Nascimento - ME;Rio de Janeiro;ES;Loteamento de da Rocha;Vila Madre Gertrudes 4ª Seção;-44,430574;-23,107251;Pagamento;13948;Standard;Feminino;28;11/02/2022 18:31;2229,71;5
+1596;Nunes - EI;Belo Horizonte;MG;Condomínio de Ferreira;Piraja;-46,169934;-21,538624;Crédito;89030;Premium;Feminino;19;06/06/2020 06:17;4455,51;2
+1597;da Cruz;Belo Horizonte;SP;Estrada Rodrigues;Vila Pilar;-43,476248;-21,491782;Pagamento;31222;Standard;Feminino;23;24/01/2022 03:31;3290,42;2
+1597;Carvalho Castro - EI;Rio de Janeiro;RJ;Área Jesus;Olhos D'água;-44,738911;-21,464632;Pagamento;86235;Gold;Masculino;41;06/03/2022 18:39;5322,19;1
+1598;Viana;Rio de Janeiro;ES;Condomínio de Cavalcanti;Vila Antena Montanhês;-44,930927;-20,526883;Transferência;56877;Premium;Masculino;25;16/09/2024 15:55;2019,5;1
+1598;Aragão Santos e Filhos;Rio de Janeiro;SP;Alameda Oliveira;Maria Tereza;-45,233235;-22,190812;Pagamento;59826;Premium;Feminino;22;16/09/2021 04:12;4296,97;5
+1598;da Conceição;Belo Horizonte;RJ;Loteamento Davi Luiz Fernandes;Mangueiras;-43,24494;-21,216172;Crédito;95987;Gold;Feminino;23;01/05/2022 22:38;6327,15;5
+1598;Azevedo da Paz S.A.;Belo Horizonte;MG;Colônia Nascimento;Nossa Senhora Do Rosário;-45,529646;-23,44397;Débito;67960;Standard;Masculino;61;04/08/2020 10:25;8195,62;3
+1599;Nogueira Moreira - ME;Vitória;RJ;Sítio Oliveira;Vila Canto Do Sabiá;-44,483175;-20,429729;Débito;79578;Standard;Feminino;37;10/12/2021 07:26;3863,48;5
+1599;Correia;São Paulo;SP;Favela Jesus;Boa União 1ª Seção;-45,728568;-21,558016;Débito;47288;Premium;Masculino;65;27/10/2021 01:20;7416,75;4
+1600;Freitas;Belo Horizonte;RJ;Alameda de Costa;Indaiá;-43,492735;-20,631803;Transferência;11191;Standard;Masculino;54;05/05/2020 23:24;1646,05;3
+1600;Santos - EI;Belo Horizonte;RJ;Conjunto Luiz Henrique Melo;Novo Das Industrias;-43,303424;-23,530039;Transferência;46103;Premium;Feminino;63;03/01/2021 12:18;4040,73;5
+1603;Nunes Ferreira S.A.;Rio de Janeiro;SP;Chácara da Rosa;Vila Cemig;-43,279681;-20,761347;Transferência;64401;Standard;Feminino;59;03/06/2024 23:02;2222,45;4
+1603;Ramos e Filhos;Belo Horizonte;RJ;Parque da Mata;Nova America;-45,775571;-20,491027;Débito;12389;Standard;Masculino;49;10/10/2024 02:47;2765,12;2
+1604;da Paz - EI;Belo Horizonte;RJ;Colônia Cardoso;Vila Antena Montanhês;-45,911343;-22,815081;Crédito;21002;Premium;Feminino;22;03/09/2020 07:02;328,84;2
+1604;Cavalcanti;Rio de Janeiro;RJ;Praia de Moura;Trevo;-46,244659;-22,846571;Pagamento;49778;Premium;Feminino;31;27/02/2022 18:55;876,53;4
+1604;Ferreira Sales Ltda.;Vitória;ES;Vale Fogaça;Dom Joaquim;-44,423533;-22,294942;Transferência;78436;Premium;Masculino;57;31/08/2020 16:43;3064,95;3
+1605;da Rosa - EI;Vitória;MG;Colônia da Paz;Pilar;-44,470619;-23,320966;Pagamento;92939;Gold;Masculino;42;20/03/2023 12:06;4145,4;4
+1606;Ramos Cardoso S/A;Vitória;RJ;Viela de Ribeiro;São Gabriel;-45,879786;-23,237637;Crédito;19155;Standard;Masculino;23;21/04/2020 02:18;1873,49;3
+1607;Sales Farias S/A;Rio de Janeiro;SP;Distrito da Conceição;Santa Lúcia;-46,333379;-20,306653;Transferência;85336;Gold;Feminino;8;24/04/2021 12:53;704,7;5
+1610;Mendes;Rio de Janeiro;SP;Praça Otávio Ramos;Cidade Jardim;-43,599181;-21,164907;Pagamento;30115;Premium;Masculino;55;24/06/2024 11:27;6397,65;3
+1610;Teixeira - EI;Belo Horizonte;ES;Esplanada Vitor Gabriel da Conceição;Castanheira;-45,10539;-23,558303;Débito;82813;Standard;Masculino;60;23/11/2021 06:28;8802,88;4
+1610;Souza - EI;São Paulo;MG;Residencial Ana Vitória Lima;Alípio De Melo;-44,290099;-21,572793;Pagamento;21190;Premium;Masculino;25;14/11/2021 17:52;8934,88;4
+1611;Lima;Rio de Janeiro;SP;Travessa Carvalho;Conjunto Califórnia I;-45,764102;-23,539657;Pagamento;89410;Premium;Masculino;19;12/06/2023 13:51;2589,52;2
+1611;Nunes Alves Ltda.;São Paulo;MG;Sítio Pietra Sales;Primeiro De Maio;-43,273509;-20,487192;Débito;34248;Standard;Masculino;60;06/09/2020 22:49;3667,76;3
+1612;Vieira - ME;Vitória;SP;Estação Emanuelly da Cunha;Bela Vitoria;-45,84961;-20,613664;Transferência;82852;Standard;Masculino;18;04/05/2021 00:43;531,07;2
+1612;Nunes;São Paulo;ES;Vila Antônio da Rosa;Grajaú;-45,743561;-22,941373;Débito;67457;Gold;Feminino;32;21/12/2023 16:30;8771,25;5
+1614;Campos;Vitória;MG;Conjunto Breno Castro;Ouro Minas;-43,793502;-21,615463;Crédito;93373;Premium;Feminino;28;23/05/2022 01:40;6396,46;5
+1617;Fernandes Ltda.;Vitória;ES;Núcleo Carlos Eduardo Nogueira;Vila Havaí;-43,56178;-23,037557;Débito;40371;Standard;Feminino;29;26/11/2022 02:40;8292,88;1
+1618;da Costa;Rio de Janeiro;MG;Pátio de Teixeira;Santa Cecilia;-45,722968;-21,062551;Pagamento;36008;Premium;Masculino;19;20/11/2020 10:58;3074,16;5
+1618;Nascimento Lima S.A.;Rio de Janeiro;ES;Morro Yago Ribeiro;Santana Do Cafezal;-46,416726;-21,945137;Pagamento;65021;Gold;Feminino;21;09/08/2022 04:50;8647,68;1
+1618;da Cunha da Cruz - ME;Rio de Janeiro;ES;Chácara Souza;Luxemburgo;-43,666477;-21,995799;Transferência;90632;Premium;Masculino;67;17/03/2022 13:36;9862,66;3
+1620;da Cruz;Rio de Janeiro;SP;Passarela de Mendes;Indaiá;-44,106286;-22,947572;Crédito;78186;Standard;Feminino;22;09/03/2024 13:31;5415,62;2
+1621;Barbosa;Vitória;MG;Campo de da Conceição;Padre Eustáquio;-43,584926;-21,661704;Débito;25639;Gold;Feminino;60;03/11/2023 18:59;927,82;3
+1621;Viana;São Paulo;RJ;Travessa Barros;Nossa Senhora Da Conceição;-46,123034;-21,710146;Transferência;48110;Standard;Masculino;50;05/07/2023 06:44;6025,37;3
+1622;Porto;São Paulo;MG;Ladeira de Oliveira;Mantiqueira;-46,413567;-21,683984;Débito;49600;Gold;Masculino;51;16/05/2023 05:54;4580,82;3
+1623;Barros;Vitória;MG;Morro Kamilly Fernandes;Vila Independencia 1ª Seção;-45,042655;-22,146771;Pagamento;48784;Standard;Feminino;40;20/08/2022 08:06;8546,33;5
+1624;Cardoso;Rio de Janeiro;MG;Campo Felipe Moraes;Vila Madre Gertrudes 3ª Seção;-43,978875;-21,903683;Pagamento;80276;Standard;Feminino;35;01/04/2020 06:32;2394,7;1
+1624;da Cruz;Vitória;ES;Pátio de Moreira;Vila Copacabana;-45,47751;-21,827411;Transferência;83465;Gold;Masculino;22;05/08/2023 12:08;4761,6;1
+1624;Pires Ltda.;Belo Horizonte;SP;Residencial Barros;Lourdes;-45,625433;-21,97469;Transferência;36579;Gold;Feminino;45;01/11/2021 04:47;7776,92;4
+1624;Ferreira;São Paulo;RJ;Favela Calebe Silveira;São Gonçalo;-43,259832;-20,335648;Transferência;32317;Premium;Feminino;68;25/02/2024 06:16;8080,93;3
+1625;Duarte;Rio de Janeiro;RJ;Estrada Oliveira;Vila Do Pombal;-44,144173;-23,24359;Transferência;82606;Premium;Masculino;36;01/03/2021 00:01;554,7;3
+1627;Moreira e Filhos;Rio de Janeiro;SP;Colônia Sales;Glória;-44,094328;-22,292456;Pagamento;55216;Gold;Masculino;36;04/06/2024 21:41;9575,39;3
+1628;Costela;Vitória;MG;Sítio de Moreira;Tupi B;-43,458245;-21,112418;Crédito;14136;Premium;Masculino;53;07/06/2021 13:53;4284,83;3
+1629;Freitas Almeida S/A;Vitória;ES;Largo de Lima;Santa Tereza;-44,048457;-23,06623;Pagamento;59974;Gold;Masculino;34;01/10/2022 08:37;725,37;2
+1629;Monteiro;São Paulo;RJ;Aeroporto Dias;Esplanada;-44,134902;-22,779047;Transferência;96457;Premium;Feminino;21;10/02/2023 12:12;1305,76;3
+1629;Ribeiro Carvalho - EI;Belo Horizonte;MG;Rodovia Rezende;Vila Paris;-46,637048;-23,190624;Crédito;44810;Standard;Feminino;25;05/05/2021 19:42;5695,99;5
+1631;Dias S.A.;Vitória;RJ;Vila Marcela Ramos;Belmonte;-44,673949;-22,258287;Débito;83494;Standard;Feminino;40;04/02/2022 01:36;6417,35;3
+1633;Azevedo Viana S.A.;São Paulo;ES;Setor Marcela Porto;União;-44,067403;-21,464512;Crédito;51366;Gold;Feminino;41;06/11/2022 01:03;2466,26;3
+1633;Carvalho Fernandes S/A;Rio de Janeiro;ES;Via de das Neves;Vila Das Oliveiras;-43,638859;-22,972569;Pagamento;31552;Premium;Masculino;40;19/04/2024 14:35;7992,94;1
+1633;Cardoso - EI;São Paulo;SP;Conjunto Correia;Barão Homem De Melo 3ª Seção;-43,400256;-23,006191;Pagamento;86101;Standard;Masculino;37;24/09/2022 17:39;9877,26;3
+1635;Barros;Rio de Janeiro;ES;Ladeira Azevedo;Grota;-45,975189;-20,379625;Transferência;36431;Gold;Masculino;53;13/12/2024 05:20;1144,75;4
+1635;Duarte;São Paulo;SP;Vereda Milena Castro;Nova Pampulha;-43,780049;-21,110569;Crédito;37820;Standard;Feminino;70;26/06/2020 23:43;2868,23;1
+1636;Jesus Silveira e Filhos;Belo Horizonte;RJ;Condomínio de Caldeira;Conjunto Califórnia Ii;-46,626448;-23,263678;Débito;35917;Gold;Feminino;53;01/12/2022 01:49;1415,67;4
+1636;Carvalho;São Paulo;RJ;Lagoa Pereira;Europa;-43,685756;-22,24912;Débito;12336;Gold;Feminino;27;15/02/2023 18:43;5220,28;3
+1637;Pinto;Belo Horizonte;MG;Fazenda de Almeida;Estrela;-45,84385;-20,756727;Pagamento;55167;Standard;Feminino;38;17/04/2023 04:54;3372,11;4
+1638;Vieira Cardoso e Filhos;Rio de Janeiro;SP;Aeroporto Nunes;Vila Inestan;-46,007105;-22,352495;Débito;23729;Standard;Feminino;27;21/07/2023 01:56;5682,65;4
+1638;Barbosa;São Paulo;ES;Estação de Lima;Vila Engenho Nogueira;-43,878809;-20,535623;Débito;99215;Gold;Masculino;19;19/07/2021 23:29;8479,2;3
+1641;Farias - EI;São Paulo;SP;Favela Martins;Vila Piratininga;-43,447538;-21,667225;Débito;39855;Standard;Masculino;52;07/11/2023 11:45;7259,66;5
+1641;Pires;Belo Horizonte;SP;Parque Eduarda Barros;Mantiqueira;-43,25124;-22,448155;Crédito;68830;Standard;Masculino;40;26/04/2023 17:58;8999,61;3
+1643;Ferreira Caldeira - ME;Rio de Janeiro;ES;Ladeira Isis das Neves;Granja Werneck;-45,595234;-22,147251;Débito;74060;Gold;Feminino;39;29/08/2022 16:13;7123,62;2
+1643;Aragão Gomes S/A;São Paulo;MG;Praça Azevedo;Confisco;-43,475648;-22,845661;Pagamento;93301;Standard;Feminino;61;18/10/2021 13:27;7889,27;1
+1643;da Cruz S.A.;Vitória;MG;Recanto Barbosa;Vila Olhos D'água;-46,590293;-20,842858;Transferência;19984;Standard;Feminino;38;02/06/2024 08:47;9779,31;3
+1647;da Cunha Ramos S.A.;Rio de Janeiro;ES;Núcleo de Fogaça;Aparecida 7ª Seção;-45,699274;-22,456553;Transferência;17769;Gold;Feminino;59;28/02/2021 00:40;1915,12;2
+1647;Santos S.A.;Belo Horizonte;ES;Viaduto de Silva;Grajaú;-45,729059;-20,390091;Transferência;23800;Gold;Feminino;25;05/04/2021 08:11;4515,27;3
+1647;Nogueira;São Paulo;ES;Morro Gonçalves;Milionario;-46,193861;-22,770666;Débito;93203;Premium;Masculino;40;11/08/2021 21:23;8012,6;1
+1648;Cavalcanti;Belo Horizonte;RJ;Sítio de Caldeira;Ambrosina;-45,292698;-23,140159;Transferência;76593;Standard;Masculino;49;26/11/2022 22:33;838,18;4
+1649;Costela S.A.;São Paulo;MG;Aeroporto de Viana;Vila Nova Paraíso;-45,245124;-22,801427;Crédito;83125;Gold;Masculino;27;31/01/2021 04:08;5517,44;4
+1650;Barbosa;Rio de Janeiro;RJ;Largo de da Paz;Lagoa;-46,449467;-22,191938;Débito;20502;Gold;Feminino;34;21/05/2021 21:52;5796,32;2
+1652;Cardoso;Belo Horizonte;MG;Morro Francisco Rezende;Savassi;-43,551224;-20,367678;Débito;95069;Standard;Feminino;18;25/02/2023 11:29;7544,25;4
+1653;Barros;Rio de Janeiro;MG;Avenida Melo;Conjunto Celso Machado;-44,142461;-20,37523;Pagamento;36390;Premium;Feminino;58;06/04/2022 19:52;5852,19;3
+1654;Cardoso;São Paulo;MG;Parque de da Rocha;Grotinha;-45,772675;-22,312176;Débito;13252;Standard;Masculino;68;07/04/2023 13:14;698,25;4
+1654;Nascimento Santos - ME;Rio de Janeiro;RJ;Parque Teixeira;São Gabriel;-43,73238;-23,075188;Débito;20401;Standard;Feminino;63;;1147,11;4
+1655;Fernandes;Vitória;MG;Sítio Alves;Pilar;-43,650062;-23,011649;Pagamento;86955;Gold;Masculino;26;02/09/2020 16:10;1595,13;3
+1656;Nogueira S/A;São Paulo;MG;Vereda Cardoso;Santa Rosa;-43,8377;-23,363577;Pagamento;90070;Premium;Feminino;51;03/08/2021 05:31;1677,96;3
+1656;Melo S/A;São Paulo;SP;Vale Correia;Jatobá;-45,623253;-22,137176;Transferência;35889;Standard;Masculino;58;16/08/2022 00:09;8493,85;3
+1659;Costela;São Paulo;ES;Aeroporto Souza;Ipiranga;-46,328427;-22,697626;Crédito;54436;Premium;Masculino;40;15/04/2023 01:22;6570,97;1
+1659;Nascimento Costa - EI;Vitória;SP;Viaduto Joaquim Monteiro;São Pedro;-44,911985;-23,428144;Crédito;48537;Gold;Masculino;69;28/04/2023 18:43;8850,22;1
+1662;Pires;São Paulo;MG;Travessa de Peixoto;Embaúbas;-46,610817;-23,558135;Transferência;37813;Standard;Masculino;47;27/12/2023 05:41;1116,66;4
+1663;da Conceição Barros e Filhos;Belo Horizonte;RJ;Colônia Almeida;Frei Leopoldo;-43,381612;-22,349111;Crédito;38578;Premium;Feminino;28;21/12/2024 23:42;2214,71;4
+1664;Alves - ME;Belo Horizonte;RJ;Aeroporto de Costela;Canadá;-43,897079;-22,735983;Transferência;21099;Gold;Masculino;46;11/09/2021 09:48;360,01;4
+1664;Moura;Rio de Janeiro;ES;Recanto de Costela;Vila Esplanada;-46,18689;-20,5414;Pagamento;46597;Gold;Masculino;52;03/08/2024 14:39;3348,63;4
+1664;Gomes;São Paulo;RJ;Loteamento Dias;Gameleira;-45,832933;-22,883034;Pagamento;79169;Gold;Masculino;41;11/09/2021 01:50;5934,39;3
+1666;Gomes;Vitória;ES;Vale Francisco Costa;Nossa Senhora Da Aparecida;-46,575824;-22,145108;Transferência;92503;Standard;Masculino;51;08/01/2023 03:06;1961,5;5
+1666;Moreira;São Paulo;MG;Sítio Francisco Gonçalves;Canaa;-43,940017;-23,18054;Pagamento;48509;Standard;Masculino;51;25/01/2024 07:05;8618,28;2
+1667;da Cunha Melo - ME;Vitória;SP;Rodovia Gonçalves;João Pinheiro;-45,493779;-22,628406;Crédito;16154;Gold;Masculino;24;20/02/2024 09:07;2545,54;5
+1667;Correia;São Paulo;ES;Loteamento de Ferreira;Universitário;-44,663851;-20,966384;Crédito;22841;Gold;Feminino;40;07/02/2021 14:11;6179,71;1
+1668;Cavalcanti S.A.;São Paulo;MG;Distrito Vieira;Frei Leopoldo;-43,389048;-21,969516;Pagamento;66579;Gold;Feminino;30;19/12/2021 19:02;170,02;2
+1669;Correia - ME;São Paulo;SP;Lago Cavalcanti;Novo Das Industrias;-46,311172;-23,445241;Débito;59426;Standard;Feminino;19;17/12/2024 19:01;4467;2
+1671;Correia - ME;São Paulo;RJ;Lago de Lima;Jardim Vitoria;-45,656768;-22,338669;Transferência;21701;Standard;Feminino;41;30/04/2023 09:01;2316,33;5
+1671;Pereira Farias S.A.;Rio de Janeiro;ES;Colônia de Melo;Conjunto Providencia;-45,901744;-21,905841;Crédito;57991;Premium;Masculino;37;06/07/2022 15:57;4081,51;1
+1672;Moraes;São Paulo;MG;Via Gustavo Rocha;Lourdes;-44,96149;-22,786302;Transferência;95451;Standard;Masculino;63;26/01/2023 22:59;437,51;4
+1673;Fogaça S/A;São Paulo;ES;Morro de Moura;Padre Eustáquio;-45,614521;-21,547286;Débito;53309;Gold;Masculino;59;14/11/2022 00:48;1326,86;3
+1674;das Neves e Filhos;São Paulo;RJ;Campo Cauã Monteiro;Vila Engenho Nogueira;-44,647268;-22,94494;Crédito;62999;Standard;Feminino;63;06/08/2023 03:17;6935,18;4
+1680;Nascimento Ltda.;Rio de Janeiro;SP;Morro Julia Fernandes;Paquetá;-45,126818;-22,806638;Débito;87695;Premium;Masculino;36;01/06/2024 01:41;1186,29;3
+1680;da Cruz;Rio de Janeiro;MG;Recanto Souza;Vila Dos Anjos;-43,537147;-23,511348;Crédito;80078;Gold;Masculino;34;27/05/2021 07:07;8064,78;2
+1680;Melo da Cunha S/A;Belo Horizonte;SP;Setor da Cruz;Tiradentes;-45,684027;-20,878941;Débito;94703;Premium;Masculino;53;26/04/2021 07:57;8428;3
+1681;Correia;Vitória;ES;Vale Rezende;Vila Aeroporto Jaraguá;-44,984293;-21,276415;Débito;54196;Gold;Masculino;20;15/11/2022 17:04;620,28;3
+1681;Correia;Rio de Janeiro;SP;Fazenda de Moura;Vila Trinta E Um De Março;-45,049311;-22,247312;Transferência;95057;Gold;Feminino;60;13/06/2021 16:02;2584,23;5
+1682;da Conceição Araújo S/A;Rio de Janeiro;MG;Praça de Farias;Andiroba;-43,31962;-20,902764;Crédito;32569;Standard;Feminino;70;25/04/2022 01:21;7495,34;2
+1683;Carvalho;Rio de Janeiro;RJ;Passarela de Costela;Vila São Gabriel Jacui;-44,962631;-22,570089;Transferência;95806;Standard;Feminino;59;23/11/2024 20:22;7717,8;4
+1684;Teixeira;São Paulo;SP;Chácara de Cardoso;Lagoa;-46,254227;-22,333905;Débito;38820;Standard;Masculino;19;25/09/2023 04:04;8671,68;4
+1688;Oliveira da Mata S.A.;Vitória;SP;Alameda de Monteiro;São Jorge 2ª Seção;-45,096902;-21,729359;Pagamento;44591;Standard;Feminino;65;30/01/2024 12:11;1297,62;3
+1688;Costela Jesus - EI;Vitória;RJ;Viela Alana Silveira;Vila Santa Monica 1ª Seção;-45,735397;-21,647215;Pagamento;68508;Premium;Feminino;62;05/06/2020 06:03;9488,04;5
+1689;Ribeiro Barros S/A;São Paulo;MG;Jardim da Conceição;Ouro Minas;-45,183802;-22,766232;Crédito;85535;Gold;Masculino;52;07/05/2021 16:13;9617,94;2
+1691;Nascimento S/A;Rio de Janeiro;SP;Trecho de Nunes;Madre Gertrudes;-45,475697;-22,701882;Transferência;38556;Gold;Feminino;22;25/12/2021 04:51;1834,49;1
+1691;Barros - EI;Vitória;SP;Vila Porto;Graça;-45,537952;-22,199698;Transferência;70117;Premium;Masculino;40;31/10/2023 23:58;1836,03;2
+1691;das Neves;Rio de Janeiro;RJ;Passarela de Santos;Jonas Veiga;-43,731188;-20,924847;Débito;18901;Premium;Feminino;24;21/02/2024 01:20;2768,36;4
+1691;da Conceição S.A.;Vitória;RJ;Distrito Novaes;Piraja;-45,686961;-22,146634;Crédito;30892;Gold;Masculino;24;06/08/2024 13:44;6643,5;4
+1693;Moura Melo S.A.;Belo Horizonte;RJ;Estrada Luiza Silva;Vila Santa Monica 2ª Seção;-46,181753;-20,431178;Crédito;34957;Premium;Masculino;42;18/06/2020 22:27;7019,72;3
+1693;Barbosa S.A.;Vitória;SP;Esplanada de Ribeiro;Vila Da Ária;-46,148275;-20,368991;Transferência;97567;Gold;Masculino;59;09/09/2020 10:15;9702,83;1
+1697;Ribeiro e Filhos;Belo Horizonte;MG;Travessa Daniela Lima;Vila Da Ária;-43,387241;-20,503152;Crédito;89638;Standard;Feminino;63;14/01/2023 15:09;6477,02;4
+1699;Gonçalves - EI;Rio de Janeiro;SP;Área Maria Julia Oliveira;Inconfidência;-44,035782;-22,015218;Débito;60498;Standard;Feminino;61;11/03/2023 14:08;8799,1;4
+1700;da Paz;Rio de Janeiro;MG;Passarela de Mendes;Pousada Santo Antonio;-46,015014;-21,790168;Crédito;50865;Gold;Masculino;25;25/07/2022 11:28;580,62;5
+1700;Castro;Rio de Janeiro;MG;Conjunto Bárbara Jesus;Suzana;-43,21759;-21,847335;Crédito;81359;Premium;Feminino;44;15/04/2023 03:03;6297,67;2
+1701;Ramos Ltda.;Vitória;SP;Vila da Luz;Piratininga;-45,563601;-21,03496;Transferência;73400;Standard;Feminino;66;15/11/2020 01:21;5787,93;5
+1701;Teixeira - EI;São Paulo;ES;Praia de Lopes;Conjunto Providencia;-46,287017;-23,422794;Transferência;54533;Premium;Feminino;61;28/09/2020 19:06;7319,89;2
+1701;Teixeira S.A.;Rio de Janeiro;ES;Recanto de Nogueira;São Gabriel;-45,928328;-21,281218;Crédito;95333;Gold;Masculino;43;24/12/2022 17:52;8193,38;3
+1703;Cavalcanti;Vitória;ES;Ladeira Yasmin Barbosa;Virgínia;-44,333908;-21,862017;Pagamento;44150;Standard;Masculino;40;19/11/2022 07:30;833,75;3
+1704;Sales;Rio de Janeiro;MG;Via Lorena Pires;São Pedro;-46,402692;-23,120542;Débito;76091;Gold;Masculino;36;28/07/2020 06:41;175,77;1
+1704;Pereira;Rio de Janeiro;ES;Residencial de Martins;Vila De Sá;-43,451061;-22,988244;Pagamento;66585;Premium;Masculino;47;28/03/2024 14:26;3469,84;5
+1705;Pires;Rio de Janeiro;ES;Colônia de da Cunha;Vila Cloris;-43,825329;-23,065332;Crédito;46010;Gold;Masculino;18;09/01/2021 09:05;4575,57;3
+1706;Nogueira S/A;São Paulo;RJ;Passarela Silveira;Jardim Dos Comerciarios;-43,692885;-22,982927;Crédito;72481;Gold;Feminino;26;25/10/2023 13:53;376,57;2
+1707;Pereira;São Paulo;ES;Colônia da Conceição;Barroca;-44,10449;-22,491475;Crédito;81345;Gold;Masculino;33;10/11/2021 16:56;7645,45;4
+1709;Gomes - ME;Belo Horizonte;SP;Rodovia Luiz Gustavo Souza;Conjunto Califórnia I;-43,709006;-21,331864;Transferência;48109;Standard;Feminino;54;10/12/2020 11:29;5529,46;1
+1710;Sales;Vitória;MG;Esplanada Novaes;Bairro Das Indústrias Ii;-45,972482;-22,187358;Pagamento;54922;Standard;Masculino;30;19/11/2022 02:58;6204,93;4
+1711;Vieira;Belo Horizonte;ES;Setor da Costa;Vila Das Oliveiras;-46,693603;-23,07938;Transferência;40581;Premium;Masculino;42;18/04/2020 01:44;4507,24;4
+1712;Fernandes Jesus Ltda.;Rio de Janeiro;RJ;Parque de Fernandes;Rio Branco;-46,08885;-20,561131;Débito;91882;Gold;Masculino;48;04/12/2022 14:03;9589,94;4
+1713;Moraes - ME;São Paulo;ES;Aeroporto Emanuella Campos;Vila Jardim São José;-45,458959;-21,722997;Transferência;53006;Premium;Feminino;48;09/09/2020 19:36;9217,11;2
+1714;Mendes;São Paulo;RJ;Recanto Luana Gomes;Vila Santo Antônio;-45,250625;-23,324487;Transferência;43876;Standard;Feminino;70;20/11/2024 00:42;6751,42;2
+1716;da Costa Ltda.;Vitória;ES;Aeroporto de Melo;Vila Das Oliveiras;-45,128757;-21,196211;Crédito;43492;Standard;Masculino;60;20/08/2022 12:30;4867,92;1
+1718;Campos e Filhos;Rio de Janeiro;RJ;Estrada Farias;Conjunto Califórnia I;-45,332722;-23,575672;Crédito;89703;Standard;Masculino;24;06/11/2021 00:16;4756,25;2
+1718;Monteiro;São Paulo;RJ;Colônia Maria Luiza Almeida;Gameleira;-45,158108;-21,890774;Débito;10919;Premium;Masculino;47;05/12/2021 04:16;4771,22;5
+1719;Cunha;São Paulo;RJ;Ladeira da Mata;Vila Mantiqueira;-44,693289;-20,492539;Crédito;30691;Standard;Feminino;69;19/01/2021 10:07;6676,27;2
+1721;Alves;Vitória;SP;Área da Costa;Vila Antena;-45,18789;-21,906127;Transferência;45550;Standard;Feminino;46;03/10/2024 10:05;1182,81;1
+1723;Rodrigues e Filhos;Belo Horizonte;RJ;Ladeira da Rocha;Milionario;-44,174915;-20,720891;Débito;43219;Premium;Masculino;38;18/02/2020 05:59;7136,19;2
+1724;Rocha;Vitória;ES;Residencial Cunha;Buritis;-45,680848;-22,798613;Transferência;159;Gold;Masculino;54;26/02/2021 00:04;4683,86;3
+1725;Gonçalves;Rio de Janeiro;ES;Praça de Melo;Prado;-43,556857;-23,277764;Transferência;32016;Premium;Feminino;22;28/08/2021 08:55;8336,37;2
+1726;Campos;Rio de Janeiro;ES;Parque Correia;Tupi B;-45,06734;-22,030005;Crédito;32606;Standard;Masculino;67;22/10/2020 19:05;2584,68;3
+1727;Nogueira;Rio de Janeiro;MG;Trevo da Cunha;Maria Virgínia;-46,652779;-23,112472;Transferência;58106;Gold;Feminino;26;28/08/2020 12:59;322,77;2
+1727;Campos S.A.;Vitória;ES;Área Jesus;Alpes;-46,342889;-22,766393;Transferência;98152;Premium;Masculino;20;25/10/2023 17:13;797,51;3
+1729;da Mata;Rio de Janeiro;RJ;Jardim João Felipe Azevedo;Mariano De Abreu;-45,052599;-22,245222;Transferência;30649;Standard;Feminino;37;07/07/2022 03:40;7039,1;4
+1729;Azevedo;São Paulo;SP;Aeroporto Fogaça;Boa União 2ª Seção;-44,975129;-20,927745;Transferência;81997;Gold;Feminino;53;30/08/2022 19:26;7466,5;4
+1731;Porto Campos Ltda.;Rio de Janeiro;ES;Esplanada de Porto;São Geraldo;-46,407179;-22,873545;Transferência;86707;Premium;Feminino;30;22/02/2024 21:09;3649,35;1
+1731;Peixoto S.A.;Belo Horizonte;ES;Campo Costela;Funcionários;-45,204498;-21,573243;Crédito;96177;Premium;Masculino;55;10/09/2022 01:06;6055,46;4
+1733;Costela da Rocha - EI;São Paulo;RJ;Chácara Ribeiro;Jardim Do Vale;-43,863229;-23,073332;Crédito;67396;Gold;Masculino;52;12/04/2022 05:57;702,7;1
+1734;Farias;Vitória;MG;Sítio Cavalcanti;Vila Paraíso;-45,996849;-22,923527;Pagamento;24284;Premium;Feminino;45;23/01/2024 14:17;8739,86;3
+1736;Rocha;Vitória;SP;Parque Mendes;Vila Batik;-46,34876;-21,200264;Débito;89833;Standard;Masculino;42;29/07/2024 17:14;2016,68;4
+1736;Correia;São Paulo;ES;Viela Ana Lívia Oliveira;São Paulo;-45,586656;-21,278992;Crédito;74383;Standard;Feminino;41;12/04/2020 07:21;4765,02;1
+1736;Rocha;Belo Horizonte;SP;Viaduto de Fogaça;Vila São Geraldo;-44,551658;-22,374101;Débito;50714;Standard;Masculino;39;08/07/2022 14:45;8244;2
+1737;Cavalcanti - ME;Rio de Janeiro;MG;Rua de da Mata;Distrito Industrial Do Jatoba;-43,244565;-23,404945;Pagamento;74016;Premium;Masculino;58;22/04/2023 13:34;1188,98;5
+1740;Nunes;Vitória;RJ;Alameda de Viana;Barroca;-45,606012;-20,638023;Crédito;23388;Standard;Feminino;25;04/01/2021 03:42;4204,75;2
+1741;Monteiro - ME;Belo Horizonte;MG;Pátio de Nascimento;Vila Satélite;-45,811288;-20,714008;Crédito;78120;Premium;Feminino;60;22/12/2021 10:35;9939,97;1
+1743;Barbosa;Rio de Janeiro;MG;Trevo Aragão;Monte São José;-43,67963;-21,394172;Débito;44092;Gold;Masculino;37;30/08/2020 02:13;268,07;5
+1743;da Rocha - EI;São Paulo;SP;Trevo de Silva;Camponesa 1ª Seção;-44,928542;-23,542152;Transferência;88200;Premium;Masculino;19;08/04/2022 13:02;508,37;1
+1745;da Luz;Vitória;MG;Praia de Fogaça;Vila Santo Antônio Barroquinha;-43,372389;-21,155134;Pagamento;13276;Premium;Feminino;19;15/11/2022 05:57;4180,72;4
+1745;Nascimento - ME;Vitória;ES;Pátio Martins;Pantanal;-46,666284;-20,659951;Pagamento;15497;Standard;Masculino;44;25/09/2021 18:37;9544,14;2
+1747;Castro - ME;Rio de Janeiro;RJ;Alameda Azevedo;Universo;-45,162548;-22,925913;Crédito;60901;Premium;Masculino;58;16/02/2021 06:58;938,1;2
+1747;Cardoso Oliveira S.A.;Vitória;MG;Distrito de Dias;Pompéia;-46,02638;-23,263301;Débito;71117;Premium;Masculino;;29/06/2023 11:58;2333,53;4
+1748;Cunha;Rio de Janeiro;RJ;Viaduto de Jesus;Maria Helena;-45,739346;-20,481681;Pagamento;20213;Standard;Feminino;33;08/01/2024 12:29;7465,96;4
+1750;da Luz;Belo Horizonte;SP;Trecho Rodrigues;Itaipu;-43,753625;-22,507245;Transferência;34680;Gold;Feminino;52;26/04/2020 14:28;4163,9;2
+1750;Freitas - ME;Belo Horizonte;RJ;Morro de Azevedo;Vila Cemig;-44,066561;-23,417546;Crédito;12855;Premium;Feminino;25;28/10/2022 12:20;6340,43;1
+1751;Ramos;Rio de Janeiro;SP;Jardim Mariane Ribeiro;Ernesto Nascimento;-45,517387;-21,595323;Crédito;64242;Standard;Masculino;62;13/11/2022 15:01;3181,42;4
+1753;Araújo;Belo Horizonte;MG;Passarela da Costa;Conjunto Santa Maria;-44,305326;-20,951546;Pagamento;44310;Premium;Feminino;58;04/05/2024 23:44;5065,46;3
+1756;Vieira;São Paulo;MG;Passarela de Ribeiro;Heliopolis;-45,158272;-22,52073;Crédito;55131;Gold;Feminino;53;16/07/2021 09:42;1346,08;5
+1756;da Conceição;Rio de Janeiro;SP;Lago da Paz;Vila Piratininga;-44,922433;-22,543359;Crédito;57119;Premium;Masculino;36;03/02/2024 18:52;5262,25;4
+1757;Alves;Rio de Janeiro;RJ;Viaduto de Aragão;Alto Caiçaras;-45,029369;-20,461355;Débito;91858;Premium;Masculino;35;04/06/2021 08:04;5075,83;5
+1757;Nogueira;Belo Horizonte;RJ;Morro de Cavalcanti;Vila Mangueiras;-46,134349;-21,827482;Transferência;72962;Standard;Masculino;54;12/04/2024 04:10;5886,66;1
+1759;Viana;Rio de Janeiro;MG;Lagoa da Costa;Universitário;-43,881608;-21,404552;Crédito;38516;Gold;Feminino;56;07/02/2020 05:44;4946,28;4
+1759;Viana S/A;Rio de Janeiro;MG;Trecho Oliveira;Padre Eustáquio;-46,07328;-20,416981;Pagamento;48109;Standard;Feminino;59;18/05/2022 17:55;7154,85;3
+1760;Barbosa;Vitória;MG;Condomínio de Oliveira;Monsenhor Messias;-45,709855;-21,579026;Crédito;62585;Gold;Feminino;32;16/06/2021 06:13;6596,2;3
+1760;da Conceição S.A.;São Paulo;SP;Travessa de Almeida;Nova Gameleira;-43,756155;-20,313625;Transferência;87181;Premium;Masculino;54;30/01/2021 01:28;6764,02;1
+1761;Moura - ME;Belo Horizonte;MG;Viaduto Rebeca Lima;Vila Maria;-44,324469;-21,518129;Transferência;44329;Gold;Feminino;57;19/10/2022 06:24;6923,49;3
+1762;Costela S/A;São Paulo;ES;Aeroporto de Cardoso;Aguas Claras;-45,076483;-21,411504;Débito;17563;Premium;Masculino;58;25/01/2022 01:37;1285,39;4
+1763;Martins;Vitória;ES;Quadra de Martins;Grota;-46,418423;-23,429311;Pagamento;44372;Premium;Masculino;70;30/03/2020 13:39;892,92;3
+1764;Lima Silveira S.A.;São Paulo;SP;Residencial Novaes;Monte Azul;-44,154885;-22,115725;Crédito;53954;Premium;Masculino;49;23/06/2021 11:17;2596,2;5
+1768;da Rosa;São Paulo;MG;Viela Almeida;Vila Nossa Senhora Do Rosário;-45,134008;-22,096683;Crédito;59078;Gold;Feminino;24;02/11/2021 00:34;1243,75;1
+1768;da Mota Ltda.;Belo Horizonte;MG;Vila Daniel Aragão;Dom Cabral;-43,980411;-22,107065;Pagamento;74377;Gold;Feminino;51;16/11/2020 16:11;8713,98;4
+1768;Nunes;Vitória;RJ;Vale Benjamin Duarte;Maria Tereza;-43,557482;-21,734299;Pagamento;34876;Gold;Feminino;31;24/12/2022 15:51;9206,68;5
+1769;Gomes Melo S/A;Belo Horizonte;RJ;Recanto Peixoto;Comiteco;-46,330889;-22,079047;Transferência;60348;Premium;Feminino;44;08/03/2024 01:34;6515,25;4
+1769;Freitas S.A.;Belo Horizonte;SP;Favela Lorenzo Melo;Braúnas;-43,549957;-21,811552;Pagamento;45777;Gold;Feminino;24;26/11/2020 13:16;7292,72;2
+1769;Barbosa - EI;Rio de Janeiro;MG;Área Thomas da Mata;Manacas;-46,023801;-21,401731;Transferência;74497;Gold;Feminino;21;16/04/2022 13:35;9956,94;1
+1771;Barbosa Sales S/A;Vitória;MG;Colônia da Cruz;São Cristóvão;-45,290035;-22,286618;Crédito;25357;Gold;Feminino;51;20/10/2021 03:38;630,91;3
+1774;Almeida;Belo Horizonte;MG;Campo Pereira;Vila Ipiranga;-44,730425;-20,947574;Pagamento;33680;Premium;Feminino;69;21/11/2021 05:56;2715,08;4
+1774;da Mata Ltda.;Belo Horizonte;ES;Trecho Emanuella da Conceição;João Paulo Ii;-43,37292;-21,459906;Pagamento;27808;Standard;Masculino;66;01/07/2022 05:44;9196,84;4
+1776;Gonçalves Ltda.;Vitória;MG;Área de da Cunha;Campo Alegre;-43,647703;-21,581098;Débito;26731;Standard;Masculino;65;05/03/2023 21:25;1576,11;2
+1776;Viana S/A;Rio de Janeiro;RJ;Loteamento de Almeida;Zilah Sposito;-44,092545;-21,87075;Transferência;12757;Standard;Feminino;68;05/09/2020 12:16;9057,8;2
+1778;Fernandes;Vitória;MG;Alameda Rodrigo Martins;Vila Cemig;-46,212721;-21,702019;Transferência;67034;Gold;Feminino;57;23/01/2022 10:16;127,09;2
+1779;Cunha;Vitória;ES;Rua de Carvalho;Granja De Freitas;-46,091818;-20,83513;Pagamento;67194;Gold;Feminino;55;16/11/2020 19:23;1145,12;1
+1779;Ribeiro - ME;Vitória;SP;Vila Porto;Santa Rita;-43,704867;-20,787708;Transferência;52847;Standard;Masculino;31;24/01/2020 05:21;3598,09;1
+1780;Costela da Luz e Filhos;São Paulo;ES;Ladeira Vitória Martins;Conjunto Minas Caixa;-43,393998;-22,585789;Débito;39525;Standard;Masculino;48;16/10/2023 09:55;1241,94;2
+1780;Nascimento Gonçalves e Filhos;Vitória;MG;Recanto de Campos;Virgínia;-44,48777;-23,528656;Transferência;97620;Premium;Masculino;34;19/09/2020 23:26;4044,44;5
+1780;Almeida;Vitória;SP;Lago de Vieira;Coração De Jesus;-46,105934;-22,840174;Transferência;78109;Gold;Masculino;43;19/07/2022 17:59;7788,81;3
+1780;Costa - ME;São Paulo;MG;Ladeira de Costa;Vila Petropolis;-45,491027;-21,525604;Pagamento;92610;Standard;Masculino;30;20/10/2024 08:37;8783,67;3
+1782;Cardoso;Belo Horizonte;RJ;Trecho Farias;Vila Pinho;-44,436216;-22,26785;Débito;31212;Standard;Masculino;31;14/10/2021 03:02;6409,18;3
+1782;Teixeira Moreira S.A.;São Paulo;RJ;Chácara Cavalcanti;Vila Dos Anjos;-46,001717;-22,791483;Débito;38524;Standard;Masculino;30;12/08/2022 10:49;6828,57;2
+1783;Lopes - EI;Vitória;RJ;Ladeira Rodrigues;Novo Glória;-44,016678;-23,46766;Pagamento;22160;Standard;Feminino;50;08/01/2021 06:20;3426,86;5
+1783;Correia;Belo Horizonte;RJ;Praça Sofia Farias;São Paulo;-46,54429;-22,886651;Pagamento;97433;Standard;Feminino;67;16/03/2020 11:10;4225,9;1
+1784;da Mota Pinto S.A.;São Paulo;SP;Rodovia Isaac Silva;Colégio Batista;-44,045666;-21,184522;Transferência;60176;Standard;Feminino;44;26/05/2024 10:54;2177,04;1
+1784;Freitas;Belo Horizonte;SP;Conjunto Rodrigues;Madre Gertrudes;-45,241422;-22,529069;Crédito;64361;Gold;Masculino;25;16/11/2021 01:53;6575,05;3
+1784;Rezende;Rio de Janeiro;SP;Travessa Guilherme Nogueira;Serrano;-44,654159;-23,232257;Débito;73213;Gold;Masculino;61;11/02/2020 20:13;7667,02;3
+1785;da Mata S/A;Vitória;RJ;Alameda Bárbara Moraes;Granja De Freitas;-44,999911;-22,946363;Débito;70869;Premium;Feminino;68;13/09/2023 09:03;8389,68;4
+1787;Castro S.A.;Vitória;MG;Área de Dias;Vila Da Ária;-44,721081;-21,211236;Transferência;38178;Standard;Masculino;43;10/07/2021 02:14;8760,19;4
+1789;Monteiro;São Paulo;ES;Estrada de da Rosa;Piratininga;-45,427103;-22,016349;Débito;99222;Standard;Feminino;66;01/09/2022 17:47;6038,79;2
+1790;Monteiro;Vitória;SP;Distrito Emilly Freitas;Barão Homem De Melo 1ª Seção;-46,305628;-23,094945;Pagamento;30529;Standard;Masculino;25;13/07/2020 20:07;533,48;3
+1791;Teixeira Ltda.;Vitória;SP;Lago de Pinto;Bandeirantes;-45,369382;-21,766949;Crédito;90462;Premium;Masculino;30;26/11/2022 11:13;735,56;4
+1791;Duarte;Rio de Janeiro;RJ;Recanto de Novaes;Centro;-43,415959;-23,222094;Transferência;10842;Standard;Feminino;27;11/12/2024 06:31;3369,62;1
+1792;Duarte;São Paulo;MG;Vereda de da Luz;Vila Formosa;-44,983195;-23,41007;Crédito;65720;Standard;Feminino;64;13/11/2023 14:45;4155,02;2
+1793;Porto;São Paulo;MG;Condomínio de Pereira;Milionario;-43,471704;-22,729451;Crédito;50202;Premium;Masculino;27;10/06/2021 17:30;732,12;3
+1793;Ribeiro;Belo Horizonte;MG;Trevo Freitas;Floresta;-46,398018;-21,703565;Transferência;57874;Premium;Feminino;30;;3672,87;5
+1793;da Cruz S/A;São Paulo;RJ;Travessa Barros;Buraco Quente;-45,288297;-23,316589;Transferência;78393;Premium;Feminino;44;22/02/2023 23:00;9810,67;2
+1793;das Neves Pires - EI;Vitória;ES;Colônia Guilherme Peixoto;Aparecida;-46,552924;-22,54001;Transferência;31385;Premium;Feminino;70;23/10/2020 20:36;9914,65;4
+1794;Caldeira Cavalcanti S.A.;Rio de Janeiro;RJ;Travessa Murilo Gomes;Coqueiros;-45,738483;-20,864567;Débito;90885;Standard;Feminino;33;08/07/2020 18:31;800,34;3
+1794;Nogueira Pinto S.A.;São Paulo;MG;Aeroporto Silveira;Jaqueline;-43,819272;-20,875727;Débito;80514;Standard;Feminino;38;24/07/2023 17:29;1454,23;5
+1794;Aragão;Rio de Janeiro;SP;Colônia de Barros;Brasil Industrial;-46,459396;-21,792582;Transferência;85885;Gold;Masculino;29;11/11/2021 14:18;3999,48;1
+1794;Castro Monteiro - ME;Belo Horizonte;SP;Morro Esther Gomes;Esperança;-45,503971;-23,299141;Pagamento;69816;Gold;Feminino;35;06/06/2022 18:12;6284,85;2
+1795;Freitas Barbosa - EI;Vitória;ES;Passarela Letícia Cavalcanti;São João Batista;-44,770511;-21,888452;Débito;28838;Standard;Feminino;50;31/05/2020 08:39;3202,57;1
+1795;Fogaça Porto e Filhos;Vitória;MG;Lago Cunha;Itapoa;-46,501591;-21,248186;Pagamento;93269;Standard;Feminino;27;26/05/2020 19:38;8310,17;1
+1796;Ferreira;Belo Horizonte;SP;Parque Novaes;Distrito Industrial Do Jatoba;-45,233909;-20,480064;Crédito;91224;Premium;Masculino;56;18/03/2020 02:06;1,17;1
+1796;da Cunha;Vitória;RJ;Aeroporto Vieira;Santa Rita De Cássia;-46,107684;-22,915369;Débito;13895;Standard;Masculino;70;15/10/2022 16:51;4981,12;5
+1797;da Mota;Vitória;SP;Distrito de Gonçalves;São João Batista;-45,229696;-22,083623;Pagamento;97305;Gold;Masculino;18;26/07/2024 16:15;2190,22;1
+1797;Barros Lima - ME;São Paulo;ES;Recanto de Ramos;Universitário;-46,119062;-22,066899;Crédito;43669;Gold;Feminino;58;31/07/2023 13:22;3126,75;4
+1797;Ferreira Ltda.;Rio de Janeiro;MG;Morro Castro;Vila Aeroporto Jaraguá;-46,536638;-20,362792;Crédito;53899;Standard;Feminino;18;09/10/2024 17:06;7758,24;3
+1798;da Rocha Freitas Ltda.;São Paulo;SP;Rua de Pires;Vila Coqueiral;-45,306346;-23,350037;Débito;96841;Premium;Feminino;57;02/10/2023 00:23;2284,89;4
+1801;Gonçalves da Mata S.A.;Rio de Janeiro;RJ;Área Ferreira;Primeiro De Maio;-46,541681;-21,706242;Crédito;13499;Premium;Masculino;56;02/08/2020 15:22;8317,85;1
+1808;Pires Porto - ME;Rio de Janeiro;ES;Trecho Carvalho;Vila São Gabriel;-43,589821;-21,650832;Débito;36842;Gold;Masculino;57;07/04/2024 18:40;2094,19;3
+1808;Silva Cavalcanti - EI;Vitória;SP;Vereda Raul Fernandes;Santa Terezinha;-45,307442;-22,361951;Transferência;67923;Standard;Feminino;42;26/12/2021 08:49;4613,57;2
+1808;Pinto S/A;São Paulo;RJ;Alameda de da Luz;Alpes;-46,184997;-22,907452;Transferência;57999;Premium;Masculino;42;09/07/2024 21:55;4934,09;3
+1809;da Costa da Costa Ltda.;Vitória;SP;Recanto de Lima;Parque São José;-44,140048;-20,831771;Transferência;91234;Premium;Masculino;32;05/07/2022 14:53;986,22;3
+1809;Novaes Ribeiro - ME;São Paulo;SP;Praia Viana;Miramar;-44,662812;-23,059297;Crédito;26749;Premium;Masculino;36;27/07/2022 11:42;1952,3;5
+1809;Martins S.A.;Vitória;SP;Feira Vieira;Lagoa;-43,313599;-21,614522;Pagamento;49803;Premium;Feminino;52;22/03/2024 19:43;4844,64;5
+1810;Silveira;Vitória;MG;Rodovia Moraes;Universitário;-45,593732;-23,277974;Débito;94367;Premium;Feminino;52;03/02/2022 11:40;1880,88;4
+1810;Almeida;Belo Horizonte;ES;Estação da Luz;Cidade Jardim;-44,352733;-20,531585;Transferência;11870;Premium;Feminino;66;24/01/2023 15:53;3057,89;4
+1810;Oliveira e Filhos;Rio de Janeiro;SP;Passarela de Freitas;Jardim Felicidade;-44,074816;-23,087401;Pagamento;57309;Gold;Masculino;53;06/10/2023 09:05;9133,05;5
+1813;Cardoso;Belo Horizonte;ES;Jardim de Viana;Mantiqueira;-43,724369;-20,881746;Pagamento;26191;Premium;Masculino;41;11/04/2021 19:57;3953,88;3
+1813;Viana;São Paulo;SP;Aeroporto Oliveira;Vila Coqueiral;-43,76368;-22,351729;Débito;84978;Gold;Feminino;47;09/11/2024 04:17;9180,66;3
+1814;Nogueira;Rio de Janeiro;MG;Favela Samuel Lima;Pindura Saia;-44,534297;-21,065814;Débito;43502;Premium;Masculino;53;15/02/2021 08:24;3801,79;1
+1814;das Neves Aragão - ME;Rio de Janeiro;ES;Vila da Rocha;Parque São José;-43,618157;-22,469715;Transferência;66961;Standard;Feminino;38;20/06/2022 09:14;7935,33;2
+1817;Cunha;Rio de Janeiro;SP;Condomínio Costa;Mineirão;-45,432221;-20,360882;Débito;99162;Premium;Feminino;58;31/05/2023 12:52;7030,88;1
+1818;Silveira;Belo Horizonte;RJ;Loteamento Cunha;Primeiro De Maio;-46,048019;-20,356347;Crédito;33756;Premium;Feminino;63;23/09/2024 04:24;9441,79;2
+1819;da Cruz Mendes - EI;São Paulo;MG;Condomínio Juliana Pires;Vila Esplanada;-46,233028;-21,881144;Transferência;25087;Premium;Feminino;19;27/06/2021 03:29;518,75;2
+1822;Peixoto da Cruz S.A.;Rio de Janeiro;ES;Conjunto de da Cunha;Vila Piratininga Venda Nova;-46,159779;-21,828939;Pagamento;51687;Premium;Masculino;60;09/02/2022 08:44;3229,51;3
+1822;Ramos Cardoso Ltda.;Vitória;RJ;Lago de Rodrigues;Nova Gameleira;-46,566147;-23,280388;Transferência;53879;Gold;Feminino;19;03/09/2022 03:03;3498,35;3
+1824;da Cunha;Rio de Janeiro;ES;Distrito Barbosa;Paquetá;-45,333954;-22,980815;Pagamento;35172;Premium;Feminino;21;25/01/2021 23:53;7891,76;3
+1826;Costela;Rio de Janeiro;SP;Viaduto de Correia;Trevo;-45,225874;-21,102288;Pagamento;80018;Standard;Masculino;44;12/12/2020 05:22;8231,82;3
+1827;Gomes S.A.;São Paulo;MG;Rodovia Cunha;Nova Suíça;-44,405507;-20,648638;Débito;86122;Gold;Masculino;54;21/12/2020 19:00;4184,83;1
+1828;Silva - EI;Vitória;SP;Alameda Costela;Vila Formosa;-43,655183;-20,445932;Crédito;13019;Gold;Feminino;64;27/12/2021 12:15;4231,71;5
+1828;da Mota;São Paulo;SP;Lago Silveira;Vila Mangueiras;-43,214067;-22,644994;Débito;66475;Premium;Masculino;43;09/08/2023 20:11;6183,53;4
+1828;Barros da Rocha - ME;São Paulo;MG;Avenida Nunes;Céu Azul;-44,123923;-23,09065;Transferência;91640;Premium;Feminino;19;06/10/2024 16:38;6703,84;1
+1828;Almeida S/A;Rio de Janeiro;SP;Favela Pedro Henrique Viana;Canaa;-43,631092;-22,325145;Pagamento;97320;Gold;Feminino;39;05/04/2024 14:47;7747,69;5
+1831;Ramos Correia - ME;Rio de Janeiro;ES;Jardim Francisco Araújo;Dona Clara;-46,156649;-23,016676;Crédito;27770;Premium;Feminino;54;30/01/2023 10:33;7695,81;2
+1832;da Cunha S.A.;Belo Horizonte;RJ;Trecho de Barros;Buritis;-46,138239;-21,994943;Crédito;96012;Gold;Feminino;53;22/09/2023 12:16;8795,9;3
+1834;Pinto;São Paulo;ES;Núcleo Isis Cavalcanti;Bonsucesso;-43,453932;-21,118914;Crédito;16324;Premium;Feminino;57;28/09/2024 12:26;3077,55;3
+1834;Nogueira;Vitória;RJ;Conjunto Viana;Santa Cecilia;-45,148773;-23,337333;Transferência;60218;Premium;Masculino;62;07/12/2020 12:12;5265,78;4
+1834;Moura Barbosa S/A;Belo Horizonte;MG;Favela Davi Oliveira;Trevo;-45,643675;-23,493389;Transferência;53492;Gold;Masculino;21;04/11/2024 17:19;7675,82;3
+1836;Barros;Rio de Janeiro;RJ;Área de Barbosa;Graça;-45,352598;-21,652655;Transferência;23647;Gold;Feminino;23;07/08/2023 22:21;7231,77;3
+1837;da Mota S/A;Belo Horizonte;SP;Via de da Paz;Buritis;-44,862124;-20,714205;Débito;59676;Standard;Feminino;63;28/07/2022 13:46;7093,09;4
+1838;Carvalho;Belo Horizonte;SP;Chácara da Paz;Vila Puc;-44,611938;-23,127139;Crédito;36842;Standard;Masculino;65;17/11/2021 19:19;171,13;3
+1838;Fogaça;Belo Horizonte;ES;Campo de Ramos;Vista Do Sol;-45,708685;-22,265227;Crédito;69720;Premium;Masculino;69;10/05/2021 19:04;8204,25;3
+1839;Correia Melo S.A.;Rio de Janeiro;ES;Viela de Teixeira;Vila Ipiranga;-45,830355;-22,01418;Pagamento;13134;Gold;Masculino;53;02/01/2023 20:06;4108,12;4
+1841;Azevedo - ME;São Paulo;ES;Lagoa Bianca Barros;Xangri-Lá;-44,066466;-22,93443;Pagamento;62160;Gold;Masculino;59;13/07/2023 18:53;516,8;2
+1841;Moura Moraes e Filhos;Vitória;SP;Passarela Ana Laura Lopes;Gutierrez;-43,984909;-23,015339;Crédito;39993;Standard;Masculino;18;26/12/2023 19:14;6576,63;4
+1841;Rezende;Belo Horizonte;SP;Lagoa Viana;Vila Das Oliveiras;-43,696875;-23,063125;Transferência;27830;Standard;Feminino;47;04/09/2024 12:35;7230,52;1
+1842;da Cunha;Rio de Janeiro;RJ;Favela Bernardo Pinto;Lourdes;-44,732395;-22,339017;Débito;12488;Standard;Feminino;22;23/06/2023 18:52;5705,08;3
+1843;Souza Lopes S.A.;Vitória;RJ;Estação Pires;Maravilha;-45,493556;-21,666585;Crédito;20581;Standard;Masculino;70;23/04/2023 04:37;2729,28;3
+1843;Nascimento Cardoso S/A;Belo Horizonte;SP;Condomínio Moreira;Novo São Lucas;-43,844801;-20,727975;Débito;85467;Standard;Masculino;35;02/02/2024 11:57;3025,29;2
+1843;Oliveira;Rio de Janeiro;ES;Setor Carlos Eduardo Porto;Santo Agostinho;-45,258992;-23,346323;Débito;80214;Premium;Masculino;38;12/08/2024 04:15;7449,7;5
+1843;Moura;São Paulo;MG;Pátio Ferreira;Madre Gertrudes;-44,37632;-20,619402;Crédito;80014;Standard;Feminino;67;09/10/2024 05:43;7517,86;5
+1843;Alves;Vitória;RJ;Fazenda Ana Julia Rezende;Jardim Guanabara;-43,855684;-23,278148;Transferência;69326;Standard;Masculino;26;14/01/2020 02:45;7890,36;5
+1844;da Costa;São Paulo;ES;Vale Melo;Jardim Montanhês;-45,563187;-22,643342;Débito;84821;Premium;Masculino;30;30/04/2023 19:01;3429,97;1
+1844;Barros S.A.;São Paulo;ES;Travessa Moura;Xodo-Marize;-43,764551;-21,179674;Transferência;93528;Premium;Feminino;36;11/03/2022 18:53;7316,44;5
+1845;Cavalcanti;Vitória;MG;Sítio Nathan Costa;São Salvador;-45,123029;-21,42119;Transferência;20796;Gold;Masculino;1;30/10/2022 19:40;5912,04;3
+1846;Azevedo;Belo Horizonte;ES;Passarela Milena Costa;Nossa Senhora Da Conceição;-44,457385;-21,633522;Crédito;42993;Premium;Masculino;35;12/12/2022 19:32;338,9;2
+1847;Nogueira;Rio de Janeiro;MG;Sítio de Gomes;Vila Nova Cachoeirinha 1ª Seção;-46,231098;-21,857354;Transferência;42032;Standard;Masculino;36;11/08/2021 09:58;2220,65;2
+1850;Souza;São Paulo;ES;Distrito de Aragão;Universo;-45,222462;-21,850426;Crédito;86819;Gold;Masculino;41;04/05/2020 06:54;8878,32;5
+1851;Cardoso Fogaça S.A.;São Paulo;MG;Estrada de Farias;Chácara Leonina;-44,781581;-22,820825;Débito;51536;Premium;Masculino;21;11/02/2020 03:41;0,52;3
+1852;Araújo - ME;Vitória;MG;Largo Laís da Mota;Lindéia;-45,194971;-22,311042;Débito;88192;Standard;Feminino;25;28/06/2023 18:30;8000,2;5
+1856;Pereira S.A.;Vitória;RJ;Campo Francisco Dias;São Geraldo;-43,698961;-23,427346;Débito;75663;Premium;Masculino;57;03/02/2021 22:22;4156,55;2
+1857;da Cunha Alves - EI;Vitória;MG;Jardim Nathan da Mata;Cidade Nova;-44,197438;-21,144809;Crédito;89295;Gold;Feminino;45;05/05/2024 03:58;8449,79;2
+1858;da Mota;Rio de Janeiro;MG;Viela Barros;Vila Santa Monica 2ª Seção;-45,726659;-23,168497;Pagamento;31780;Gold;Masculino;33;14/12/2021 19:41;1355,19;5
+1858;Lima - ME;Vitória;SP;Conjunto Ana Clara Fernandes;Vila São Dimas;-46,65169;-21,091919;Crédito;38905;Premium;Masculino;40;28/01/2023 16:50;6618,91;2
+1861;Novaes;Vitória;ES;Distrito Pires;Boa União 2ª Seção;-43,260388;-20,53289;Crédito;50628;Premium;Masculino;38;13/06/2022 03:29;1306,39;5
+1861;Rezende;Belo Horizonte;MG;Lagoa Gonçalves;Vila Pinho;-44,904872;-20,451464;Crédito;63475;Gold;Masculino;67;03/11/2020 22:30;3543,71;5
+1862;Barros;Vitória;SP;Viela Natália da Costa;Santa Terezinha;-46,250126;-22,388964;Pagamento;46303;Standard;Feminino;29;26/02/2020 09:24;3154,25;5
+1864;Peixoto;Vitória;ES;Jardim Silva;Santa Amelia;-46,558305;-20,413966;Pagamento;63075;Gold;Feminino;40;12/06/2023 02:04;5875,48;2
+1864;Rodrigues;Belo Horizonte;MG;Travessa Cardoso;São Jorge 3ª Seção;-45,674322;-20,686986;Transferência;94868;Premium;Masculino;68;10/12/2020 23:40;7602,88;4
+1865;Vieira Gomes - ME;Rio de Janeiro;RJ;Trevo Nogueira;Lagoinha;-46,643268;-22,705575;Débito;58766;Premium;Feminino;45;23/11/2024 11:39;8177,54;1
+1867;Azevedo Souza S.A.;São Paulo;ES;Praça da Paz;Jardim São José;-46,063143;-20,595581;Pagamento;50845;Premium;Feminino;53;10/07/2024 17:07;2744,59;5
+1867;Jesus - EI;Vitória;SP;Morro Azevedo;Vila Nova Paraíso;-45,372925;-21,167312;Débito;42601;Premium;Feminino;70;15/02/2020 01:05;8821,83;3
+1869;Porto;Vitória;SP;Pátio João Gabriel Ramos;Embaúbas;-46,241932;-21,705929;Crédito;39340;Gold;Feminino;37;31/03/2022 09:49;6541,23;5
+1870;Rocha;Belo Horizonte;ES;Loteamento Antônio Gonçalves;Camargos;-43,821731;-21,174115;Pagamento;43343;Gold;Feminino;44;27/11/2022 16:40;4276,39;5
+1872;Araújo da Cunha - EI;Belo Horizonte;RJ;Trevo Maria Alice da Rocha;Ouro Minas;-46,685753;-23,126681;Débito;85691;Standard;Masculino;44;12/06/2023 08:16;1358,85;4
+1872;Silva;São Paulo;ES;Travessa Rezende;Jardinópolis;-46,346171;-23,168105;Transferência;72640;Premium;Masculino;49;04/04/2020 01:46;6450,39;3
+1875;Freitas;São Paulo;ES;Aeroporto Pinto;Maria Goretti;-45,0042;-23,024661;Pagamento;13228;Standard;Masculino;37;26/07/2022 14:41;3366,76;5
+1875;Carvalho Freitas - ME;São Paulo;RJ;Vale da Cruz;Sagrada Família;-45,454204;-20,864903;Débito;65002;Premium;Feminino;21;;8080,02;3
+1876;Duarte;Rio de Janeiro;MG;Residencial Gomes;Concórdia;-45,133332;-23,333008;Transferência;45136;Standard;Feminino;70;25/05/2024 21:13;1569,62;2
+1877;Nunes Rodrigues - ME;Rio de Janeiro;SP;Praça de Nunes;Coração Eucarístico;-45,165338;-20,374423;Crédito;92213;Standard;Feminino;35;12/06/2023 10:23;3297,9;3
+1878;Araújo;São Paulo;RJ;Morro Sofia da Rocha;Vila Maria;-43,211454;-21,624699;Débito;12538;Premium;Masculino;55;17/04/2020 16:47;1633,75;2
+1880;Cardoso;Belo Horizonte;ES;Chácara das Neves;Vitoria Da Conquista;-44,544377;-21,480607;Transferência;59056;Standard;Feminino;51;17/04/2020 06:29;7632,3;4
+1880;das Neves Costela - ME;São Paulo;MG;Residencial Sales;Calafate;-43,987749;-21,870701;Transferência;19564;Premium;Feminino;40;31/01/2023 05:06;9443,92;2
+1882;Melo;Rio de Janeiro;SP;Via Cardoso;Beira Linha;-44,260579;-22,6114;Pagamento;16028;Premium;Masculino;69;28/05/2020 23:01;5009,59;2
+1882;da Conceição;Belo Horizonte;RJ;Alameda de Rocha;Vitoria;-44,335477;-23,403146;Crédito;36101;Standard;Masculino;24;10/03/2021 08:38;9700,06;1
+1884;da Rocha Ltda.;Belo Horizonte;SP;Parque Enzo Gabriel Monteiro;Brasil Industrial;-45,957347;-20,770099;Débito;71217;Premium;Masculino;43;23/11/2023 08:25;3291,37;1
+1884;da Rosa;São Paulo;RJ;Residencial Maria Vitória Santos;Lagoinha;-46,124299;-20,552254;Pagamento;93197;Gold;Feminino;34;10/03/2024 19:50;4428,44;3
+1885;Oliveira;Vitória;SP;Distrito de da Conceição;Nossa Senhora Da Conceição;-45,248837;-21,844724;Pagamento;26083;Premium;Feminino;38;09/08/2022 00:18;1823,93;2
+1889;Lopes Alves S/A;Vitória;ES;Vale Santos;Vila Mantiqueira;-46,529323;-23,140966;Débito;24835;Premium;Masculino;43;20/07/2023 05:54;7544;4
+1890;Barbosa - ME;Belo Horizonte;RJ;Alameda Eloah da Rosa;Fazendinha;-43,769482;-22,770786;Transferência;50924;Standard;Feminino;34;17/10/2020 10:05;4872,64;2
+1891;Monteiro Ltda.;Belo Horizonte;RJ;Vereda Alice Nogueira;Horto;-46,558837;-23,184029;Transferência;13694;Gold;Feminino;51;09/03/2020 21:18;5965,51;5
+1892;da Conceição S/A;Rio de Janeiro;RJ;Loteamento Mendes;Pedreira Padro Lopes;-45,321639;-20,517089;Pagamento;18697;Premium;Masculino;66;08/09/2021 09:31;9982,06;2
+1894;da Rocha Novaes - ME;São Paulo;SP;Sítio de Aragão;Inconfidência;-45,453874;-21,191643;Crédito;20323;Standard;Masculino;37;27/05/2023 18:32;1530,79;2
+1894;Ferreira Moraes e Filhos;Belo Horizonte;MG;Travessa Joaquim da Rocha;Vila São Dimas;-44,29011;-22,99867;Pagamento;61995;Standard;Masculino;19;29/06/2020 08:35;2819,67;4
+1895;Martins - ME;Vitória;SP;Sítio Nunes;Estoril;-44,713505;-20,819051;Débito;223;Premium;Feminino;19;12/08/2022 20:41;9435,62;5
+1897;Costa Silveira e Filhos;São Paulo;RJ;Pátio Laís Fogaça;Lagoa;-45,557748;-22,522299;Débito;94208;Standard;Feminino;51;24/09/2020 02:58;8352,14;2
+1897;Duarte da Conceição - EI;Rio de Janeiro;SP;Chácara Davi Lucca Lopes;Vila Paris;-43,751389;-20,636029;Pagamento;78756;Gold;Masculino;31;27/04/2024 02:47;8960,89;5
+1898;Almeida;Vitória;MG;Aeroporto Almeida;Novo Ouro Preto;-43,782633;-20,305996;Débito;81147;Standard;Masculino;18;29/06/2024 12:19;3468,18;3
+1903;Almeida;Vitória;ES;Quadra Moreira;Ermelinda;-45,867992;-21,028033;Crédito;81338;Standard;Masculino;56;14/10/2020 07:03;6506,47;1
+1905;Ferreira S/A;São Paulo;ES;Campo Jesus;Marçola;-45,559196;-20,835468;Crédito;64412;Premium;Masculino;64;16/09/2023 19:38;1392,17;1
+1905;Caldeira;Belo Horizonte;SP;Praia Caroline da Cunha;Floresta;-46,683814;-20,980694;Crédito;12064;Premium;Masculino;68;02/11/2021 14:26;7116,98;2
+1905;Mendes Pinto S.A.;São Paulo;RJ;Praça Joana Costa;Liberdade;-46,399901;-20,300557;Transferência;19692;Premium;Masculino;32;22/07/2020 12:55;8103,33;5
+1907;Araújo - ME;São Paulo;SP;Distrito Cardoso;Barão Homem De Melo 3ª Seção;-46,160203;-22,258538;Crédito;70015;Standard;Feminino;42;08/03/2022 19:01;1170,93;2
+1908;Alves;Rio de Janeiro;MG;Recanto de Fernandes;Vila Primeiro De Maio;-46,058787;-20,553821;Pagamento;29942;Standard;Feminino;60;06/08/2021 00:32;5750,29;2
+1908;Ramos;Rio de Janeiro;MG;Campo de Nogueira;Esplanada;-46,16905;-20,349178;Pagamento;43778;Premium;Masculino;20;24/04/2022 09:44;6162,13;4
+1911;Caldeira Ltda.;Vitória;ES;Viela de Costa;Vila Atila De Paiva;-46,345979;-21,539476;Débito;63863;Standard;Feminino;40;13/02/2020 05:47;9534,83;1
+1912;Fernandes Ltda.;Rio de Janeiro;ES;Parque de Araújo;Vila Batik;-43,255406;-21,701237;Crédito;63281;Premium;Feminino;30;22/04/2020 19:55;7281,76;2
+1913;Oliveira;São Paulo;MG;Viela da Costa;Cônego Pinheiro 2ª Seção;-43,258846;-21,082401;Pagamento;50485;Standard;Feminino;48;;3812,26;1
+1914;Fogaça e Filhos;Rio de Janeiro;SP;Loteamento Peixoto;Ademar Maldonado;-45,403941;-20,561354;Transferência;57921;Premium;Masculino;44;08/04/2022 12:09;2984,14;3
+1915;Campos Ramos - ME;Vitória;ES;Largo Larissa Lima;Salgado Filho;-45,951898;-21,362873;Crédito;38308;Gold;Masculino;37;13/03/2021 22:43;7890,29;1
+1916;Moreira;Rio de Janeiro;RJ;Via Souza;Eymard;-46,214803;-22,122728;Pagamento;30364;Premium;Feminino;65;01/11/2021 13:03;9364,64;4
+1918;da Rosa;Vitória;SP;Jardim de Moraes;Vila Batik;-44,558423;-21,781586;Crédito;12309;Standard;Masculino;61;04/01/2023 15:29;8455,79;5
+1920;Castro Fernandes - EI;Belo Horizonte;ES;Trevo de da Conceição;João Paulo Ii;-44,740652;-22,432489;Transferência;90070;Standard;Masculino;53;02/11/2020 20:19;4822,4;5
+1921;da Paz Azevedo Ltda.;São Paulo;SP;Recanto Pedro Henrique Melo;Serrano;-46,439039;-21,465107;Crédito;85265;Premium;Feminino;33;09/11/2022 16:36;5527,64;1
+1922;Dias;Rio de Janeiro;ES;Chácara Dias;Morro Dos Macacos;-43,583073;-20,655028;Crédito;97361;Standard;Feminino;61;19/05/2023 12:44;5372,37;5
+1925;Costa Farias Ltda.;Belo Horizonte;MG;Recanto de Pires;Conjunto Paulo Vi;-46,674095;-22,127988;Débito;61835;Premium;Feminino;55;04/01/2023 22:57;3217,58;3
+1925;Fogaça;Vitória;MG;Trevo de Correia;Carmo;-44,814332;-21,276192;Transferência;97388;Standard;Masculino;45;23/02/2021 10:11;3950,09;5
+1925;Carvalho Silveira e Filhos;Rio de Janeiro;SP;Sítio de Nunes;Vila Aeroporto Jaraguá;-44,204217;-23,017915;Débito;66391;Standard;Masculino;37;16/05/2022 15:18;6091,53;5
+1926;Novaes;Rio de Janeiro;RJ;Estação Barros;Nova America;-43,485225;-22,248597;Débito;88284;Premium;Masculino;32;02/10/2024 15:56;2997,1;4
+1927;da Cruz da Luz S.A.;São Paulo;SP;Viela de Farias;Santo Agostinho;-45,17353;-21,605214;Débito;75858;Premium;Feminino;37;16/10/2022 21:37;3384,26;5
+1930;Cardoso - EI;São Paulo;MG;Lago Correia;Conjunto Lagoa;-43,511199;-21,12876;Crédito;30214;Gold;Masculino;43;05/05/2022 08:15;2640,42;4
+1931;Mendes Jesus S.A.;Vitória;ES;Praça de Fogaça;Jardim Felicidade;-44,293915;-21,201154;Débito;55217;Gold;Feminino;27;28/03/2023 11:20;5226,05;2
+1933;Barbosa;São Paulo;RJ;Avenida da Cruz;Marçola;-45,447407;-20,843865;Crédito;63507;Premium;Feminino;40;13/01/2020 00:54;6081;5
+1933;Cardoso Pereira Ltda.;Vitória;MG;Viaduto de Cardoso;Conjunto Floramar;-45,591897;-22,956012;Débito;59184;Premium;Feminino;67;30/06/2021 17:29;8048,28;5
+1934;Novaes Barbosa - EI;Belo Horizonte;SP;Fazenda de Almeida;Prado;-44,370087;-23,535004;Pagamento;59626;Gold;Feminino;31;17/10/2023 10:28;2816,58;1
+1934;Caldeira;Rio de Janeiro;ES;Vereda de da Luz;Flavio De Oliveira;-43,999677;-23,411357;Crédito;77852;Gold;Masculino;70;13/07/2022 09:14;7771,16;1
+1936;da Luz Dias - ME;São Paulo;RJ;Trevo Pires;Maravilha;-45,111414;-21,795757;Pagamento;87745;Standard;Feminino;70;05/05/2021 18:28;3531,8;1
+1937;Mendes;São Paulo;MG;Rua de das Neves;Vila São Geraldo;-45,357563;-23,392697;Transferência;61998;Premium;Feminino;69;19/05/2020 13:36;5398,51;1
+1938;Fernandes e Filhos;Vitória;ES;Favela de Cunha;Vila Esplanada;-44,15595;-22,667624;Crédito;12326;Gold;Masculino;24;20/06/2024 19:59;2445,8;5
+1938;Rocha;Vitória;MG;Rodovia Rebeca das Neves;Jonas Veiga;-44,554417;-22,729117;Transferência;24303;Standard;Feminino;61;29/10/2024 10:05;3502,44;5
+1939;Moreira Nogueira e Filhos;Vitória;ES;Vale de Moura;Luxemburgo;-45,372935;-21,655737;Crédito;46902;Premium;Masculino;45;24/07/2023 22:24;435,62;2
+1939;Cunha S.A.;Vitória;MG;Viela Larissa das Neves;Vila Ecológica;-45,056102;-22,380074;Pagamento;86783;Standard;Masculino;40;04/12/2020 19:40;468,88;4
+1940;Azevedo - ME;Rio de Janeiro;MG;Aeroporto Brenda Monteiro;Cidade Jardim;-43,539334;-23,562822;Débito;29339;Standard;Feminino;61;31/07/2021 08:23;713,33;3
+1941;Melo;Belo Horizonte;MG;Viela de da Costa;Sion;-46,425115;-23,367913;Transferência;13850;Gold;Feminino;29;01/06/2021 11:19;198,65;2
+1941;Porto Lopes S/A;São Paulo;MG;Pátio Isadora Silveira;São Salvador;-45,972661;-22,241348;Crédito;63946;Premium;Feminino;23;05/02/2021 07:36;1120,56;2
+1943;Moraes;Rio de Janeiro;ES;Ladeira Jesus;Vila Mantiqueira;-46,473915;-23,563538;Pagamento;63007;Gold;Masculino;55;18/05/2023 10:45;5747,7;2
+1943;Teixeira;Vitória;SP;Campo Jesus;Belvedere;-43,348602;-22,051808;Transferência;42570;Premium;Feminino;36;19/07/2024 04:04;6125,17;4
+1944;Rodrigues;Belo Horizonte;MG;Lagoa Ana Beatriz Moreira;Itaipu;-45,236076;-22,179099;Crédito;49559;Standard;Masculino;68;06/12/2024 03:36;5347,41;4
+1945;Almeida Castro S/A;Belo Horizonte;RJ;Distrito Juan Melo;Sport Club;-46,478282;-22,723546;Débito;81587;Premium;Feminino;24;07/06/2020 07:58;4853,46;5
+1945;Moraes Moreira S/A;Belo Horizonte;RJ;Parque Rodrigues;Castanheira;-43,665998;-20,561933;Transferência;39665;Standard;Feminino;70;08/11/2022 20:07;6422,47;1
+1945;Gomes;São Paulo;MG;Esplanada Barbosa;Lagoinha;-44,343016;-20,691704;Débito;50782;Standard;Feminino;54;23/11/2022 16:35;8837,54;1
+1947;Farias - ME;Rio de Janeiro;ES;Esplanada de Lopes;Engenho Nogueira;-44,482899;-22,714826;Transferência;10128;Standard;Feminino;39;23/07/2023 19:35;1078,37;2
+1948;Novaes - ME;Belo Horizonte;SP;Loteamento João Pedro Santos;Vila Nova Dos Milionarios;-46,484259;-20,757212;Pagamento;51529;Standard;Feminino;20;04/01/2022 17:54;527,55;5
+1948;da Cunha;Rio de Janeiro;RJ;Núcleo da Cruz;Petropolis;-45,3547;-23,17332;Crédito;16207;Standard;Feminino;34;28/10/2020 00:46;4679,65;1
+1948;Freitas Gonçalves S.A.;São Paulo;RJ;Trecho das Neves;Cinquentenário;-46,245319;-22,897295;Débito;22873;Premium;Masculino;20;08/02/2021 04:46;6044,67;1
+1948;Gonçalves;Belo Horizonte;ES;Passarela Oliveira;Trevo;-46,121526;-20,458002;Transferência;98423;Gold;Feminino;67;19/07/2023 07:59;6100,33;2
+1949;Dias - ME;Rio de Janeiro;ES;Aeroporto Catarina Ferreira;Virgínia;-43,927556;-21,324147;Pagamento;11651;Gold;Masculino;34;07/11/2020 23:43;2225,22;5
+1950;Araújo - ME;Rio de Janeiro;RJ;Parque de Teixeira;Marçola;-45,082821;-23,011825;Débito;11447;Standard;Masculino;50;02/09/2024 14:33;4759,52;4
+1950;da Conceição;São Paulo;RJ;Praça de Novaes;Floramar;-45,07747;-21,529616;Débito;18217;Gold;Feminino;67;19/02/2023 07:20;4872,96;5
+1950;Gomes;Rio de Janeiro;RJ;Passarela Araújo;Xangri-Lá;-43,764775;-21,194981;Transferência;48926;Standard;Feminino;50;16/11/2023 14:19;6996,74;1
+1951;Silva Gonçalves S/A;Rio de Janeiro;SP;Distrito de Monteiro;Vila Formosa;-46,260221;-21,076652;Pagamento;23045;Gold;Masculino;25;17/01/2023 04:52;3291,37;2
+1951;Dias Campos S.A.;Rio de Janeiro;ES;Praça Eduardo Moreira;Vila Real 1ª Seção;-46,566995;-20,935073;Transferência;54015;Gold;Feminino;32;29/11/2021 02:09;9237,28;4
+1953;Lima Ltda.;Belo Horizonte;RJ;Campo de Pinto;Santa Monica;-45,84849;-22,306245;Crédito;57910;Premium;Feminino;24;25/11/2022 02:25;9518,53;2
+1955;Melo S.A.;Rio de Janeiro;RJ;Feira Aragão;Vitoria;-43,44622;-22,484284;Débito;24414;Standard;Feminino;42;08/06/2021 13:55;4701,7;4
+1956;Moura Ltda.;São Paulo;RJ;Praia de da Rocha;Pilar;-43,688345;-20,805339;Transferência;32084;Standard;Masculino;54;17/07/2023 15:41;7406,37;4
+1957;Moreira;Vitória;ES;Alameda Peixoto;Marieta 2ª Seção;-44,224812;-20,677767;Débito;37207;Premium;Feminino;31;01/08/2021 00:21;1913,76;1
+1957;Aragão;Belo Horizonte;SP;Quadra de da Paz;Beira Linha;-46,30642;-22,537201;Transferência;50591;Gold;Masculino;30;04/07/2023 04:00;6617,71;3
+1958;Cardoso Pereira - EI;Rio de Janeiro;ES;Vale Ramos;Vila Nova Cachoeirinha 1ª Seção;-44,942222;-21,993962;Transferência;77884;Standard;Masculino;23;11/04/2021 06:06;4770,48;4
+1959;das Neves;Belo Horizonte;ES;Residencial de Barros;Vila São Geraldo;-43,525866;-22,612083;Crédito;68056;Gold;Feminino;56;08/07/2023 15:10;2516,12;1
+1959;Silveira;São Paulo;ES;Favela Peixoto;Tiradentes;-44,5279;-20,841521;Crédito;38944;Premium;Feminino;40;05/05/2022 01:12;4417,08;1
+1959;Rodrigues Teixeira S/A;São Paulo;SP;Largo de das Neves;Vila Fumec;-45,614559;-22,073443;Crédito;75489;Standard;Masculino;35;25/06/2021 20:43;8586,98;5
+1960;Peixoto Ltda.;São Paulo;MG;Fazenda de Mendes;Madre Gertrudes;-44,016908;-20,932623;Pagamento;28456;Gold;Masculino;68;16/12/2022 16:02;6229,28;4
+1962;da Mota - EI;São Paulo;MG;Trevo de Silva;Serra Do Curral;-46,31133;-20,362158;Débito;65780;Standard;Masculino;37;08/02/2020 06:43;5667,43;4
+1962;Porto da Cruz - EI;Rio de Janeiro;RJ;Travessa Nunes;Marçola;-43,594638;-20,645482;Débito;85489;Gold;Feminino;39;28/08/2023 23:43;7954,92;5
+1963;da Luz Sales e Filhos;Rio de Janeiro;RJ;Vale Santos;Nossa Senhora Do Rosário;-43,463771;-22,723156;Transferência;32170;Gold;Feminino;52;05/12/2021 07:22;1090,4;1
+1963;Mendes da Rocha S.A.;São Paulo;SP;Recanto Valentina da Cruz;Santo André;-43,514962;-23,143266;Pagamento;23175;Gold;Masculino;47;22/11/2021 11:48;8193,6;1
+1964;da Cunha da Costa S.A.;Vitória;RJ;Fazenda Araújo;São Francisco Das Chagas;-44,602361;-21,540859;Débito;52212;Premium;Masculino;66;25/02/2021 03:47;2641,34;2
+1964;da Luz;São Paulo;RJ;Estrada Anthony Santos;Vila São Dimas;-46,052723;-21,714926;Pagamento;13203;Premium;Feminino;66;20/05/2020 18:48;4119,38;5
+1965;da Paz Ltda.;Belo Horizonte;RJ;Trecho Martins;Jardim Leblon;-45,506812;-21,996051;Pagamento;10170;Standard;Masculino;59;26/03/2023 23:18;6579,37;3
+1965;Vieira Ramos - ME;Belo Horizonte;MG;Recanto Diogo Cardoso;Coração Eucarístico;-46,328712;-23,232035;Débito;18578;Standard;Feminino;51;19/06/2021 20:37;9959,76;3
+1966;da Cunha e Filhos;Vitória;ES;Morro de da Paz;Graça;-44,357186;-20,673339;Débito;66257;Premium;Feminino;58;14/04/2021 14:35;7732,74;3
+1967;Campos Cavalcanti Ltda.;Belo Horizonte;SP;Ladeira Rezende;Teixeira Dias;-45,252187;-22,496692;Transferência;24112;Standard;Masculino;19;12/03/2022 11:47;3480,65;4
+1967;Peixoto;Rio de Janeiro;RJ;Colônia Rocha;Pousada Santo Antonio;-46,372833;-20,895999;Pagamento;76467;Gold;Masculino;27;13/11/2022 06:32;4317,11;5
+1967;Araújo;São Paulo;RJ;Quadra de Silva;Flamengo;-43,994466;-21,80544;Débito;21766;Standard;Masculino;44;15/03/2022 09:42;9843,3;2
+1968;Fogaça;Rio de Janeiro;SP;Fazenda Sarah Barbosa;Andiroba;-43,71951;-21,780573;Transferência;62843;Standard;Feminino;43;14/10/2022 02:38;7204,93;2
+1969;Pinto Lopes e Filhos;Belo Horizonte;SP;Vila de Gomes;Alto Caiçaras;-46,667088;-22,406106;Crédito;69149;Standard;Masculino;35;20/07/2020 19:53;1620,18;4
+1971;Viana;Belo Horizonte;SP;Vereda André Moraes;Vila São Geraldo;-45,662319;-22,78077;Transferência;38678;Standard;Masculino;61;12/03/2020 09:19;8841,31;2
+1972;Lima;Rio de Janeiro;RJ;Loteamento de Costa;São Gonçalo;-46,478496;-21,490013;Crédito;76050;Standard;Feminino;66;12/02/2022 18:17;4402,91;3
+1973;Costela;Vitória;ES;Loteamento de das Neves;Santa Isabel;-45,928428;-21,231475;Transferência;77484;Standard;Masculino;56;24/04/2021 13:04;5428,98;2
+1974;Viana S.A.;Rio de Janeiro;RJ;Viaduto Oliveira;Planalto;-45,291887;-20,339312;Débito;63410;Premium;Masculino;28;09/10/2024 03:26;4820,43;2
+1975;Fogaça - ME;Rio de Janeiro;SP;Lago Carlos Eduardo Ferreira;Vila Maloca;-44,108946;-20,545073;Crédito;86806;Premium;Masculino;55;30/11/2020 18:45;1240,39;1
+1975;Rezende da Paz - ME;Rio de Janeiro;MG;Colônia de Pires;Carmo;-46,400201;-22,394177;Transferência;36211;Premium;Feminino;50;02/09/2021 23:17;8345,89;1
+1976;Mendes;Vitória;ES;Praça da Conceição;Bandeirantes;-44,222861;-22,906934;Transferência;16108;Premium;Feminino;31;19/01/2020 09:59;966,93;4
+1976;Moura;Rio de Janeiro;SP;Conjunto Correia;Jatobá;-44,216005;-22,059083;Pagamento;74484;Premium;Masculino;70;19/02/2024 04:57;5506,24;3
+1977;Barbosa;São Paulo;RJ;Vale Emanuel Fogaça;Vila De Sá;-44,195028;-20,570853;Pagamento;28898;Gold;Feminino;64;25/04/2024 17:57;5407,96;2
+1978;da Mota Ltda.;São Paulo;ES;Favela Souza;Marajó;-43,311488;-23,090903;Transferência;14823;Premium;Feminino;39;06/08/2021 10:16;1652,92;5
+1979;Silveira;São Paulo;ES;Avenida de Rocha;Teixeira Dias;-46,224384;-22,302719;Transferência;95379;Gold;Feminino;63;26/05/2020 03:12;6139,4;4
+1980;Fernandes Martins S.A.;Vitória;SP;Condomínio de Farias;Maria Goretti;-43,83092;-20,564608;Crédito;63540;Standard;Masculino;54;25/05/2023 20:52;2792,26;5
+1980;Moura;Belo Horizonte;SP;Estrada da Rocha;Bernadete;-43,59472;-20,440935;Débito;24082;Gold;Masculino;48;03/03/2024 11:26;3608,36;4
+1980;Mendes - EI;Belo Horizonte;ES;Aeroporto de da Cruz;Cidade Jardim;-44,74936;-23,494431;Transferência;40352;Gold;Masculino;66;19/03/2024 07:47;4269,19;3
+1981;Gomes;Vitória;MG;Loteamento de Sales;Vila Jardim Leblon;-46,469613;-22,851701;Transferência;40282;Gold;Masculino;57;19/08/2021 23:27;3454,69;2
+1981;da Costa;São Paulo;MG;Viela Ana Julia Novaes;Vila Nova Cachoeirinha 3ª Seção;-45,209924;-22,667126;Crédito;93182;Standard;Feminino;52;27/07/2022 04:58;9199,56;5
+1983;Lima S.A.;Vitória;MG;Morro de Pereira;Conjunto Celso Machado;-44,477748;-20,788658;Transferência;53922;Premium;Masculino;20;17/01/2022 08:29;185265,06;5
+1984;Ferreira Lima S/A;São Paulo;MG;Distrito Ana Sophia Araújo;Mirante;-43,722178;-21,505656;Transferência;42929;Standard;Masculino;49;21/10/2023 17:07;5834,36;5
+1984;da Mota;Belo Horizonte;ES;Travessa Luiz Fernando da Costa;Engenho Nogueira;-45,554893;-23,39987;Débito;87088;Standard;Masculino;23;17/06/2024 03:50;9436,95;3
+1985;Viana;Belo Horizonte;ES;Colônia Rodrigues;Cônego Pinheiro 2ª Seção;-45,986034;-22,632072;Pagamento;21934;Premium;Masculino;35;17/10/2024 23:44;1210,37;5
+1986;Oliveira Silva - EI;Vitória;MG;Campo de da Luz;Taquaril;-45,265845;-22,189304;Crédito;79473;Premium;Feminino;34;10/06/2021 00:18;9136,41;1
+1989;Lima - ME;Vitória;MG;Fazenda Rebeca Ribeiro;Alpes;-46,201024;-22,333508;Débito;64362;Premium;Masculino;20;08/06/2024 23:36;3799,28;4
+1989;Moraes;São Paulo;ES;Praça Enrico Gomes;Vera Cruz;-43,565035;-22,78937;Pagamento;39495;Gold;Masculino;59;08/08/2024 01:31;4863,71;5
+1990;Fernandes da Mota S.A.;Vitória;MG;Largo de da Mata;Padre Eustáquio;-45,591327;-21,11002;Crédito;37491;Gold;Feminino;60;26/04/2020 04:28;2351,52;5
+1991;Freitas - ME;Belo Horizonte;ES;Jardim Cunha;Vila Da Paz;-43,546183;-21,941986;Crédito;98941;Standard;Masculino;65;06/06/2024 06:32;4321,03;2
+1991;Nogueira Dias e Filhos;Rio de Janeiro;ES;Jardim Aragão;Horto;-43,610892;-22,597316;Pagamento;42234;Premium;Masculino;67;22/11/2023 19:22;5549,47;2
+1991;Aragão;São Paulo;MG;Feira de Duarte;Ipe;-46,163172;-22,747303;Pagamento;46497;Premium;Feminino;42;29/07/2021 05:09;7485,19;3
+1992;Moreira;São Paulo;RJ;Vereda Nicolas Martins;Santa Inês;-45,650339;-21,891244;Crédito;17732;Premium;Feminino;20;08/06/2023 02:56;3410,96;5
+1992;da Mota Cardoso Ltda.;Rio de Janeiro;RJ;Rodovia de da Cruz;Túnel De Ibirité;-43,405618;-21,337071;Débito;50597;Gold;Masculino;24;28/07/2021 15:24;8176,18;5
+1993;Fernandes;São Paulo;MG;Alameda Barbosa;Vila Aeroporto;-46,374256;-21,298703;Débito;53545;Gold;Feminino;49;06/07/2021 05:24;236,51;3
+1993;Aragão;Rio de Janeiro;SP;Recanto Laís Gomes;Vila Independencia 2ª Seção;-46,115019;-20,760889;Pagamento;56439;Premium;Feminino;19;07/02/2022 00:11;9526,88;4
+1996;Lima;Rio de Janeiro;MG;Área de Pires;Vila Nova Dos Milionarios;-45,742656;-22,172034;Transferência;32615;Standard;Feminino;23;02/10/2023 21:22;7009,88;2
+1997;Moreira;Rio de Janeiro;RJ;Campo da Mota;Vila Nova Gameleira 1ª Seção;-45,069945;-22,564674;Débito;46283;Standard;Masculino;23;10/12/2020 06:38;6636,84;3
+1997;Dias;Rio de Janeiro;RJ;Sítio Vieira;Padre Eustáquio;-43,653644;-23,543255;Pagamento;98880;Premium;Feminino;23;30/08/2020 03:07;8994,5;5
+1998;Vieira e Filhos;Vitória;ES;Parque de da Costa;Vila Mantiqueira;-43,346331;-21,085926;Débito;29640;Standard;Feminino;67;12/03/2024 09:14;7842,87;2
+1998;Nunes;Vitória;RJ;Rodovia de Jesus;Vila Independencia 2ª Seção;-46,695106;-21,745428;Crédito;28129;Premium;Masculino;38;20/10/2024 11:48;9083,26;2
+1999;Gonçalves;São Paulo;RJ;Área Pereira;Olhos D'água;-45,151;-20,389098;Pagamento;98912;Gold;Masculino;26;06/09/2024 06:41;1580,1;2
